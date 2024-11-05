@@ -24,28 +24,56 @@
         th, td {
             padding: 5px;
             text-align: left;
-            height: 10px;
         }
     </style>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', {
+            'packages':['geomap'],
+            // Note: you will need to get a mapsApiKey for your project.
+            // See: https://developers.google.com/chart/interactive/docs/basic_load_libs#load-settings
+            'mapsApiKey': 'AIzaSyD-9tSrke72PouQMnMX-a7eZSW0jkFMBWY'
+        });
+        google.charts.setOnLoadCallback(drawMap);
+
+        function drawMap() {
+            var data = google.visualization.arrayToDataTable([
+                ['Country', 'Popularity'],
+                ['Germany', 200],
+                ['United States', 300],
+                ['Brazil', 400],
+                ['Canada', 500],
+                ['France', 600],
+                ['RU', 700]
+            ]);
+
+            var options = {};
+            options['dataMode'] = 'regions';
+
+            var container = document.getElementById('regions_div');
+            var geomap = new google.visualization.GeoMap(container);
+
+            geomap.draw(data, options);
+        };
+    </script>
 </head>
 <body>
     <header>
-        <h1>バフェットによる商社保有</h1>
+        <h1>データ収集</h1>
     </header>
 
     <article>
-        <p>4577ダイトウボウ株式会社と同じ動きをする株</p>
+        <p>各国のGDP</p>
     </article>
 
-    <!-- 画像とテーブルを表示 -->
-    <section>
-        <img src="Image/4577ダイトウボウ株式会社_Filtered_Trend_Plot.png" alt="サンプル画像">
-        <div id="tableContainer1"></div>
-    </section>
+    <a href="https://www.imf.org/en/Publications/WEO">データソース</a>
 
     <article>
         <p>2023国別GDP</p>
     </article>
+
+    <div id="regions_div" style="width: 900px; height: 500px;"></div>
+    <div id="tableContainer1"></div>
 
     <script>
         // JSONファイルを読み込み、データをテーブルに変換する関数
@@ -59,18 +87,18 @@
                 })
                 .then(data => {
                     let tableHtml = "<table><thead><tr>";
-    
+
                     // ヘッダー行の生成
                     tableHtml += `<th>国名</th><th>GDP (2023, 単位: 億ドル)</th>`;
                     tableHtml += "</tr></thead><tbody>";
-    
+
                     // データ行の生成
                     data.forEach(item => {
                         tableHtml += "<tr>";
                         tableHtml += `<td>${item.Country}</td><td>${item["2023"]}</td>`;
                         tableHtml += "</tr>";
                     });
-    
+
                     tableHtml += "</tbody></table>";
                     document.getElementById(containerId).innerHTML = tableHtml;
                 })
@@ -79,12 +107,11 @@
                     document.getElementById(containerId).innerHTML = "<p>データの読み込み中にエラーが発生しました。後でもう一度お試しください。</p>";
                 });
         }
-    
+
         // ページロード時にJSONを読み込む
         document.addEventListener("DOMContentLoaded", function() {
             loadJSONAndDisplay("JSONTable/data.json", "tableContainer1"); // JSONファイルのパスを指定
         });
     </script>
-    
 </body>
 </html>

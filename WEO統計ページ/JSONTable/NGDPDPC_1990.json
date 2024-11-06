@@ -1,597 +1,746 @@
 [
     {
+        "Rank":1,
         "Country":"Switzerland",
         "1990":39842.782
     },
     {
+        "Rank":2,
         "Country":"Luxembourg",
         "1990":33067.032
     },
     {
+        "Rank":3,
         "Country":"Sweden",
         "1990":30078.707
     },
     {
+        "Rank":4,
         "Country":"Finland",
         "1990":28491.135
     },
     {
+        "Rank":5,
         "Country":"Norway",
         "1990":28187.293
     },
     {
+        "Rank":6,
         "Country":"United Arab Emirates",
         "1990":27484.598
     },
     {
+        "Rank":7,
         "Country":"Denmark",
         "1990":26914.854
     },
     {
+        "Rank":8,
         "Country":"Japan",
         "1990":25809.663
     },
     {
+        "Rank":9,
         "Country":"Iceland",
         "1990":25629.431
     },
     {
+        "Rank":10,
         "Country":"United States",
         "1990":23847.977
     },
     {
+        "Rank":11,
         "Country":"France",
         "1990":22285.975
     },
     {
+        "Rank":12,
         "Country":"Austria",
         "1990":21827.44
     },
     {
+        "Rank":13,
         "Country":"Netherlands",
         "1990":21612.043
     },
     {
+        "Rank":14,
         "Country":"Canada",
         "1990":21572.137
     },
     {
+        "Rank":15,
         "Country":"United Kingdom",
         "1990":20913.04
     },
     {
+        "Rank":16,
         "Country":"Italy",
         "1990":20536.935
     },
     {
+        "Rank":17,
         "Country":"The Bahamas",
         "1990":20460.303
     },
     {
+        "Rank":18,
         "Country":"Germany",
         "1990":20323.326
     },
     {
+        "Rank":19,
         "Country":"Belgium",
         "1990":20119.935
     },
     {
+        "Rank":20,
         "Country":"Brunei Darussalam",
         "1990":19428.846
     },
     {
+        "Rank":21,
         "Country":"Australia",
         "1990":18877.582
     },
     {
+        "Rank":22,
         "Country":"Spain",
         "1990":13710.748
     },
     {
+        "Rank":23,
         "Country":"Ireland",
         "1990":13648.814
     },
     {
+        "Rank":24,
         "Country":"New Zealand",
         "1990":13446.23
     },
     {
+        "Rank":25,
         "Country":"Hong Kong SAR",
         "1990":13374.312
     },
     {
+        "Rank":26,
         "Country":"Qatar",
         "1990":13150.172
     },
     {
+        "Rank":27,
         "Country":"Israel",
         "1990":13117.723
     },
     {
+        "Rank":28,
         "Country":"Singapore",
         "1990":12763.342
     },
     {
+        "Rank":29,
         "Country":"Islamic Republic of Iran",
         "1990":10661.483
     },
     {
+        "Rank":30,
         "Country":"Bahrain",
         "1990":10612.215
     },
     {
+        "Rank":31,
         "Country":"Cyprus",
         "1990":10359.998
     },
     {
+        "Rank":32,
         "Country":"Greece",
         "1990":9679.318
     },
     {
+        "Rank":33,
         "Country":"Puerto Rico",
         "1990":8675.576
     },
     {
+        "Rank":34,
         "Country":"Saudi Arabia",
         "1990":8562.256
     },
     {
+        "Rank":35,
         "Country":"Taiwan Province of China",
         "1990":8167.2
     },
     {
+        "Rank":36,
         "Country":"Barbados",
         "1990":8002.166
     },
     {
+        "Rank":37,
         "Country":"Portugal",
         "1990":7957.259
     },
     {
+        "Rank":38,
         "Country":"Antigua and Barbuda",
         "1990":7942.365
     },
     {
+        "Rank":39,
         "Country":"Libya",
         "1990":7424.17
     },
     {
+        "Rank":40,
         "Country":"Oman",
         "1990":7267.924
     },
     {
+        "Rank":41,
         "Country":"Korea",
         "1990":6848.715
     },
     {
+        "Rank":42,
         "Country":"Gabon",
         "1990":6815.634
     },
     {
+        "Rank":43,
         "Country":"Seychelles",
         "1990":5302.844
     },
     {
+        "Rank":44,
         "Country":"St. Kitts and Nevis",
         "1990":4994.094
     },
     {
+        "Rank":45,
         "Country":"Argentina",
         "1990":4857.796
     },
     {
+        "Rank":46,
         "Country":"Trinidad and Tobago",
         "1990":4221.813
     },
     {
+        "Rank":47,
         "Country":"St. Lucia",
         "1990":4069.783
     },
     {
+        "Rank":48,
         "Country":"T\u30fbrkiye",
         "1990":3738.161
     },
     {
+        "Rank":49,
         "Country":"Mexico",
         "1990":3640.26
     },
     {
+        "Rank":50,
         "Country":"Uruguay",
         "1990":3588.34
     },
     {
+        "Rank":51,
         "Country":"South Africa",
         "1990":3425.585
     },
     {
+        "Rank":52,
         "Country":"Bulgaria",
         "1990":3407.07
     },
     {
+        "Rank":53,
         "Country":"Hungary",
         "1990":3312.337
     },
     {
+        "Rank":54,
         "Country":"Brazil",
         "1990":3106.116
     },
     {
+        "Rank":55,
         "Country":"Grenada",
         "1990":2887.011
     },
     {
+        "Rank":56,
         "Country":"Belize",
         "1990":2819.969
     },
     {
+        "Rank":57,
         "Country":"Dominica",
         "1990":2819.552
     },
     {
+        "Rank":58,
         "Country":"Botswana",
         "1990":2797.478
     },
     {
+        "Rank":59,
         "Country":"Algeria",
         "1990":2684.465
     },
     {
+        "Rank":60,
         "Country":"Mauritius",
         "1990":2590.272
     },
     {
+        "Rank":61,
         "Country":"Malaysia",
         "1990":2586.278
     },
     {
+        "Rank":62,
         "Country":"Chile",
         "1990":2521.569
     },
     {
+        "Rank":63,
         "Country":"Venezuela",
         "1990":2492.939
     },
     {
+        "Rank":64,
         "Country":"St. Vincent and the Grenadines",
         "1990":2456.285
     },
     {
+        "Rank":65,
         "Country":"Panama",
         "1990":2397.225
     },
     {
+        "Rank":66,
         "Country":"Jamaica",
         "1990":1971.695
     },
     {
+        "Rank":67,
         "Country":"Fiji",
         "1990":1959.194
     },
     {
+        "Rank":68,
         "Country":"Namibia",
         "1990":1908.834
     },
     {
+        "Rank":69,
         "Country":"Costa Rica",
         "1990":1880.75
     },
     {
+        "Rank":70,
         "Country":"Egypt",
         "1990":1870.847
     },
     {
+        "Rank":71,
         "Country":"Tunisia",
         "1990":1716.723
     },
     {
+        "Rank":72,
         "Country":"Colombia",
         "1990":1691.106
     },
     {
+        "Rank":73,
         "Country":"Romania",
         "1990":1641.855
     },
     {
+        "Rank":74,
         "Country":"Poland",
         "1990":1629.047
     },
     {
+        "Rank":75,
         "Country":"Thailand",
         "1990":1564.175
     },
     {
+        "Rank":76,
         "Country":"Eswatini",
         "1990":1558.18
     },
     {
+        "Rank":77,
         "Country":"Tonga",
         "1990":1498.504
     },
     {
+        "Rank":78,
         "Country":"Suriname",
         "1990":1412.471
     },
     {
+        "Rank":79,
         "Country":"Angola",
         "1990":1397.414
     },
     {
+        "Rank":80,
         "Country":"Morocco",
         "1990":1351.48
     },
     {
+        "Rank":81,
         "Country":"C\u30fbte d'Ivoire",
         "1990":1348.805
     },
     {
+        "Rank":82,
         "Country":"Mongolia",
         "1990":1288.653
     },
     {
+        "Rank":83,
         "Country":"Peru",
         "1990":1285.664
     },
     {
+        "Rank":84,
         "Country":"Papua New Guinea",
         "1990":1265.882
     },
     {
+        "Rank":85,
         "Country":"Cameroon",
         "1990":1255.123
     },
     {
+        "Rank":86,
         "Country":"Cabo Verde",
         "1990":1224.464
     },
     {
+        "Rank":87,
         "Country":"Republic of Congo",
         "1990":1219.584
     },
     {
+        "Rank":88,
         "Country":"Jordan",
         "1990":1202.925
     },
     {
+        "Rank":89,
         "Country":"Democratic Republic of the Congo",
         "1990":1192.38
     },
     {
+        "Rank":90,
         "Country":"Paraguay",
         "1990":1185.277
     },
     {
+        "Rank":91,
         "Country":"Vanuatu",
         "1990":1141.043
     },
     {
+        "Rank":92,
         "Country":"Ecuador",
         "1990":1127.223
     },
     {
+        "Rank":93,
         "Country":"Dominican Republic",
         "1990":1123.244
     },
     {
+        "Rank":94,
         "Country":"Maldives",
         "1990":1091.55
     },
     {
+        "Rank":95,
         "Country":"S\u30fbo Tom\u30fb and Pr\u30fbncipe",
         "1990":1050.252
     },
     {
+        "Rank":96,
         "Country":"Ghana",
         "1990":1045.595
     },
     {
+        "Rank":97,
         "Country":"Zimbabwe",
         "1990":1036.512
     },
     {
+        "Rank":98,
         "Country":"Honduras",
         "1990":993.487
     },
     {
+        "Rank":99,
         "Country":"Syria",
         "1990":967.145
     },
     {
+        "Rank":100,
         "Country":"Yemen",
         "1990":963.773
     },
     {
+        "Rank":101,
         "Country":"Guyana",
         "1990":950.968
     },
     {
+        "Rank":102,
         "Country":"Senegal",
         "1990":936.148
     },
     {
+        "Rank":103,
         "Country":"Comoros",
         "1990":931.447
     },
     {
+        "Rank":104,
         "Country":"Mauritania",
         "1990":898.741
     },
     {
+        "Rank":105,
         "Country":"El Salvador",
         "1990":891.759
     },
     {
+        "Rank":106,
         "Country":"Guatemala",
         "1990":832.552
     },
     {
+        "Rank":107,
         "Country":"Philippines",
         "1990":828.821
     },
     {
+        "Rank":108,
         "Country":"The Gambia",
         "1990":790.827
     },
     {
+        "Rank":109,
         "Country":"Lebanon",
         "1990":779.344
     },
     {
+        "Rank":110,
         "Country":"Indonesia",
         "1990":770.757
     },
     {
+        "Rank":111,
         "Country":"Kenya",
         "1990":737.207
     },
     {
+        "Rank":112,
         "Country":"Bolivia",
         "1990":723.431
     },
     {
+        "Rank":113,
         "Country":"Togo",
         "1990":715.236
     },
     {
+        "Rank":114,
         "Country":"Solomon Islands",
         "1990":684.653
     },
     {
+        "Rank":115,
         "Country":"Albania",
         "1990":675.736
     },
     {
+        "Rank":116,
         "Country":"Nigeria",
         "1990":652.915
     },
     {
+        "Rank":117,
         "Country":"Guinea",
         "1990":616.321
     },
     {
+        "Rank":118,
         "Country":"Pakistan",
         "1990":615.815
     },
     {
+        "Rank":119,
         "Country":"Guinea-Bissau",
         "1990":571.817
     },
     {
+        "Rank":120,
         "Country":"Sri Lanka",
         "1990":564.868
     },
     {
+        "Rank":121,
         "Country":"Benin",
         "1990":562.898
     },
     {
+        "Rank":122,
         "Country":"Bhutan",
         "1990":552.933
     },
     {
+        "Rank":123,
         "Country":"Central African Republic",
         "1990":547.344
     },
     {
+        "Rank":124,
         "Country":"Zambia",
         "1990":542.462
     },
     {
+        "Rank":125,
         "Country":"Kiribati",
         "1990":505.422
     },
     {
+        "Rank":126,
         "Country":"Uganda",
         "1990":472.193
     },
     {
+        "Rank":127,
         "Country":"Niger",
         "1990":435.341
     },
     {
+        "Rank":128,
         "Country":"Malawi",
         "1990":420.593
     },
     {
+        "Rank":129,
         "Country":"Rwanda",
         "1990":417.717
     },
     {
+        "Rank":130,
         "Country":"Chad",
         "1990":417.245
     },
     {
+        "Rank":131,
         "Country":"Lao P.D.R.",
         "1990":406.199
     },
     {
+        "Rank":132,
         "Country":"Bangladesh",
         "1990":398.05
     },
     {
+        "Rank":133,
         "Country":"Lesotho",
         "1990":391.983
     },
     {
+        "Rank":134,
         "Country":"Burkina Faso",
         "1990":381.987
     },
     {
+        "Rank":135,
         "Country":"India",
         "1990":368.75
     },
     {
+        "Rank":136,
         "Country":"Mali",
         "1990":360.285
     },
     {
+        "Rank":137,
         "Country":"Sierra Leone",
         "1990":349.367
     },
     {
+        "Rank":138,
         "Country":"Madagascar",
         "1990":347.714
     },
     {
+        "Rank":139,
         "Country":"China",
         "1990":346.873
     },
     {
+        "Rank":140,
         "Country":"Equatorial Guinea",
         "1990":312.102
     },
     {
+        "Rank":141,
         "Country":"Ethiopia",
         "1990":284.636
     },
     {
+        "Rank":142,
         "Country":"Mozambique",
         "1990":271.733
     },
     {
+        "Rank":143,
         "Country":"Haiti",
         "1990":240.23
     },
     {
+        "Rank":144,
         "Country":"Nepal",
         "1990":226.445
     },
     {
+        "Rank":145,
         "Country":"Tanzania",
         "1990":211.031
     },
     {
+        "Rank":146,
         "Country":"Burundi",
         "1990":207.113
     },
     {
+        "Rank":147,
         "Country":"Vietnam",
         "1990":121.715
     },
     {
+        "Rank":148,
         "Country":"Cambodia",
         "1990":102.928
     },
     {
+        "Rank":149,
         "Country":"Sudan",
         "1990":87.197
     }

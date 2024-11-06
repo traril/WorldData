@@ -1,773 +1,966 @@
 [
     {
+        "Rank":1,
         "Country":"Luxembourg",
         "2020":117616.151
     },
     {
+        "Rank":2,
         "Country":"Ireland",
         "2020":86313.772
     },
     {
+        "Rank":3,
         "Country":"Switzerland",
         "2020":86138.871
     },
     {
+        "Rank":4,
         "Country":"Norway",
         "2020":68275.277
     },
     {
+        "Rank":5,
         "Country":"United States",
         "2020":64461.618
     },
     {
+        "Rank":6,
         "Country":"Singapore",
         "2020":61466.819
     },
     {
+        "Rank":7,
         "Country":"Iceland",
         "2020":61094.329
     },
     {
+        "Rank":8,
         "Country":"Denmark",
         "2020":61075.932
     },
     {
+        "Rank":9,
         "Country":"Netherlands",
         "2020":53529.218
     },
     {
+        "Rank":10,
         "Country":"Australia",
         "2020":53249.731
     },
     {
+        "Rank":11,
         "Country":"Sweden",
         "2020":52522.605
     },
     {
+        "Rank":12,
         "Country":"Qatar",
         "2020":50962.499
     },
     {
+        "Rank":13,
         "Country":"Austria",
         "2020":48837.35
     },
     {
+        "Rank":14,
         "Country":"Finland",
         "2020":48827.138
     },
     {
+        "Rank":15,
         "Country":"Germany",
         "2020":47341.768
     },
     {
+        "Rank":16,
         "Country":"Hong Kong SAR",
         "2020":46446.056
     },
     {
+        "Rank":17,
         "Country":"San Marino",
         "2020":45640.984
     },
     {
+        "Rank":18,
         "Country":"Belgium",
         "2020":45615.359
     },
     {
+        "Rank":19,
         "Country":"Israel",
         "2020":44842.685
     },
     {
+        "Rank":20,
         "Country":"Canada",
         "2020":43573.195
     },
     {
+        "Rank":21,
         "Country":"New Zealand",
         "2020":41343.891
     },
     {
+        "Rank":22,
         "Country":"France",
         "2020":40536.857
     },
     {
+        "Rank":23,
         "Country":"United Kingdom",
         "2020":40230.545
     },
     {
+        "Rank":24,
         "Country":"Japan",
         "2020":40160.067
     },
     {
+        "Rank":25,
         "Country":"United Arab Emirates",
         "2020":37648.953
     },
     {
+        "Rank":26,
         "Country":"Macao SAR",
         "2020":37100.934
     },
     {
+        "Rank":27,
         "Country":"Andorra",
         "2020":36973.845
     },
     {
+        "Rank":28,
         "Country":"Korea",
         "2020":33653.204
     },
     {
+        "Rank":29,
         "Country":"Puerto Rico",
         "2020":32643.179
     },
     {
+        "Rank":30,
         "Country":"Italy",
         "2020":31956.855
     },
     {
+        "Rank":31,
         "Country":"Malta",
         "2020":31818.84
     },
     {
+        "Rank":32,
         "Country":"Taiwan Province of China",
         "2020":28571.44
     },
     {
+        "Rank":33,
         "Country":"Cyprus",
         "2020":28386.27
     },
     {
+        "Rank":34,
         "Country":"Spain",
         "2020":27214.292
     },
     {
+        "Rank":35,
         "Country":"Brunei Darussalam",
         "2020":27174.73
     },
     {
+        "Rank":36,
         "Country":"Kuwait",
         "2020":25610.725
     },
     {
+        "Rank":37,
         "Country":"The Bahamas",
         "2020":25572.518
     },
     {
+        "Rank":38,
         "Country":"Slovenia",
         "2020":25451.13
     },
     {
+        "Rank":39,
         "Country":"Bahrain",
         "2020":24342.844
     },
     {
+        "Rank":40,
         "Country":"Estonia",
         "2020":23911.344
     },
     {
+        "Rank":41,
         "Country":"Aruba",
         "2020":23565.55
     },
     {
+        "Rank":42,
         "Country":"Czech Republic",
         "2020":23464.296
     },
     {
+        "Rank":43,
         "Country":"Saudi Arabia",
         "2020":23271.404
     },
     {
+        "Rank":44,
         "Country":"Portugal",
         "2020":22224.61
     },
     {
+        "Rank":45,
         "Country":"Lithuania",
         "2020":20348.942
     },
     {
+        "Rank":46,
         "Country":"Slovak Republic",
         "2020":19541.007
     },
     {
+        "Rank":47,
         "Country":"St. Kitts and Nevis",
         "2020":18553.579
     },
     {
+        "Rank":48,
         "Country":"Latvia",
         "2020":18013.227
     },
     {
+        "Rank":49,
         "Country":"Barbados",
         "2020":17951.935
     },
     {
+        "Rank":50,
         "Country":"Greece",
         "2020":17570.395
     },
     {
+        "Rank":51,
         "Country":"Oman",
         "2020":17076.319
     },
     {
+        "Rank":52,
         "Country":"Hungary",
         "2020":16099.958
     },
     {
+        "Rank":53,
         "Country":"Poland",
         "2020":15792.61
     },
     {
+        "Rank":54,
         "Country":"Uruguay",
         "2020":15198.839
     },
     {
+        "Rank":55,
         "Country":"Trinidad and Tobago",
         "2020":14868.061
     },
     {
+        "Rank":56,
         "Country":"Palau",
         "2020":14697.164
     },
     {
+        "Rank":57,
         "Country":"Antigua and Barbuda",
         "2020":14382.232
     },
     {
+        "Rank":58,
         "Country":"Croatia",
         "2020":14372.314
     },
     {
+        "Rank":59,
         "Country":"Seychelles",
         "2020":14235.574
     },
     {
+        "Rank":60,
         "Country":"Panama",
         "2020":13342.722
     },
     {
+        "Rank":61,
         "Country":"Chile",
         "2020":13056.638
     },
     {
+        "Rank":62,
         "Country":"Romania",
         "2020":13021.962
     },
     {
+        "Rank":63,
         "Country":"Costa Rica",
         "2020":12163.927
     },
     {
+        "Rank":64,
         "Country":"China",
         "2020":10525.001
     },
     {
+        "Rank":65,
         "Country":"Malaysia",
         "2020":10400.219
     },
     {
+        "Rank":66,
         "Country":"Nauru",
         "2020":10346.097
     },
     {
+        "Rank":67,
         "Country":"Bulgaria",
         "2020":10165.58
     },
     {
+        "Rank":68,
         "Country":"Russia",
         "2020":10074.726
     },
     {
+        "Rank":69,
         "Country":"Maldives",
         "2020":9803.066
     },
     {
+        "Rank":70,
         "Country":"Grenada",
         "2020":9222.709
     },
     {
+        "Rank":71,
         "Country":"Kazakhstan",
         "2020":9121.636
     },
     {
+        "Rank":72,
         "Country":"Mauritius",
         "2020":9010.929
     },
     {
+        "Rank":73,
         "Country":"Mexico",
         "2020":8742.217
     },
     {
+        "Rank":74,
         "Country":"T\u30fbrkiye",
         "2020":8576.486
     },
     {
+        "Rank":75,
         "Country":"Argentina",
         "2020":8489.332
     },
     {
+        "Rank":76,
         "Country":"Turkmenistan",
         "2020":8381.012
     },
     {
+        "Rank":77,
         "Country":"St. Lucia",
         "2020":8364.868
     },
     {
+        "Rank":78,
         "Country":"St. Vincent and the Grenadines",
         "2020":7810.304
     },
     {
+        "Rank":79,
         "Country":"Serbia",
         "2020":7733.803
     },
     {
+        "Rank":80,
         "Country":"Dominican Republic",
         "2020":7553.509
     },
     {
+        "Rank":81,
         "Country":"Gabon",
         "2020":7289.442
     },
     {
+        "Rank":82,
         "Country":"Thailand",
         "2020":7170.503
     },
     {
+        "Rank":83,
         "Country":"Libya",
         "2020":7058.334
     },
     {
+        "Rank":84,
         "Country":"Brazil",
         "2020":7057.072
     },
     {
+        "Rank":85,
         "Country":"Equatorial Guinea",
         "2020":7045.629
     },
     {
+        "Rank":86,
         "Country":"Guyana",
         "2020":6952.702
     },
     {
+        "Rank":87,
         "Country":"Dominica",
         "2020":6872.22
     },
     {
+        "Rank":88,
         "Country":"North Macedonia",
         "2020":6672.521
     },
     {
+        "Rank":89,
         "Country":"Belarus",
         "2020":6536.527
     },
     {
+        "Rank":90,
         "Country":"Peru",
         "2020":6328.104
     },
     {
+        "Rank":91,
         "Country":"Botswana",
         "2020":5863.182
     },
     {
+        "Rank":92,
         "Country":"Bosnia and Herzegovina",
         "2020":5800.39
     },
     {
+        "Rank":93,
         "Country":"South Africa",
         "2020":5630.983
     },
     {
+        "Rank":94,
         "Country":"Marshall Islands",
         "2020":5502.426
     },
     {
+        "Rank":95,
         "Country":"Ecuador",
         "2020":5469.758
     },
     {
+        "Rank":96,
         "Country":"Colombia",
         "2020":5363.235
     },
     {
+        "Rank":97,
         "Country":"Albania",
         "2020":5353.303
     },
     {
+        "Rank":98,
         "Country":"Belize",
         "2020":5210.543
     },
     {
+        "Rank":99,
         "Country":"Tuvalu",
         "2020":5162.322
     },
     {
+        "Rank":100,
         "Country":"Jamaica",
         "2020":5072.599
     },
     {
+        "Rank":101,
         "Country":"Fiji",
         "2020":4920.014
     },
     {
+        "Rank":102,
         "Country":"Paraguay",
         "2020":4885.396
     },
     {
+        "Rank":103,
         "Country":"Suriname",
         "2020":4782.092
     },
     {
+        "Rank":104,
         "Country":"Guatemala",
         "2020":4610.073
     },
     {
+        "Rank":105,
         "Country":"Iraq",
         "2020":4547.33
     },
     {
+        "Rank":106,
         "Country":"Tonga",
         "2020":4438.581
     },
     {
+        "Rank":107,
         "Country":"Lebanon",
         "2020":4410.402
     },
     {
+        "Rank":108,
         "Country":"Moldova",
         "2020":4377.542
     },
     {
+        "Rank":109,
         "Country":"Georgia",
         "2020":4308.286
     },
     {
+        "Rank":110,
         "Country":"Samoa",
         "2020":4308.015
     },
     {
+        "Rank":111,
         "Country":"Kosovo",
         "2020":4297.829
     },
     {
+        "Rank":112,
         "Country":"Azerbaijan",
         "2020":4280.429
     },
     {
+        "Rank":113,
         "Country":"Armenia",
         "2020":4268.681
     },
     {
+        "Rank":114,
         "Country":"Jordan",
         "2020":4004.321
     },
     {
+        "Rank":115,
         "Country":"Mongolia",
         "2020":3965.097
     },
     {
+        "Rank":116,
         "Country":"El Salvador",
         "2020":3960.335
     },
     {
+        "Rank":117,
         "Country":"Namibia",
         "2020":3937.667
     },
     {
+        "Rank":118,
         "Country":"Indonesia",
         "2020":3919.465
     },
     {
+        "Rank":119,
         "Country":"Sri Lanka",
         "2020":3846.175
     },
     {
+        "Rank":120,
         "Country":"Micronesia",
         "2020":3829.739
     },
     {
+        "Rank":121,
         "Country":"Egypt",
         "2020":3802.438
     },
     {
+        "Rank":122,
         "Country":"Ukraine",
         "2020":3780.393
     },
     {
+        "Rank":123,
         "Country":"Algeria",
         "2020":3757.585
     },
     {
+        "Rank":124,
         "Country":"Cabo Verde",
         "2020":3649.151
     },
     {
+        "Rank":125,
         "Country":"Tunisia",
         "2020":3569.972
     },
     {
+        "Rank":126,
         "Country":"Vietnam",
         "2020":3548.892
     },
     {
+        "Rank":127,
         "Country":"Eswatini",
         "2020":3535.09
     },
     {
+        "Rank":128,
         "Country":"Bhutan",
         "2020":3469.154
     },
     {
+        "Rank":129,
         "Country":"Morocco",
         "2020":3375.438
     },
     {
+        "Rank":130,
         "Country":"Vanuatu",
         "2020":3341.002
     },
     {
+        "Rank":131,
         "Country":"Philippines",
         "2020":3312.739
     },
     {
+        "Rank":132,
         "Country":"Djibouti",
         "2020":3223.83
     },
     {
+        "Rank":133,
         "Country":"Bolivia",
         "2020":3172.556
     },
     {
+        "Rank":134,
         "Country":"West Bank and Gaza",
         "2020":3044.744
     },
     {
+        "Rank":135,
         "Country":"Lao P.D.R.",
         "2020":2528.997
     },
     {
+        "Rank":136,
         "Country":"Honduras",
         "2020":2332.526
     },
     {
+        "Rank":137,
         "Country":"Islamic Republic of Iran",
         "2020":2326.664
     },
     {
+        "Rank":138,
         "Country":"Ghana",
         "2020":2274.469
     },
     {
+        "Rank":139,
         "Country":"Bangladesh",
         "2020":2270.348
     },
     {
+        "Rank":140,
         "Country":"C\u30fbte d'Ivoire",
         "2020":2209.109
     },
     {
+        "Rank":141,
         "Country":"S\u30fbo Tom\u30fb and Pr\u30fbncipe",
         "2020":2181.87
     },
     {
+        "Rank":142,
         "Country":"Cambodia",
         "2020":2136.009
     },
     {
+        "Rank":143,
         "Country":"Papua New Guinea",
         "2020":2124.796
     },
     {
+        "Rank":144,
         "Country":"Solomon Islands",
         "2020":2118.582
     },
     {
+        "Rank":145,
         "Country":"Nigeria",
         "2020":2099.135
     },
     {
+        "Rank":146,
         "Country":"Kenya",
         "2020":2067.987
     },
     {
+        "Rank":147,
         "Country":"Mauritania",
         "2020":2040.677
     },
     {
+        "Rank":148,
         "Country":"Republic of Congo",
         "2020":2014.193
     },
     {
+        "Rank":149,
         "Country":"Angola",
         "2020":1989.939
     },
     {
+        "Rank":150,
         "Country":"Uzbekistan",
         "2020":1959.678
     },
     {
+        "Rank":151,
         "Country":"Nicaragua",
         "2020":1952.183
     },
     {
+        "Rank":152,
         "Country":"India",
         "2020":1915.552
     },
     {
+        "Rank":153,
         "Country":"Kiribati",
         "2020":1874.17
     },
     {
+        "Rank":154,
         "Country":"Zimbabwe",
         "2020":1725.017
     },
     {
+        "Rank":155,
         "Country":"Timor-Leste",
         "2020":1676.769
     },
     {
+        "Rank":156,
         "Country":"Venezuela",
         "2020":1566.602
     },
     {
+        "Rank":157,
         "Country":"Cameroon",
         "2020":1539.354
     },
     {
+        "Rank":158,
         "Country":"Comoros",
         "2020":1510.592
     },
     {
+        "Rank":159,
         "Country":"Senegal",
         "2020":1465.244
     },
     {
+        "Rank":160,
         "Country":"Myanmar",
         "2020":1462.464
     },
     {
+        "Rank":161,
         "Country":"Pakistan",
         "2020":1376.512
     },
     {
+        "Rank":162,
         "Country":"Kyrgyz Republic",
         "2020":1270.961
     },
     {
+        "Rank":163,
         "Country":"Benin",
         "2020":1239.74
     },
     {
+        "Rank":164,
         "Country":"Haiti",
         "2020":1235.476
     },
     {
+        "Rank":165,
         "Country":"Nepal",
         "2020":1139.192
     },
     {
+        "Rank":166,
         "Country":"Tanzania",
         "2020":1092.613
     },
     {
+        "Rank":167,
         "Country":"Lesotho",
         "2020":1014.795
     },
     {
+        "Rank":168,
         "Country":"Guinea",
         "2020":1008.687
     },
     {
+        "Rank":169,
         "Country":"Ethiopia",
         "2020":969.014
     },
     {
+        "Rank":170,
         "Country":"Zambia",
         "2020":958.265
     },
     {
+        "Rank":171,
         "Country":"Uganda",
         "2020":919.329
     },
     {
+        "Rank":172,
         "Country":"Chad",
         "2020":889.735
     },
     {
+        "Rank":173,
         "Country":"Togo",
         "2020":876.511
     },
     {
+        "Rank":174,
         "Country":"Tajikistan",
         "2020":858.445
     },
     {
+        "Rank":175,
         "Country":"Guinea-Bissau",
         "2020":838.847
     },
     {
+        "Rank":176,
         "Country":"Sierra Leone",
         "2020":837.636
     },
     {
+        "Rank":177,
         "Country":"Mali",
         "2020":831.034
     },
     {
+        "Rank":178,
         "Country":"Burkina Faso",
         "2020":824.248
     },
     {
+        "Rank":179,
         "Country":"Rwanda",
         "2020":803.456
     },
     {
+        "Rank":180,
         "Country":"Sudan",
         "2020":794.696
     },
     {
+        "Rank":181,
         "Country":"The Gambia",
         "2020":747.886
     },
     {
+        "Rank":182,
         "Country":"Yemen",
         "2020":633.311
     },
     {
+        "Rank":183,
         "Country":"Liberia",
         "2020":600.475
     },
     {
+        "Rank":184,
         "Country":"Somalia",
         "2020":583.956
     },
     {
+        "Rank":185,
         "Country":"Niger",
         "2020":568.606
     },
     {
+        "Rank":186,
         "Country":"Malawi",
         "2020":567.59
     },
     {
+        "Rank":187,
         "Country":"Democratic Republic of the Congo",
         "2020":546.43
     },
     {
+        "Rank":188,
         "Country":"Afghanistan",
         "2020":516.664
     },
     {
+        "Rank":189,
         "Country":"Madagascar",
         "2020":477.375
     },
     {
+        "Rank":190,
         "Country":"Central African Republic",
         "2020":475.188
     },
     {
+        "Rank":191,
         "Country":"Mozambique",
         "2020":456.582
     },
     {
+        "Rank":192,
         "Country":"South Sudan",
         "2020":393.589
     },
     {
+        "Rank":193,
         "Country":"Burundi",
         "2020":259.906
     }

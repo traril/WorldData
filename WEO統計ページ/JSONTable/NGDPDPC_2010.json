@@ -1,773 +1,966 @@
 [
     {
+        "Rank":1,
         "Country":"Luxembourg",
         "2010":112049.15
     },
     {
+        "Rank":2,
         "Country":"Norway",
         "2010":87823.805
     },
     {
+        "Rank":3,
         "Country":"Switzerland",
         "2010":76847.27
     },
     {
+        "Rank":4,
         "Country":"Qatar",
         "2010":69796.138
     },
     {
+        "Rank":5,
         "Country":"San Marino",
         "2010":60426.235
     },
     {
+        "Rank":6,
         "Country":"Denmark",
         "2010":58240.45
     },
     {
+        "Rank":7,
         "Country":"Australia",
         "2010":56587.694
     },
     {
+        "Rank":8,
         "Country":"Sweden",
         "2010":52333.874
     },
     {
+        "Rank":9,
         "Country":"Netherlands",
         "2010":51472.808
     },
     {
+        "Rank":10,
         "Country":"Macao SAR",
         "2010":51135.159
     },
     {
+        "Rank":11,
         "Country":"Andorra",
         "2010":49030.229
     },
     {
+        "Rank":12,
         "Country":"Ireland",
         "2010":48636.309
     },
     {
+        "Rank":13,
         "Country":"United States",
         "2010":48586.288
     },
     {
+        "Rank":14,
         "Country":"Canada",
         "2010":47625.742
     },
     {
+        "Rank":15,
         "Country":"Singapore",
         "2010":47236.672
     },
     {
+        "Rank":16,
         "Country":"Austria",
         "2010":46955.173
     },
     {
+        "Rank":17,
         "Country":"Finland",
         "2010":46647.994
     },
     {
+        "Rank":18,
         "Country":"Japan",
         "2010":45135.796
     },
     {
+        "Rank":19,
         "Country":"Belgium",
         "2010":44448.17
     },
     {
+        "Rank":20,
         "Country":"Iceland",
         "2010":43293.021
     },
     {
+        "Rank":21,
         "Country":"Germany",
         "2010":43233.452
     },
     {
+        "Rank":22,
         "Country":"France",
         "2010":42195.192
     },
     {
+        "Rank":23,
         "Country":"United Kingdom",
         "2010":39641.869
     },
     {
+        "Rank":24,
         "Country":"Kuwait",
         "2010":39342.103
     },
     {
+        "Rank":25,
         "Country":"United Arab Emirates",
         "2010":36324.592
     },
     {
+        "Rank":26,
         "Country":"Italy",
         "2010":35963.743
     },
     {
+        "Rank":27,
         "Country":"Brunei Darussalam",
         "2010":35437.251
     },
     {
+        "Rank":28,
         "Country":"New Zealand",
         "2010":33393.032
     },
     {
+        "Rank":29,
         "Country":"Hong Kong SAR",
         "2010":32421.361
     },
     {
+        "Rank":30,
         "Country":"Cyprus",
         "2010":31521.893
     },
     {
+        "Rank":31,
         "Country":"Israel",
         "2010":31450.574
     },
     {
+        "Rank":32,
         "Country":"Spain",
         "2010":30693.281
     },
     {
+        "Rank":33,
         "Country":"The Bahamas",
         "2010":28725.135
     },
     {
+        "Rank":34,
         "Country":"Greece",
         "2010":26743.4
     },
     {
+        "Rank":35,
         "Country":"Puerto Rico",
         "2010":26435.742
     },
     {
+        "Rank":36,
         "Country":"Aruba",
         "2010":24093.07
     },
     {
+        "Rank":37,
         "Country":"Korea",
         "2010":24069.073
     },
     {
+        "Rank":38,
         "Country":"Slovenia",
         "2010":23367.241
     },
     {
+        "Rank":39,
         "Country":"Portugal",
         "2010":22539.038
     },
     {
+        "Rank":40,
         "Country":"Saudi Arabia",
         "2010":22028.379
     },
     {
+        "Rank":41,
         "Country":"Malta",
         "2010":21989.786
     },
     {
+        "Rank":42,
         "Country":"Bahrain",
         "2010":21712.793
     },
     {
+        "Rank":43,
         "Country":"Oman",
         "2010":21677.793
     },
     {
+        "Rank":44,
         "Country":"Czech Republic",
         "2010":20184.18
     },
     {
+        "Rank":45,
         "Country":"Taiwan Province of China",
         "2010":19181.358
     },
     {
+        "Rank":46,
         "Country":"Barbados",
         "2010":18376.607
     },
     {
+        "Rank":47,
         "Country":"Equatorial Guinea",
         "2010":17167.174
     },
     {
+        "Rank":48,
         "Country":"Trinidad and Tobago",
         "2010":16957.433
     },
     {
+        "Rank":49,
         "Country":"Slovak Republic",
         "2010":16925.867
     },
     {
+        "Rank":50,
         "Country":"St. Kitts and Nevis",
         "2010":16427.612
     },
     {
+        "Rank":51,
         "Country":"Antigua and Barbuda",
         "2010":15341.821
     },
     {
+        "Rank":52,
         "Country":"Estonia",
         "2010":14697.472
     },
     {
+        "Rank":53,
         "Country":"Croatia",
         "2010":13710.364
     },
     {
+        "Rank":54,
         "Country":"Hungary",
         "2010":13199.056
     },
     {
+        "Rank":55,
         "Country":"Uruguay",
         "2010":12943.943
     },
     {
+        "Rank":56,
         "Country":"Chile",
         "2010":12723.064
     },
     {
+        "Rank":57,
         "Country":"Poland",
         "2010":12510.805
     },
     {
+        "Rank":58,
         "Country":"Libya",
         "2010":12478.014
     },
     {
+        "Rank":59,
         "Country":"Lithuania",
         "2010":12006.511
     },
     {
+        "Rank":60,
         "Country":"Russia",
         "2010":11432.428
     },
     {
+        "Rank":61,
         "Country":"Brazil",
         "2010":11341.268
     },
     {
+        "Rank":62,
         "Country":"Latvia",
         "2010":11316.932
     },
     {
+        "Rank":63,
         "Country":"Venezuela",
         "2010":11158.18
     },
     {
+        "Rank":64,
         "Country":"Seychelles",
         "2010":10805.099
     },
     {
+        "Rank":65,
         "Country":"T\u30fbrkiye",
         "2010":10545.466
     },
     {
+        "Rank":66,
         "Country":"Argentina",
         "2010":10412.974
     },
     {
+        "Rank":67,
         "Country":"Palau",
         "2010":10173.161
     },
     {
+        "Rank":68,
         "Country":"Mexico",
         "2010":9632.818
     },
     {
+        "Rank":69,
         "Country":"Kazakhstan",
         "2010":9070.49
     },
     {
+        "Rank":70,
         "Country":"Malaysia",
         "2010":9046.978
     },
     {
+        "Rank":71,
         "Country":"Gabon",
         "2010":8933.306
     },
     {
+        "Rank":72,
         "Country":"Suriname",
         "2010":8734.16
     },
     {
+        "Rank":73,
         "Country":"St. Lucia",
         "2010":8675.296
     },
     {
+        "Rank":74,
         "Country":"Romania",
         "2010":8391.048
     },
     {
+        "Rank":75,
         "Country":"Panama",
         "2010":8332.576
     },
     {
+        "Rank":76,
         "Country":"Costa Rica",
         "2010":8268.859
     },
     {
+        "Rank":77,
         "Country":"South Africa",
         "2010":8118.173
     },
     {
+        "Rank":78,
         "Country":"Mauritius",
         "2010":8108.095
     },
     {
+        "Rank":79,
         "Country":"Maldives",
         "2010":8086.697
     },
     {
+        "Rank":80,
         "Country":"Lebanon",
         "2010":7695.22
     },
     {
+        "Rank":81,
         "Country":"Grenada",
         "2010":7340.342
     },
     {
+        "Rank":82,
         "Country":"Islamic Republic of Iran",
         "2010":6983.777
     },
     {
+        "Rank":83,
         "Country":"Dominica",
         "2010":6980.957
     },
     {
+        "Rank":84,
         "Country":"Bulgaria",
         "2010":6754.23
     },
     {
+        "Rank":85,
         "Country":"Turkmenistan",
         "2010":6675.041
     },
     {
+        "Rank":86,
         "Country":"St. Vincent and the Grenadines",
         "2010":6613.132
     },
     {
+        "Rank":87,
         "Country":"Colombia",
         "2010":6498.573
     },
     {
+        "Rank":88,
         "Country":"Botswana",
         "2010":6041.732
     },
     {
+        "Rank":89,
         "Country":"Belarus",
         "2010":6033.415
     },
     {
+        "Rank":90,
         "Country":"Azerbaijan",
         "2010":5880.509
     },
     {
+        "Rank":91,
         "Country":"Dominican Republic",
         "2010":5688.751
     },
     {
+        "Rank":92,
         "Country":"Serbia",
         "2010":5673.62
     },
     {
+        "Rank":93,
         "Country":"Belize",
         "2010":5393.252
     },
     {
+        "Rank":94,
         "Country":"Namibia",
         "2010":5389.682
     },
     {
+        "Rank":95,
         "Country":"Peru",
         "2010":5200.933
     },
     {
+        "Rank":96,
         "Country":"Thailand",
         "2010":5077.257
     },
     {
+        "Rank":97,
         "Country":"Algeria",
         "2010":4941.493
     },
     {
+        "Rank":98,
         "Country":"Jamaica",
         "2010":4894.369
     },
     {
+        "Rank":99,
         "Country":"North Macedonia",
         "2010":4837.167
     },
     {
+        "Rank":100,
         "Country":"Nauru",
         "2010":4813.327
     },
     {
+        "Rank":101,
         "Country":"Bosnia and Herzegovina",
         "2010":4633.861
     },
     {
+        "Rank":102,
         "Country":"Ecuador",
         "2010":4578.936
     },
     {
+        "Rank":103,
         "Country":"China",
         "2010":4499.803
     },
     {
+        "Rank":104,
         "Country":"Iraq",
         "2010":4473.71
     },
     {
+        "Rank":105,
         "Country":"Tunisia",
         "2010":4343.057
     },
     {
+        "Rank":106,
         "Country":"Paraguay",
         "2010":4329.69
     },
     {
+        "Rank":107,
         "Country":"Eswatini",
         "2010":4263.91
     },
     {
+        "Rank":108,
         "Country":"Albania",
         "2010":4097.833
     },
     {
+        "Rank":109,
         "Country":"Angola",
         "2010":4089.461
     },
     {
+        "Rank":110,
         "Country":"Fiji",
         "2010":4010.982
     },
     {
+        "Rank":111,
         "Country":"Jordan",
         "2010":3914.701
     },
     {
+        "Rank":112,
         "Country":"Guyana",
         "2010":3837.303
     },
     {
+        "Rank":113,
         "Country":"Cabo Verde",
         "2010":3818.598
     },
     {
+        "Rank":114,
         "Country":"Samoa",
         "2010":3658.418
     },
     {
+        "Rank":115,
         "Country":"Tonga",
         "2010":3561.484
     },
     {
+        "Rank":116,
         "Country":"Georgia",
         "2010":3269.917
     },
     {
+        "Rank":117,
         "Country":"Indonesia",
         "2010":3177.453
     },
     {
+        "Rank":118,
         "Country":"Morocco",
         "2010":3134.698
     },
     {
+        "Rank":119,
         "Country":"Tuvalu",
         "2010":3134.201
     },
     {
+        "Rank":120,
         "Country":"Armenia",
         "2010":3121.778
     },
     {
+        "Rank":121,
         "Country":"Marshall Islands",
         "2010":3043.357
     },
     {
+        "Rank":122,
         "Country":"El Salvador",
         "2010":3017.326
     },
     {
+        "Rank":123,
         "Country":"Kosovo",
         "2010":3013.162
     },
     {
+        "Rank":124,
         "Country":"Ukraine",
         "2010":2982.814
     },
     {
+        "Rank":125,
         "Country":"Republic of Congo",
         "2010":2965.182
     },
     {
+        "Rank":126,
         "Country":"Egypt",
         "2010":2922.796
     },
     {
+        "Rank":127,
         "Country":"Guatemala",
         "2010":2909.793
     },
     {
+        "Rank":128,
         "Country":"Sri Lanka",
         "2010":2894.26
     },
     {
+        "Rank":129,
         "Country":"Micronesia",
         "2010":2826.044
     },
     {
+        "Rank":130,
         "Country":"Syria",
         "2010":2806.685
     },
     {
+        "Rank":131,
         "Country":"Vanuatu",
         "2010":2719.254
     },
     {
+        "Rank":132,
         "Country":"Mongolia",
         "2010":2602.373
     },
     {
+        "Rank":133,
         "Country":"Moldova",
         "2010":2428.106
     },
     {
+        "Rank":134,
         "Country":"West Bank and Gaza",
         "2010":2406.261
     },
     {
+        "Rank":135,
         "Country":"Nigeria",
         "2010":2328.425
     },
     {
+        "Rank":136,
         "Country":"Bhutan",
         "2010":2265.468
     },
     {
+        "Rank":137,
         "Country":"Philippines",
         "2010":2237.157
     },
     {
+        "Rank":138,
         "Country":"Papua New Guinea",
         "2010":2114.866
     },
     {
+        "Rank":139,
         "Country":"Bolivia",
         "2010":1972.684
     },
     {
+        "Rank":140,
         "Country":"Honduras",
         "2010":1891.159
     },
     {
+        "Rank":141,
         "Country":"Djibouti",
         "2010":1837.212
     },
     {
+        "Rank":142,
         "Country":"Uzbekistan",
         "2010":1777.487
     },
     {
+        "Rank":143,
         "Country":"Ghana",
         "2010":1757.045
     },
     {
+        "Rank":144,
         "Country":"Mauritania",
         "2010":1715.923
     },
     {
+        "Rank":145,
         "Country":"Sudan",
         "2010":1637.419
     },
     {
+        "Rank":146,
         "Country":"Vietnam",
         "2010":1628.013
     },
     {
+        "Rank":147,
         "Country":"Kiribati",
         "2010":1609.343
     },
     {
+        "Rank":148,
         "Country":"C\u30fbte d'Ivoire",
         "2010":1597.512
     },
     {
+        "Rank":149,
         "Country":"Nicaragua",
         "2010":1499.067
     },
     {
+        "Rank":150,
         "Country":"Solomon Islands",
         "2010":1492.242
     },
     {
+        "Rank":151,
         "Country":"Zambia",
         "2010":1469.239
     },
     {
+        "Rank":152,
         "Country":"Comoros",
         "2010":1385.195
     },
     {
+        "Rank":153,
         "Country":"Cameroon",
         "2010":1353.407
     },
     {
+        "Rank":154,
         "Country":"India",
         "2010":1350.634
     },
     {
+        "Rank":155,
         "Country":"Senegal",
         "2010":1272.622
     },
     {
+        "Rank":156,
         "Country":"Yemen",
         "2010":1267.555
     },
     {
+        "Rank":157,
         "Country":"Lesotho",
         "2010":1222.197
     },
     {
+        "Rank":158,
         "Country":"Chad",
         "2010":1195.527
     },
     {
+        "Rank":159,
         "Country":"Lao P.D.R.",
         "2010":1187.022
     },
     {
+        "Rank":160,
         "Country":"Kenya",
         "2010":1176.311
     },
     {
+        "Rank":161,
         "Country":"Haiti",
         "2010":1175.199
     },
     {
+        "Rank":162,
         "Country":"Pakistan",
         "2010":1137.985
     },
     {
+        "Rank":163,
         "Country":"S\u30fbo Tom\u30fb and Pr\u30fbncipe",
         "2010":1090.263
     },
     {
+        "Rank":164,
         "Country":"Benin",
         "2010":1010.314
     },
     {
+        "Rank":165,
         "Country":"Cambodia",
         "2010":992.085
     },
     {
+        "Rank":166,
         "Country":"Zimbabwe",
         "2010":975.823
     },
     {
+        "Rank":167,
         "Country":"Bangladesh",
         "2010":935.755
     },
     {
+        "Rank":168,
         "Country":"Kyrgyz Republic",
         "2010":884.846
     },
     {
+        "Rank":169,
         "Country":"The Gambia",
         "2010":860.639
     },
     {
+        "Rank":170,
         "Country":"Timor-Leste",
         "2010":819.147
     },
     {
+        "Rank":171,
         "Country":"Uganda",
         "2010":808.713
     },
     {
+        "Rank":172,
         "Country":"Tanzania",
         "2010":739.903
     },
     {
+        "Rank":173,
         "Country":"Tajikistan",
         "2010":738.287
     },
     {
+        "Rank":174,
         "Country":"Myanmar",
         "2010":727.194
     },
     {
+        "Rank":175,
         "Country":"Togo",
         "2010":722.819
     },
     {
+        "Rank":176,
         "Country":"Mali",
         "2010":688.89
     },
     {
+        "Rank":177,
         "Country":"Nepal",
         "2010":671.998
     },
     {
+        "Rank":178,
         "Country":"Sierra Leone",
         "2010":650.602
     },
     {
+        "Rank":179,
         "Country":"Guinea-Bissau",
         "2010":644.344
     },
     {
+        "Rank":180,
         "Country":"Guinea",
         "2010":630.549
     },
     {
+        "Rank":181,
         "Country":"Burkina Faso",
         "2010":627.783
     },
     {
+        "Rank":182,
         "Country":"Malawi",
         "2010":623.414
     },
     {
+        "Rank":183,
         "Country":"Rwanda",
         "2010":612.567
     },
     {
+        "Rank":184,
         "Country":"Afghanistan",
         "2010":543.652
     },
     {
+        "Rank":185,
         "Country":"Liberia",
         "2010":505.363
     },
     {
+        "Rank":186,
         "Country":"Eritrea",
         "2010":501.424
     },
     {
+        "Rank":187,
         "Country":"Madagascar",
         "2010":492.67
     },
     {
+        "Rank":188,
         "Country":"Mozambique",
         "2010":484.961
     },
     {
+        "Rank":189,
         "Country":"Central African Republic",
         "2010":476.409
     },
     {
+        "Rank":190,
         "Country":"Niger",
         "2010":476.064
     },
     {
+        "Rank":191,
         "Country":"Ethiopia",
         "2010":341.103
     },
     {
+        "Rank":192,
         "Country":"Democratic Republic of the Congo",
         "2010":338.802
     },
     {
+        "Rank":193,
         "Country":"Burundi",
         "2010":231.549
     }

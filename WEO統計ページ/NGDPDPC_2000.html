@@ -16,7 +16,6 @@
         table {
             width: 100%;
             border-collapse: collapse;
-            margin-bottom: 20px;
         }
         table, th, td {
             border: 1px solid #333;
@@ -24,6 +23,17 @@
         th, td {
             padding: 5px;
             text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
         }
     </style>
 </head>
@@ -34,7 +44,7 @@
 
     <nav class="breadcrumb">
         <a href="http://127.0.0.1:5500/index.html">INDEX</a> &gt; 
-        <span>1990年GDP</span>
+        <span>2000年GDP</span>
     </nav>
     
     <article>
@@ -50,6 +60,8 @@
     <div>
         <img src="Figure\2000NGDPDPC.png" alt="2000年の各国GDPチャート">
     </div>
+
+    <div class="separator"></div>
 
     <div id="tableContainer1"></div>
 
@@ -67,13 +79,13 @@
                     let tableHtml = "<table><thead><tr>";
 
                     // ヘッダー行の生成
-                    tableHtml += `<th>Country</th><th>GDP (単位:ドル)</th>`;
+                    tableHtml += `<th>Rank</th><th>Country</th><th>一人当たりGDP (単位:ドル)</th>`;
                     tableHtml += "</tr></thead><tbody>";
 
                     // データ行の生成
                     data.forEach(item => {
                         tableHtml += "<tr>";
-                        tableHtml += `<td>${item.Country}</td><td>${item["2000"]}</td>`;
+                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["2000"]}</td>`;
                         tableHtml += "</tr>";
                     });
 

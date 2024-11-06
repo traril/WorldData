@@ -54,7 +54,7 @@
 <body>
 
 <header>
-    <h1>Welcome to My Sample GitHub Pages</h1>
+    <h1>World Data</h1>
 </header>
 
 <nav>
@@ -64,11 +64,72 @@
         <li><a href="WEO統計ページ\NGDPDPC_2000.html">一人当たりGPD2000</a></li>
         <li><a href="WEO統計ページ\NGDPDPC_2010.html">一人当たりGPD2010</a></li>
         <li><a href="WEO統計ページ\NGDPDPC_2020.html">一人当たりGPD2020</a></li>
-        <li><a href="DataFolder\TrendPages\graph2_5105.html">一人当たりGPD2023</a></li>
-        <li><a href="blog.html">ブログ</a></li>
+        <li><a href="WEO統計ページ\NGDPDPC_2021.html">一人当たりGPD2021</a></li>
+        <li><a href="WEO統計ページ\NGDPDPC_2022.html">一人当たりGPD2022</a></li>
+        <li><a href="WEO統計ページ\NGDPDPC_2023.html">一人当たりGPD2023</a></li>
     </ul>
 </nav>
-    
+
+<style>
+    .accordion {
+        cursor: pointer;
+        background-color: #f1f1f1;
+        padding: 10px;
+        border: none;
+        text-align: left;
+        outline: none;
+        transition: background-color 0.3s;
+        font-size: 16px;
+    }
+    .accordion:hover {
+        background-color: #ddd;
+    }
+    .panel {
+        padding: 0 10px;
+        display: none;
+        background-color: #f9f9f9;
+        overflow: hidden;
+    }
+</style>
+
+<!-- HTML部分 -->
+<button class="accordion">GDP・国民経済計算</button>
+<div class="panel">
+    <ul>
+        <li><a href="#">GDP（国内総生産）</a></li>
+        <li><a href="#">GNI（国民総所得）</a></li>
+        <li><a href="#">為替・PPP</a></li>
+        <li><a href="#">家計経済</a></li>
+    </ul>
+</div>
+
+<button class="accordion">貿易・国際収支</button>
+<div class="panel">
+    <p>詳細な情報がここに表示されます。</p>
+</div>
+
+<button class="accordion">産業・ビジネス</button>
+<div class="panel">
+    <p>詳細な情報がここに表示されます。</p>
+</div>
+
+<!-- JavaScript部分 -->
+<script>
+    const acc = document.getElementsByClassName("accordion");
+    for (let i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            const panel = this.nextElementSibling;
+            if (panel.style.display === "block") {
+                panel.style.display = "none";
+            } else {
+                panel.style.display = "block";
+            }
+        });
+    }
+</script>
+
+
 <section>
     <h2>About This Page</h2>
     <p>このページは、GitHub PagesのためのサンプルHTMLファイルです。以下にいくつかの要素を示します。</p>

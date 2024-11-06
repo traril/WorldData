@@ -16,7 +16,6 @@
         table {
             width: 100%;
             border-collapse: collapse;
-            margin-bottom: 20px;
         }
         table, th, td {
             border: 1px solid #333;
@@ -25,16 +24,16 @@
             padding: 5px;
             text-align: left;
         }
-        .breadcrumb {
-            font-size: 0.9em;
-            margin-bottom: 10px;
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
         }
-        .breadcrumb a {
-            color: #007bff;
-            text-decoration: none;
-        }
-        .breadcrumb a:hover {
-            text-decoration: underline;
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
         }
     </style>
 </head>
@@ -47,7 +46,7 @@
         <a href="http://127.0.0.1:5500/index.html">INDEX</a> &gt; 
         <span>1990年GDP</span>
     </nav>
-
+    
     <article>
         <p>各国の一人当たりGDP</p>
     </article>
@@ -59,8 +58,10 @@
     </article>
 
     <div>
-        <img src="Figure\1990NGDPDPC.png" alt="1990年の各国GDPチャート">
+        <img src="Figure\1990NGDPDPC.png" alt="2020年の各国GDPチャート">
     </div>
+
+    <div class="separator"></div>
 
     <div id="tableContainer1"></div>
 
@@ -78,13 +79,13 @@
                     let tableHtml = "<table><thead><tr>";
 
                     // ヘッダー行の生成
-                    tableHtml += `<th>Country</th><th>GDP (単位:ドル)</th>`;
+                    tableHtml += `<th>Rank</th><th>Country</th><th>一人当たりGDP (単位:ドル)</th>`;
                     tableHtml += "</tr></thead><tbody>";
 
                     // データ行の生成
                     data.forEach(item => {
                         tableHtml += "<tr>";
-                        tableHtml += `<td>${item.Country}</td><td>${item["1990"]}</td>`;
+                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["1990"]}</td>`;
                         tableHtml += "</tr>";
                     });
 

@@ -44,7 +44,7 @@
 
     <nav class="breadcrumb">
         <a href="http://127.0.0.1:5500/index.html">INDEX</a> &gt; 
-        <span>1980年GDP</span>
+        <span>2022年GDP</span>
     </nav>
     
     <article>
@@ -54,11 +54,11 @@
     <a href="https://www.imf.org/en/Publications/WEO">データソース WEO</a>
 
     <article>
-        <p>1980国別GDP</p>
+        <p>2022国別GDP</p>
     </article>
 
     <div>
-        <img src="Figure\1980NGDPDPC.png" alt="2020年の各国GDPチャート">
+        <img src="Figure\2022NGDPDPC.png" alt="2022年の各国GDPチャート">
     </div>
 
     <div class="separator"></div>
@@ -85,7 +85,7 @@
                     // データ行の生成
                     data.forEach(item => {
                         tableHtml += "<tr>";
-                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["1980"]}</td>`;
+                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["2022"]}</td>`;
                         tableHtml += "</tr>";
                     });
 
@@ -100,7 +100,7 @@
 
         // ページロード時にJSONを読み込む
         document.addEventListener("DOMContentLoaded", function() {
-            loadJSONAndDisplay("JSONTable/NGDPDPC_1980.json", "tableContainer1"); // JSONファイルのパスを指定
+            loadJSONAndDisplay("JSONTable/NGDPDPC_2022.json", "tableContainer1"); // JSONファイルのパスを指定
         });
     </script>
 </body>

@@ -25,12 +25,28 @@
             padding: 5px;
             text-align: left;
         }
+        .breadcrumb {
+            font-size: 0.9em;
+            margin-bottom: 10px;
+        }
+        .breadcrumb a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .breadcrumb a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
     <header>
         <h1>WorldData</h1>
     </header>
+
+    <nav class="breadcrumb">
+        <a href="http://127.0.0.1:5500/index.html">INDEX</a> &gt; 
+        <span>1990年GDP</span>
+    </nav>
 
     <article>
         <p>各国の一人当たりGDP</p>

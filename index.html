@@ -80,31 +80,35 @@
 </style>
 
 <!-- HTML部分 -->
-<button class="accordion">GDP・国民経済計算</button>
+<button class="accordion">各国のGDP</button>
 <div class="panel">
     <ul>
-        <li><a href="#">GDP（国内総生産）</a></li>
-        <li><a href="#">GNI（国民総所得）</a></li>
-        <li><a href="#">為替・PPP</a></li>
-        <li><a href="#">家計経済</a></li>
+        <li><a href="WEO統計ページ\P02_NGDPD\NGDPD_1980.html">各国GPD1980</a></li>
+        <li><a href="WEO統計ページ\P02_NGDPD\NGDPD_1990.html">各国GPD1990</a></li>
+        <li><a href="WEO統計ページ\P02_NGDPD\NGDPD_2000.html">各国GPD2000</a></li>
+        <li><a href="WEO統計ページ\P02_NGDPD\NGDPD_2010.html">各国GPD2010</a></li>
+        <li><a href="WEO統計ページ\P02_NGDPD\NGDPD_2020.html">各国GPD2020</a></li>
+        <li><a href="WEO統計ページ\P02_NGDPD\NGDPD_2021.html">各国GPD2021</a></li>
+        <li><a href="WEO統計ページ\P02_NGDPD\NGDPD_2022.html">各国GPD2022</a></li>
+        <li><a href="WEO統計ページ\P02_NGDPD\NGDPD_2023.html">各国GPD2023</a></li>
     </ul>
 </div>
 
-<button class="accordion">一人当たりGDP</button>
+<button class="accordion">各国の一人当たりGDP</button>
 <div class="panel">
-    <li><a href="WEO統計ページ\NGDPDPC_1980.html">一人当たりGPD1980</a></li>
-    <li><a href="WEO統計ページ\NGDPDPC_1990.html">一人当たりGPD1990</a></li>
-    <li><a href="WEO統計ページ\NGDPDPC_2000.html">一人当たりGPD2000</a></li>
-    <li><a href="WEO統計ページ\NGDPDPC_2010.html">一人当たりGPD2010</a></li>
-    <li><a href="WEO統計ページ\NGDPDPC_2020.html">一人当たりGPD2020</a></li>
-    <li><a href="WEO統計ページ\NGDPDPC_2021.html">一人当たりGPD2021</a></li>
-    <li><a href="WEO統計ページ\NGDPDPC_2022.html">一人当たりGPD2022</a></li>
-    <li><a href="WEO統計ページ\NGDPDPC_2023.html">一人当たりGPD2023</a></li>
+    <li><a href="WEO統計ページ\NDDPDPC\NGDPDPC_1980.html">一人当たりGPD1980</a></li>
+    <li><a href="WEO統計ページ\NDDPDPC\NGDPDPC_1990.html">一人当たりGPD1990</a></li>
+    <li><a href="WEO統計ページ\NDDPDPC\NGDPDPC_2000.html">一人当たりGPD2000</a></li>
+    <li><a href="WEO統計ページ\NDDPDPC\NGDPDPC_2010.html">一人当たりGPD2010</a></li>
+    <li><a href="WEO統計ページ\NDDPDPC\NGDPDPC_2020.html">一人当たりGPD2020</a></li>
+    <li><a href="WEO統計ページ\NDDPDPC\NGDPDPC_2021.html">一人当たりGPD2021</a></li>
+    <li><a href="WEO統計ページ\NDDPDPC\NGDPDPC_2022.html">一人当たりGPD2022</a></li>
+    <li><a href="WEO統計ページ\NDDPDPC\NGDPDPC_2023.html">一人当たりGPD2023</a></li>
 </div>
 
-<button class="accordion">産業・ビジネス</button>
+<button class="accordion">各国の人口</button>
 <div class="panel">
-    <p>詳細な情報がここに表示されます。</p>
+    <p>作成中</p>
 </div>
 
 <!-- JavaScript部分 -->
@@ -123,17 +127,6 @@
     }
 </script>
 
-
-<section>
-    <h2>About This Page</h2>
-    <p>このページは、GitHub PagesのためのサンプルHTMLファイルです。以下にいくつかの要素を示します。</p>
-
-    <h3>テーブル</h3>
-    <table id="data-table">
-        <!-- CSVデータでテーブルを生成 -->
-    </table>
-</section>
-
 <footer>
     <p>&copy; 2024 My GitHub Pages</p>
 </footer>
@@ -143,36 +136,6 @@
     function parseCSV(text) {
         const rows = text.trim().split('\n');
         return rows.map(row => row.split(','));
-    }
-
-    // テーブルを生成する関数
-    function createTableFromCSV(data) {
-        const table = document.getElementById('data-table');
-        
-        // ヘッダー行を追加
-        const headers = data[0];
-        const thead = document.createElement('thead');
-        const headerRow = document.createElement('tr');
-        headers.forEach(headerText => {
-            const th = document.createElement('th');
-            th.textContent = headerText;
-            headerRow.appendChild(th);
-        });
-        thead.appendChild(headerRow);
-        table.appendChild(thead);
-
-        // データ行を追加
-        const tbody = document.createElement('tbody');
-        data.slice(1).forEach(row => {
-            const tr = document.createElement('tr');
-            row.forEach(cellText => {
-                const td = document.createElement('td');
-                td.textContent = cellText;
-                tr.appendChild(td);
-            });
-            tbody.appendChild(tr);
-        });
-        table.appendChild(tbody);
     }
 
     // CSVファイルからデータを取得する関数

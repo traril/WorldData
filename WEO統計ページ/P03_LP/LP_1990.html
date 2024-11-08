@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>1980国別人口</title>
+    <title>1990国別人口</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -44,7 +44,7 @@
 
     <nav class="breadcrumb">
         <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
-        <span>1980年人口</span>
+        <span>1990年人口</span>
     </nav>
     
     <article>
@@ -54,11 +54,11 @@
     <a href="https://www.imf.org/en/Publications/WEO">データソース WEO</a>
 
     <article>
-        <p>1980の各国人口</p>
+        <p>1990の各国人口</p>
     </article>
 
     <div>
-        <img src="Figure\1980LP.png" alt="1980年の各国人口チャート">
+        <img src="Figure\1990LP.png" alt="1990年の各国人口チャート">
     </div>
 
     <div class="separator"></div>
@@ -85,7 +85,7 @@
                     // データ行の生成
                     data.forEach(item => {
                         tableHtml += "<tr>";
-                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["1980"]}</td>`;
+                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["1990"]}</td>`;
                         tableHtml += "</tr>";
                     });
 
@@ -100,7 +100,7 @@
 
         // ページロード時にJSONを読み込む
         document.addEventListener("DOMContentLoaded", function() {
-            loadJSONAndDisplay("JSONTable/LP_1980.json", "tableContainer1"); // JSONファイルのパスを指定
+            loadJSONAndDisplay("JSONTable/LP_1990.json", "tableContainer1"); // JSONファイルのパスを指定
         });
     </script>
 </body>

@@ -49,94 +49,111 @@
             bottom: 0;
             width: 100%;
         }
+        .panel {
+            display: none;
+        }
+        .accordion.active {
+            background-color: #cccccc;
+        }
     </style>
 </head>
-<body>
 
 <header>
     <h1>World Data</h1>
 </header>
 
-<style>
-    .accordion {
-        cursor: pointer;
-        background-color: #f1f1f1;
-        padding: 10px;
-        border: none;
-        text-align: left;
-        outline: none;
-        transition: background-color 0.3s;
-        font-size: 16px;
-    }
-    .accordion:hover {
-        background-color: #ddd;
-    }
-    .panel {
-        padding: 0 10px;
-        display: none;
-        background-color: #f9f9f9;
-        overflow: hidden;
-    }
-</style>
+<body>
+    <section class="button-container">
+        <!-- 各国の人口ボタンとパネル -->
+        <button class="accordion">各国の人口</button>
+        <div class="panel">
+            <ul>
+                <li><a href="WEO統計ページ/P03_LP/LP_1980.html">人口1980</a></li>
+                <li><a href="WEO統計ページ/P03_LP/LP_1990.html">人口1990</a></li>
+                <li><a href="WEO統計ページ/P03_LP/LP_2000.html">人口2000</a></li>
+                <li><a href="WEO統計ページ/P03_LP/LP_2010.html">人口2010</a></li>
+                <li><a href="WEO統計ページ/P03_LP/LP_2020.html">人口2020</a></li>
+                <li><a href="WEO統計ページ/P03_LP/LP_2021.html">人口2021</a></li>
+                <li><a href="WEO統計ページ/P03_LP/LP_2022.html">人口2022</a></li>
+                <li><a href="WEO統計ページ/P03_LP/LP_2023.html">人口2023</a></li>
+            </ul>
+        </div>
 
-<!-- HTML部分 -------------------------------------------------------------------->
-<button class="accordion">各国のGDP</button>
-<div class="panel">
-    <li><a href="WEO統計ページ\P02_NGDPD\NGDPD_1980.html">各国GPD1980</a></li>
-    <li><a href="WEO統計ページ\P02_NGDPD\NGDPD_1990.html">各国GPD1990</a></li>
-    <li><a href="WEO統計ページ\P02_NGDPD\NGDPD_2000.html">各国GPD2000</a></li>
-    <li><a href="WEO統計ページ\P02_NGDPD\NGDPD_2010.html">各国GPD2010</a></li>
-    <li><a href="WEO統計ページ\P02_NGDPD\NGDPD_2020.html">各国GPD2020</a></li>
-    <li><a href="WEO統計ページ\P02_NGDPD\NGDPD_2021.html">各国GPD2021</a></li>
-    <li><a href="WEO統計ページ\P02_NGDPD\NGDPD_2022.html">各国GPD2022</a></li>
-    <li><a href="WEO統計ページ\P02_NGDPD\NGDPD_2023.html">各国GPD2023</a></li>
-</div>
+        <!-- 各国のGDPボタンとパネル -->
+        <button class="accordion">各国のGDP</button>
+        <div class="panel">
+            <ul>
+                <li><a href="WEO統計ページ/P02_NGDPD/NGDPD_1980.html">GDP1980</a></li>
+                <li><a href="WEO統計ページ/P02_NGDPD/NGDPD_1990.html">GDP1990</a></li>
+                <li><a href="WEO統計ページ/P02_NGDPD/NGDPD_2000.html">GDP2000</a></li>
+                <li><a href="WEO統計ページ/P02_NGDPD/NGDPD_2010.html">GDP2010</a></li>
+                <li><a href="WEO統計ページ/P02_NGDPD/NGDPD_2020.html">GDP2020</a></li>
+                <li><a href="WEO統計ページ/P02_NGDPD/NGDPD_2021.html">GDP2021</a></li>
+                <li><a href="WEO統計ページ/P02_NGDPD/NGDPD_2022.html">GDP2022</a></li>
+                <li><a href="WEO統計ページ/P02_NGDPD/NGDPD_2023.html">GDP2023</a></li>
+            </ul>
+        </div>
 
-<button class="accordion">各国の一人当たりGDP</button>
-<div class="panel">
-    <li><a href="WEO統計ページ\P01_NDDPDPC\NGDPDPC_1980.html">一人当たりGPD1980</a></li>
-    <li><a href="WEO統計ページ\P01_NDDPDPC\NGDPDPC_1990.html">一人当たりGPD1990</a></li>
-    <li><a href="WEO統計ページ\P01_NDDPDPC\NGDPDPC_2000.html">一人当たりGPD2000</a></li>
-    <li><a href="WEO統計ページ\P01_NDDPDPC\NGDPDPC_2010.html">一人当たりGPD2010</a></li>
-    <li><a href="WEO統計ページ\P01_NDDPDPC\NGDPDPC_2020.html">一人当たりGPD2020</a></li>
-    <li><a href="WEO統計ページ\P01_NDDPDPC\NGDPDPC_2021.html">一人当たりGPD2021</a></li>
-    <li><a href="WEO統計ページ\P01_NDDPDPC\NGDPDPC_2022.html">一人当たりGPD2022</a></li>
-    <li><a href="WEO統計ページ\P01_NDDPDPC\NGDPDPC_2023.html">一人当たりGPD2023</a></li>
-</div>
+        <!-- 各国の貿易データボタンとパネル -->
+        <button class="accordion">各国の一人当たりGDP</button>
+        <div class="panel">
+            <ul>
+                <li><a href="WEO統計ページ/P01_NDDPDPC/NGDPDPC_1980.html">一人当たりGDP1980</a></li>
+                <li><a href="WEO統計ページ/P01_NDDPDPC/NGDPDPC_1990.html">一人当たりGDP1990</a></li>
+                <li><a href="WEO統計ページ/P01_NDDPDPC/NGDPDPC_2000.html">一人当たりGDP2000</a></li>
+                <li><a href="WEO統計ページ/P01_NDDPDPC/NGDPDPC_2010.html">一人当たりGDP2010</a></li>
+                <li><a href="WEO統計ページ/P01_NDDPDPC/NGDPDPC_2020.html">一人当たりGDP2020</a></li>
+                <li><a href="WEO統計ページ/P01_NDDPDPC/NGDPDPC_2021.html">一人当たりGDP2021</a></li>
+                <li><a href="WEO統計ページ/P01_NDDPDPC/NGDPDPC_2022.html">一人当たりGDP2022</a></li>
+                <li><a href="WEO統計ページ/P01_NDDPDPC/NGDPDPC_2023.html">一人当たりGDP2023</a></li>
+            </ul>
+        </div>
+    </section>
 
-<button class="accordion">各国の人口</button>
-<div class="panel">
-    <li><a href="WEO統計ページ\P03_LP\LP_1980.html">人口1980</a></li>
-    <li><a href="WEO統計ページ\P03_LP\LP_1990.html">人口1990</a></li>
-    <li><a href="WEO統計ページ\P03_LP\LP_2000.html">人口2000</a></li>
-    <li><a href="WEO統計ページ\P03_LP\LP_2010.html">人口2010</a></li>
-    <li><a href="WEO統計ページ\P03_LP\LP_2020.html">人口2020</a></li>
-    <li><a href="WEO統計ページ\P03_LP\LP_2021.html">人口2021</a></li>
-    <li><a href="WEO統計ページ\P03_LP\LP_2022.html">人口2022</a></li>
-    <li><a href="WEO統計ページ\P03_LP\LP_2023.html">人口2023</a></li>
-</div>
+    <section class="button-container">
+        <!-- 各国の失業率ボタンとパネル -->
+        <button class="accordion">各国の失業率</button>
+        <div class="panel">
+            <ul>
+                <li><a href="WEO統計ページ/P03_Unemployment/Unemployment_1980.html">失業率1980</a></li>
+                <li><a href="WEO統計ページ/P03_Unemployment/Unemployment_1990.html">失業率1990</a></li>
+                <li><a href="WEO統計ページ/P03_Unemployment/Unemployment_2000.html">失業率2000</a></li>
+                <li><a href="WEO統計ページ/P03_Unemployment/Unemployment_2010.html">失業率2010</a></li>
+                <li><a href="WEO統計ページ/P03_Unemployment/Unemployment_2020.html">失業率2020</a></li>
+            </ul>
+        </div>
 
-<!-- JavaScript部分 -->
-<script>
-    const acc = document.getElementsByClassName("accordion");
-    for (let i = 0; i < acc.length; i++) {
-        acc[i].addEventListener("click", function() {
-            this.classList.toggle("active");
-            const panel = this.nextElementSibling;
-            if (panel.style.display === "block") {
-                panel.style.display = "none";
-            } else {
-                panel.style.display = "block";
-            }
-        });
-    }
-</script>
-<!---------------------------------------------------------------------------------------->
+        <!-- 各国のインフレ率ボタンとパネル -->
+        <button class="accordion">各国のインフレ率</button>
+        <div class="panel">
+            <ul>
+                <li><a href="WEO統計ページ/P03_Inflation/Inflation_1980.html">インフレ率1980</a></li>
+                <li><a href="WEO統計ページ/P03_Inflation/Inflation_1990.html">インフレ率1990</a></li>
+                <li><a href="WEO統計ページ/P03_Inflation/Inflation_2000.html">インフレ率2000</a></li>
+                <li><a href="WEO統計ページ/P03_Inflation/Inflation_2010.html">インフレ率2010</a></li>
+                <li><a href="WEO統計ページ/P03_Inflation/Inflation_2020.html">インフレ率2020</a></li>
+            </ul>
+        </div>
+    </section>
 
+    <footer>
+        <p>Copyright &copy; 2023 統計データサイト</p>
+    </footer>
 
-<footer>
-    <p>&copy; 2024 My GitHub Pages</p>
-</footer>
-
+    <!-- JavaScript部分 -->
+    <script>
+        const acc = document.getElementsByClassName("accordion");
+        for (let i = 0; i < acc.length; i++) {
+            acc[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                const panel = this.nextElementSibling;
+                if (panel.style.display === "block") {
+                    panel.style.display = "none";
+                } else {
+                    panel.style.display = "block";
+                }
+            });
+        }
+    </script>
 </body>
 </html>

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2023国別人口</title>
+    <title>天然ガス価格</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -44,21 +44,17 @@
 
     <nav class="breadcrumb">
         <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
-        <span>2023年人口</span>
+        <span>天然ガス価格</span>
     </nav>
     
     <article>
-        <p>各国の人口</p>
+        <p>天然ガス価格</p>
     </article>
 
-    <a href="https://www.imf.org/en/Publications/WEO">データソース WEO</a>
-
-    <article>
-        <p>2023の各国人口</p>
-    </article>
+    <a href="https://www.worldbank.org/en/research/commodity-markets">データソース worldbank</a>
 
     <div>
-        <img src="Figure\2023LP.png" alt="2023年の各国人口チャート">
+        <img src="Figure\NaturalGas.png" alt="1980年の各国人口チャート">
     </div>
 
     <div class="separator"></div>
@@ -79,13 +75,13 @@
                     let tableHtml = "<table><thead><tr>";
 
                     // ヘッダー行の生成
-                    tableHtml += `<th>Rank</th><th>Country</th><th>GDP (単位:100万人)</th>`;
+                    tableHtml += `<th>Date</th><th>Naturalgas_US</th><th>Naturalgas_Europe</th><th>Liquefiednaturalgas_Japan</th><th>Naturalgasindex</th>`;
                     tableHtml += "</tr></thead><tbody>";
 
                     // データ行の生成
                     data.forEach(item => {
                         tableHtml += "<tr>";
-                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["2023"]}</td>`;
+                        tableHtml += `<td>${item.Date}</td><td>${item.Naturalgas_US}</td><td>${item.Naturalgas_Europe}</td><td>${item.Liquefiednaturalgas_Japan}</td><td>${item.Naturalgasindex}</td>`;
                         tableHtml += "</tr>";
                     });
 
@@ -100,7 +96,7 @@
 
         // ページロード時にJSONを読み込む
         document.addEventListener("DOMContentLoaded", function() {
-            loadJSONAndDisplay("JSONTable/LP_2023.json", "tableContainer1"); // JSONファイルのパスを指定
+            loadJSONAndDisplay("JSONTable/NaturalGas.json", "tableContainer1"); // JSONファイルのパスを指定
         });
     </script>
 </body>

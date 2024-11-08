@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2010国別人口</title>
+    <title>原油価格</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -44,21 +44,17 @@
 
     <nav class="breadcrumb">
         <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
-        <span>2010年人口</span>
+        <span>原油価格</span>
     </nav>
     
     <article>
-        <p>各国の人口</p>
+        <p>原油価格</p>
     </article>
 
-    <a href="https://www.imf.org/en/Publications/WEO">データソース WEO</a>
-
-    <article>
-        <p>2010の各国人口</p>
-    </article>
+    <a href="https://www.worldbank.org/en/research/commodity-markets">データソース worldbank</a>
 
     <div>
-        <img src="Figure\2010LP.png" alt="2010年の各国人口チャート">
+        <img src="Figure\原油価格.png" alt="1980年の各国人口チャート">
     </div>
 
     <div class="separator"></div>
@@ -79,13 +75,13 @@
                     let tableHtml = "<table><thead><tr>";
 
                     // ヘッダー行の生成
-                    tableHtml += `<th>Rank</th><th>Country</th><th>GDP (単位:100万人)</th>`;
+                    tableHtml += `<th>Date</th><th>Crudeoil_average</th><th>Crudeoil_Brent</th><th>Crudeoil_Dubai</th><th>Crudeoil_WTI</th>`;
                     tableHtml += "</tr></thead><tbody>";
 
                     // データ行の生成
                     data.forEach(item => {
                         tableHtml += "<tr>";
-                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["2010"]}</td>`;
+                        tableHtml += `<td>${item.Date}</td><td>${item.Crudeoil_average}</td><td>${item.Crudeoil_Brent}</td><td>${item.Crudeoil_Dubai}</td><td>${item.Crudeoil_WTI}</td>`;
                         tableHtml += "</tr>";
                     });
 
@@ -100,7 +96,7 @@
 
         // ページロード時にJSONを読み込む
         document.addEventListener("DOMContentLoaded", function() {
-            loadJSONAndDisplay("JSONTable/LP_2010.json", "tableContainer1"); // JSONファイルのパスを指定
+            loadJSONAndDisplay("JSONTable/CrudeOil.json", "tableContainer1"); // JSONファイルのパスを指定
         });
     </script>
 </body>

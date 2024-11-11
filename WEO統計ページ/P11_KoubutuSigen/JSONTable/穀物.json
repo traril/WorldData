@@ -2,7 +2,7 @@
     {
         "Date":"2024-10",
         "Soybeans":442.1,
-        "Maize":190.3357217391,
+        "Maize":190.34,
         "Rice_Thai5":515.0,
         "Rice_ThaiA1":504.81,
         "Rice_VietNamese5":529.84,
@@ -11,7 +11,7 @@
     {
         "Date":"2024-09",
         "Soybeans":391.31,
-        "Maize":184.9671542069,
+        "Maize":184.97,
         "Rice_Thai5":580.0,
         "Rice_ThaiA1":564.25,
         "Rice_VietNamese5":540.46,
@@ -20,7 +20,7 @@
     {
         "Date":"2024-08",
         "Soybeans":400.13,
-        "Maize":170.3247572727,
+        "Maize":170.32,
         "Rice_Thai5":589.0,
         "Rice_ThaiA1":566.7,
         "Rice_VietNamese5":535.25,
@@ -29,7 +29,7 @@
     {
         "Date":"2024-07",
         "Soybeans":469.63,
-        "Maize":177.42921392,
+        "Maize":177.43,
         "Rice_Thai5":590.0,
         "Rice_ThaiA1":570.87,
         "Rice_VietNamese5":552.43,
@@ -38,7 +38,7 @@
     {
         "Date":"2024-06",
         "Soybeans":479.72,
-        "Maize":192.506708,
+        "Maize":192.51,
         "Rice_Thai5":632.0,
         "Rice_ThaiA1":613.3,
         "Rice_VietNamese5":561.63,
@@ -47,7 +47,7 @@
     {
         "Date":"2024-05",
         "Soybeans":490.22,
-        "Maize":197.79344375,
+        "Maize":197.79,
         "Rice_Thai5":628.0,
         "Rice_ThaiA1":606.47,
         "Rice_VietNamese5":567.97,
@@ -56,7 +56,7 @@
     {
         "Date":"2024-04",
         "Soybeans":477.3,
-        "Maize":191.6510788889,
+        "Maize":191.65,
         "Rice_Thai5":592.0,
         "Rice_ThaiA1":577.95,
         "Rice_VietNamese5":571.5,
@@ -65,7 +65,7 @@
     {
         "Date":"2024-03",
         "Soybeans":487.49,
-        "Maize":190.56700446,
+        "Maize":190.57,
         "Rice_Thai5":613.0,
         "Rice_ThaiA1":607.72,
         "Rice_VietNamese5":585.43,
@@ -74,7 +74,7 @@
     {
         "Date":"2024-02",
         "Soybeans":519.75,
-        "Maize":189.128793,
+        "Maize":189.13,
         "Rice_Thai5":624.0,
         "Rice_ThaiA1":619.9,
         "Rice_VietNamese5":614.26,
@@ -83,7 +83,7 @@
     {
         "Date":"2024-01",
         "Soybeans":547.38,
-        "Maize":198.6248088461,
+        "Maize":198.62,
         "Rice_Thai5":660.0,
         "Rice_ThaiA1":648.86,
         "Rice_VietNamese5":625.51,
@@ -92,7 +92,7 @@
     {
         "Date":"2023-12",
         "Soybeans":547.43,
-        "Maize":206.5480394445,
+        "Maize":206.55,
         "Rice_Thai5":644.0,
         "Rice_ThaiA1":629.59,
         "Rice_VietNamese5":632.9,
@@ -101,7 +101,7 @@
     {
         "Date":"2023-11",
         "Soybeans":553.05,
-        "Maize":211.2604984,
+        "Maize":211.26,
         "Rice_Thai5":598.0,
         "Rice_ThaiA1":574.59,
         "Rice_VietNamese5":629.41,
@@ -110,7 +110,7 @@
     {
         "Date":"2023-10",
         "Soybeans":529.57,
-        "Maize":230.69648,
+        "Maize":230.7,
         "Rice_Thai5":590.0,
         "Rice_ThaiA1":574.71,
         "Rice_VietNamese5":616.15,
@@ -119,7 +119,7 @@
     {
         "Date":"2023-09",
         "Soybeans":619.04,
-        "Maize":223.80708,
+        "Maize":223.81,
         "Rice_Thai5":620.0,
         "Rice_ThaiA1":609.9,
         "Rice_VietNamese5":594.37,
@@ -128,7 +128,7 @@
     {
         "Date":"2023-08",
         "Soybeans":583.93,
-        "Maize":207.607148,
+        "Maize":207.61,
         "Rice_Thai5":635.0,
         "Rice_ThaiA1":626.0,
         "Rice_VietNamese5":541.15,
@@ -137,7 +137,7 @@
     {
         "Date":"2023-07",
         "Soybeans":633.85,
-        "Maize":242.3848392,
+        "Maize":242.38,
         "Rice_Thai5":547.0,
         "Rice_ThaiA1":533.45,
         "Rice_VietNamese5":502.76,
@@ -146,7 +146,7 @@
     {
         "Date":"2023-06",
         "Soybeans":591.89,
-        "Maize":266.8677984,
+        "Maize":266.87,
         "Rice_Thai5":514.0,
         "Rice_ThaiA1":495.75,
         "Rice_VietNamese5":508.24,
@@ -155,7 +155,7 @@
     {
         "Date":"2023-05",
         "Soybeans":595.0,
-        "Maize":268.135448,
+        "Maize":268.14,
         "Rice_Thai5":510.0,
         "Rice_ThaiA1":492.68,
         "Rice_VietNamese5":470.53,
@@ -164,7 +164,7 @@
     {
         "Date":"2023-04",
         "Soybeans":614.93,
-        "Maize":291.1145496,
+        "Maize":291.11,
         "Rice_Thai5":501.0,
         "Rice_ThaiA1":482.88,
         "Rice_VietNamese5":455.1,
@@ -173,7 +173,7 @@
     {
         "Date":"2023-03",
         "Soybeans":628.38,
-        "Maize":282.4890208,
+        "Maize":282.49,
         "Rice_Thai5":476.0,
         "Rice_ThaiA1":460.91,
         "Rice_VietNamese5":444.64,
@@ -182,7 +182,7 @@
     {
         "Date":"2023-02",
         "Soybeans":651.12,
-        "Maize":298.1771688,
+        "Maize":298.18,
         "Rice_Thai5":492.0,
         "Rice_ThaiA1":468.95,
         "Rice_VietNamese5":448.28,
@@ -191,7 +191,7 @@
     {
         "Date":"2023-01",
         "Soybeans":626.59,
-        "Maize":302.7753512,
+        "Maize":302.78,
         "Rice_Thai5":517.0,
         "Rice_ThaiA1":484.64,
         "Rice_VietNamese5":440.66,
@@ -200,7 +200,7 @@
     {
         "Date":"2022-12",
         "Soybeans":645.67,
-        "Maize":302.24782,
+        "Maize":302.25,
         "Rice_Thai5":467.0,
         "Rice_ThaiA1":446.39,
         "Rice_VietNamese5":432.35,
@@ -209,7 +209,7 @@
     {
         "Date":"2022-11",
         "Soybeans":648.92,
-        "Maize":320.9200624,
+        "Maize":320.92,
         "Rice_Thai5":440.0,
         "Rice_ThaiA1":417.5,
         "Rice_VietNamese5":421.21,
@@ -218,7 +218,7 @@
     {
         "Date":"2022-10",
         "Soybeans":626.0,
-        "Maize":343.5566624,
+        "Maize":343.56,
         "Rice_Thai5":431.0,
         "Rice_ThaiA1":411.62,
         "Rice_VietNamese5":409.08,
@@ -227,7 +227,7 @@
     {
         "Date":"2022-09",
         "Soybeans":664.45,
-        "Maize":312.6567192,
+        "Maize":312.66,
         "Rice_Thai5":439.0,
         "Rice_ThaiA1":423.36,
         "Rice_VietNamese5":392.24,
@@ -236,7 +236,7 @@
     {
         "Date":"2022-08",
         "Soybeans":671.11,
-        "Maize":289.8350896,
+        "Maize":289.84,
         "Rice_Thai5":431.0,
         "Rice_ThaiA1":412.55,
         "Rice_VietNamese5":395.8,
@@ -245,7 +245,7 @@
     {
         "Date":"2022-07",
         "Soybeans":678.2,
-        "Maize":322.9671984,
+        "Maize":322.97,
         "Rice_Thai5":418.0,
         "Rice_ThaiA1":405.67,
         "Rice_VietNamese5":411.09,
@@ -254,7 +254,7 @@
     {
         "Date":"2022-06",
         "Soybeans":737.06,
-        "Maize":335.7145568,
+        "Maize":335.71,
         "Rice_Thai5":444.0,
         "Rice_ThaiA1":427.55,
         "Rice_VietNamese5":411.92,
@@ -263,7 +263,7 @@
     {
         "Date":"2022-05",
         "Soybeans":724.09,
-        "Maize":344.8400592,
+        "Maize":344.84,
         "Rice_Thai5":464.0,
         "Rice_ThaiA1":442.86,
         "Rice_VietNamese5":406.45,
@@ -272,7 +272,7 @@
     {
         "Date":"2022-04",
         "Soybeans":720.79,
-        "Maize":348.1666552,
+        "Maize":348.17,
         "Rice_Thai5":431.0,
         "Rice_ThaiA1":409.06,
         "Rice_VietNamese5":402.38,
@@ -281,7 +281,7 @@
     {
         "Date":"2022-03",
         "Soybeans":720.6,
-        "Maize":335.5295272,
+        "Maize":335.53,
         "Rice_Thai5":422.0,
         "Rice_ThaiA1":407.13,
         "Rice_VietNamese5":391.67,
@@ -290,7 +290,7 @@
     {
         "Date":"2022-02",
         "Soybeans":661.63,
-        "Maize":292.622344,
+        "Maize":292.62,
         "Rice_Thai5":427.0,
         "Rice_ThaiA1":405.95,
         "Rice_VietNamese5":384.21,
@@ -299,7 +299,7 @@
     {
         "Date":"2022-01",
         "Soybeans":606.22,
-        "Maize":276.6231888,
+        "Maize":276.62,
         "Rice_Thai5":427.0,
         "Rice_ThaiA1":403.15,
         "Rice_VietNamese5":395.94,
@@ -308,7 +308,7 @@
     {
         "Date":"2021-12",
         "Soybeans":554.14,
-        "Maize":264.5372128,
+        "Maize":264.54,
         "Rice_Thai5":400.0,
         "Rice_ThaiA1":380.95,
         "Rice_VietNamese5":402.66,
@@ -317,7 +317,7 @@
     {
         "Date":"2021-11",
         "Soybeans":551.04,
-        "Maize":248.7191504,
+        "Maize":248.72,
         "Rice_Thai5":400.0,
         "Rice_ThaiA1":378.55,
         "Rice_VietNamese5":411.41,
@@ -326,7 +326,7 @@
     {
         "Date":"2021-10",
         "Soybeans":551.95,
-        "Maize":239.6487632,
+        "Maize":239.65,
         "Rice_Thai5":401.0,
         "Rice_ThaiA1":382.71,
         "Rice_VietNamese5":404.46,
@@ -335,7 +335,7 @@
     {
         "Date":"2021-09",
         "Soybeans":557.55,
-        "Maize":235.61748,
+        "Maize":235.62,
         "Rice_Thai5":400.0,
         "Rice_ThaiA1":381.27,
         "Rice_VietNamese5":387.3,
@@ -344,7 +344,7 @@
     {
         "Date":"2021-08",
         "Soybeans":585.8,
-        "Maize":256.6124344,
+        "Maize":256.61,
         "Rice_Thai5":403.0,
         "Rice_ThaiA1":381.0,
         "Rice_VietNamese5":384.46,
@@ -353,7 +353,7 @@
     {
         "Date":"2021-07",
         "Soybeans":600.44,
-        "Maize":278.4341168,
+        "Maize":278.43,
         "Rice_Thai5":414.0,
         "Rice_ThaiA1":397.0,
         "Rice_VietNamese5":436.17,
@@ -362,7 +362,7 @@
     {
         "Date":"2021-06",
         "Soybeans":614.68,
-        "Maize":292.5593552,
+        "Maize":292.56,
         "Rice_Thai5":466.0,
         "Rice_ThaiA1":438.59,
         "Rice_VietNamese5":474.0,
@@ -371,7 +371,7 @@
     {
         "Date":"2021-05",
         "Soybeans":646.8,
-        "Maize":305.3106504,
+        "Maize":305.31,
         "Rice_Thai5":493.0,
         "Rice_ThaiA1":462.75,
         "Rice_VietNamese5":477.7,
@@ -380,7 +380,7 @@
     {
         "Date":"2021-04",
         "Soybeans":597.13,
-        "Maize":268.233868,
+        "Maize":268.23,
         "Rice_Thai5":495.0,
         "Rice_ThaiA1":477.38,
         "Rice_VietNamese5":488.17,
@@ -389,7 +389,7 @@
     {
         "Date":"2021-03",
         "Soybeans":585.71,
-        "Maize":245.1720936,
+        "Maize":245.17,
         "Rice_Thai5":525.0,
         "Rice_ThaiA1":504.13,
         "Rice_VietNamese5":498.38,
@@ -398,7 +398,7 @@
     {
         "Date":"2021-02",
         "Soybeans":578.26,
-        "Maize":245.2350824,
+        "Maize":245.24,
         "Rice_Thai5":557.0,
         "Rice_ThaiA1":531.0,
         "Rice_VietNamese5":500.48,
@@ -407,7 +407,7 @@
     {
         "Date":"2021-01",
         "Soybeans":576.37,
-        "Maize":234.4679501472,
+        "Maize":234.47,
         "Rice_Thai5":545.0,
         "Rice_ThaiA1":517.75,
         "Rice_VietNamese5":490.98,
@@ -415,8 +415,8 @@
     },
     {
         "Date":"2020-12",
-        "Soybeans":510.9357370518,
-        "Maize":198.769032,
+        "Soybeans":510.94,
+        "Maize":198.77,
         "Rice_Thai5":520.0,
         "Rice_ThaiA1":496.55,
         "Rice_VietNamese5":477.39,
@@ -425,7 +425,7 @@
     {
         "Date":"2020-11",
         "Soybeans":499.98,
-        "Maize":190.3757744,
+        "Maize":190.38,
         "Rice_Thai5":489.0,
         "Rice_ThaiA1":468.48,
         "Rice_VietNamese5":469.5,
@@ -434,7 +434,7 @@
     {
         "Date":"2020-10",
         "Soybeans":454.25,
-        "Maize":186.7460448,
+        "Maize":186.75,
         "Rice_Thai5":471.0,
         "Rice_ThaiA1":454.5,
         "Rice_VietNamese5":459.17,
@@ -443,7 +443,7 @@
     {
         "Date":"2020-09",
         "Soybeans":423.41,
-        "Maize":166.0817816,
+        "Maize":166.08,
         "Rice_Thai5":507.0,
         "Rice_ThaiA1":483.0,
         "Rice_VietNamese5":462.66,
@@ -451,8 +451,8 @@
     },
     {
         "Date":"2020-08",
-        "Soybeans":384.5523629243,
-        "Maize":149.342508,
+        "Soybeans":384.55,
+        "Maize":149.34,
         "Rice_Thai5":505.0,
         "Rice_ThaiA1":480.85,
         "Rice_VietNamese5":448.91,
@@ -461,7 +461,7 @@
     {
         "Date":"2020-07",
         "Soybeans":381.07,
-        "Maize":152.5549368,
+        "Maize":152.55,
         "Rice_Thai5":480.0,
         "Rice_ThaiA1":459.7,
         "Rice_VietNamese5":444.19,
@@ -470,947 +470,947 @@
     {
         "Date":"2020-06",
         "Soybeans":369.58,
-        "Maize":147.9882488,
+        "Maize":147.99,
         "Rice_Thai5":520.0,
         "Rice_ThaiA1":493.64,
         "Rice_VietNamese5":449.46,
-        "Wheat_USHRW":198.415818
+        "Wheat_USHRW":198.42
     },
     {
         "Date":"2020-05",
         "Soybeans":359.17,
-        "Maize":143.9057872,
+        "Maize":143.91,
         "Rice_Thai5":510.0,
         "Rice_ThaiA1":492.89,
         "Rice_VietNamese5":438.42,
-        "Wheat_USHRW":205.764552
+        "Wheat_USHRW":205.76
     },
     {
         "Date":"2020-04",
         "Soybeans":361.26,
-        "Maize":146.9095656,
+        "Maize":146.91,
         "Rice_Thai5":564.0,
         "Rice_ThaiA1":543.7,
         "Rice_VietNamese5":407.14,
-        "Wheat_USHRW":218.9922732
+        "Wheat_USHRW":218.99
     },
     {
         "Date":"2020-03",
         "Soybeans":372.61,
-        "Maize":162.4205576,
+        "Maize":162.42,
         "Rice_Thai5":494.0,
         "Rice_ThaiA1":469.64,
         "Rice_VietNamese5":372.58,
-        "Wheat_USHRW":209.0714823
+        "Wheat_USHRW":209.07
     },
     {
         "Date":"2020-02",
         "Soybeans":375.63,
-        "Maize":168.711564,
+        "Maize":168.71,
         "Rice_Thai5":450.0,
         "Rice_ThaiA1":426.45,
         "Rice_VietNamese5":357.42,
-        "Wheat_USHRW":215.3179062
+        "Wheat_USHRW":215.32
     },
     {
         "Date":"2020-01",
         "Soybeans":387.23,
-        "Maize":171.7862048,
+        "Maize":171.79,
         "Rice_Thai5":451.0,
         "Rice_ThaiA1":426.0,
         "Rice_VietNamese5":348.68,
-        "Wheat_USHRW":224.5038237
+        "Wheat_USHRW":224.5
     },
     {
         "Date":"2019-12",
         "Soybeans":383.2,
-        "Maize":166.9557512,
+        "Maize":166.96,
         "Rice_Thai5":432.0,
         "Rice_ThaiA1":400.9,
         "Rice_VietNamese5":337.43,
-        "Wheat_USHRW":210.9086658
+        "Wheat_USHRW":210.91
     },
     {
         "Date":"2019-11",
         "Soybeans":375.51,
-        "Maize":166.3337368,
+        "Maize":166.33,
         "Rice_Thai5":421.0,
         "Rice_ThaiA1":394.76,
         "Rice_VietNamese5":328.24,
-        "Wheat_USHRW":203.1924951
+        "Wheat_USHRW":203.19
     },
     {
         "Date":"2019-10",
         "Soybeans":381.65,
-        "Maize":167.1486544,
+        "Maize":167.15,
         "Rice_Thai5":424.0,
         "Rice_ThaiA1":397.04,
         "Rice_VietNamese5":325.79,
-        "Wheat_USHRW":199.5181281
+        "Wheat_USHRW":199.52
     },
     {
         "Date":"2019-09",
         "Soybeans":366.07,
-        "Maize":157.2594128,
+        "Maize":157.26,
         "Rice_Thai5":427.0,
         "Rice_ThaiA1":401.71,
         "Rice_VietNamese5":350.85,
-        "Wheat_USHRW":189.5973372
+        "Wheat_USHRW":189.6
     },
     {
         "Date":"2019-08",
         "Soybeans":360.93,
-        "Maize":163.5858504,
+        "Maize":163.59,
         "Rice_Thai5":430.0,
         "Rice_ThaiA1":407.52,
         "Rice_VietNamese5":362.39,
-        "Wheat_USHRW":181.1462931
+        "Wheat_USHRW":181.15
     },
     {
         "Date":"2019-07",
         "Soybeans":369.58,
-        "Maize":189.419132,
+        "Maize":189.42,
         "Rice_Thai5":416.0,
         "Rice_ThaiA1":391.7,
         "Rice_VietNamese5":360.16,
-        "Wheat_USHRW":196.2111978
+        "Wheat_USHRW":196.21
     },
     {
         "Date":"2019-06",
         "Soybeans":358.95,
-        "Maize":195.0802504,
+        "Maize":195.08,
         "Rice_Thai5":420.0,
         "Rice_ThaiA1":394.2,
         "Rice_VietNamese5":358.82,
-        "Wheat_USHRW":206.1319887
+        "Wheat_USHRW":206.13
     },
     {
         "Date":"2019-05",
         "Soybeans":339.81,
-        "Maize":171.0815176,
+        "Maize":171.08,
         "Rice_Thai5":409.0,
         "Rice_ThaiA1":386.76,
         "Rice_VietNamese5":350.94,
-        "Wheat_USHRW":199.5181281
+        "Wheat_USHRW":199.52
     },
     {
         "Date":"2019-04",
         "Soybeans":359.84,
-        "Maize":161.487536,
+        "Maize":161.49,
         "Rice_Thai5":413.0,
         "Rice_ThaiA1":391.3,
         "Rice_VietNamese5":341.11,
-        "Wheat_USHRW":199.5181281
+        "Wheat_USHRW":199.52
     },
     {
         "Date":"2019-03",
         "Soybeans":369.53,
-        "Maize":166.2235064,
+        "Maize":166.22,
         "Rice_Thai5":406.0,
         "Rice_ThaiA1":382.43,
         "Rice_VietNamese5":342.62,
-        "Wheat_USHRW":205.764552
+        "Wheat_USHRW":205.76
     },
     {
         "Date":"2019-02",
         "Soybeans":380.33,
-        "Maize":169.5225448,
+        "Maize":169.52,
         "Rice_Thai5":408.0,
         "Rice_ThaiA1":386.25,
         "Rice_VietNamese5":367.95,
-        "Wheat_USHRW":218.9922732
+        "Wheat_USHRW":218.99
     },
     {
         "Date":"2019-01",
         "Soybeans":381.96,
-        "Maize":166.743164,
+        "Maize":166.74,
         "Rice_Thai5":410.0,
         "Rice_ThaiA1":387.35,
         "Rice_VietNamese5":396.31,
-        "Wheat_USHRW":209.8063557
+        "Wheat_USHRW":209.81
     },
     {
         "Date":"2018-12",
         "Soybeans":380.53,
-        "Maize":167.4399776,
+        "Maize":167.44,
         "Rice_Thai5":404.0,
         "Rice_ThaiA1":379.33,
         "Rice_VietNamese5":399.52,
-        "Wheat_USHRW":211.2761025
+        "Wheat_USHRW":211.28
     },
     {
         "Date":"2018-11",
         "Soybeans":374.04,
-        "Maize":160.6883656,
+        "Maize":160.69,
         "Rice_Thai5":401.0,
         "Rice_ThaiA1":378.81,
         "Rice_VietNamese5":395.73,
-        "Wheat_USHRW":203.5599318
+        "Wheat_USHRW":203.56
     },
     {
         "Date":"2018-10",
         "Soybeans":367.96,
-        "Maize":160.2553176,
+        "Maize":160.26,
         "Rice_Thai5":409.0,
         "Rice_ThaiA1":390.39,
         "Rice_VietNamese5":389.8,
-        "Wheat_USHRW":213.4807227
+        "Wheat_USHRW":213.48
     },
     {
         "Date":"2018-09",
         "Soybeans":356.87,
-        "Maize":154.8028496,
+        "Maize":154.8,
         "Rice_Thai5":405.0,
         "Rice_ThaiA1":395.35,
         "Rice_VietNamese5":384.65,
-        "Wheat_USHRW":212.3784126
+        "Wheat_USHRW":212.38
     },
     {
         "Date":"2018-08",
         "Soybeans":376.77,
-        "Maize":162.373316,
+        "Maize":162.37,
         "Rice_Thai5":405.0,
         "Rice_ThaiA1":393.5,
         "Rice_VietNamese5":401.56,
-        "Wheat_USHRW":236.6292348
+        "Wheat_USHRW":236.63
     },
     {
         "Date":"2018-07",
         "Soybeans":377.17,
-        "Maize":156.4602424,
+        "Maize":156.46,
         "Rice_Thai5":398.0,
         "Rice_ThaiA1":382.73,
         "Rice_VietNamese5":440.65,
-        "Wheat_USHRW":218.2573998
+        "Wheat_USHRW":218.26
     },
     {
         "Date":"2018-06",
         "Soybeans":394.44,
-        "Maize":165.070024,
+        "Maize":165.07,
         "Rice_Thai5":427.0,
         "Rice_ThaiA1":408.6,
         "Rice_VietNamese5":443.1,
-        "Wheat_USHRW":219.3597099
+        "Wheat_USHRW":219.36
     },
     {
         "Date":"2018-05",
         "Soybeans":430.32,
-        "Maize":179.085032,
+        "Maize":179.09,
         "Rice_Thai5":451.0,
         "Rice_ThaiA1":431.76,
         "Rice_VietNamese5":419.0,
-        "Wheat_USHRW":213.8481594
+        "Wheat_USHRW":213.85
     },
     {
         "Date":"2018-04",
         "Soybeans":439.07,
-        "Maize":175.6049008,
+        "Maize":175.6,
         "Rice_Thai5":451.0,
         "Rice_ThaiA1":430.24,
         "Rice_VietNamese5":413.43,
-        "Wheat_USHRW":213.8481594
+        "Wheat_USHRW":213.85
     },
     {
         "Date":"2018-03",
         "Soybeans":430.11,
-        "Maize":171.998792,
+        "Maize":172.0,
         "Rice_Thai5":430.0,
         "Rice_ThaiA1":403.5,
         "Rice_VietNamese5":409.92,
-        "Wheat_USHRW":192.1693941
+        "Wheat_USHRW":192.17
     },
     {
         "Date":"2018-02",
         "Soybeans":416.28,
-        "Maize":163.357516,
+        "Maize":163.36,
         "Rice_Thai5":425.0,
         "Rice_ThaiA1":407.8,
         "Rice_VietNamese5":395.43,
-        "Wheat_USHRW":192.1693941
+        "Wheat_USHRW":192.17
     },
     {
         "Date":"2018-01",
         "Soybeans":389.53,
-        "Maize":155.838228,
+        "Maize":155.84,
         "Rice_Thai5":442.0,
         "Rice_ThaiA1":410.83,
         "Rice_VietNamese5":380.94,
-        "Wheat_USHRW":192.1693941
+        "Wheat_USHRW":192.17
     },
     {
         "Date":"2017-12",
-        "Soybeans":387.15455,
-        "Maize":148.9803224,
+        "Soybeans":387.15,
+        "Maize":148.98,
         "Rice_Thai5":406.0,
         "Rice_ThaiA1":388.5,
         "Rice_VietNamese5":383.24,
-        "Wheat_USHRW":184.0857867
+        "Wheat_USHRW":184.09
     },
     {
         "Date":"2017-11",
         "Soybeans":393.85,
-        "Maize":148.7047464,
+        "Maize":148.7,
         "Rice_Thai5":402.0,
         "Rice_ThaiA1":378.82,
         "Rice_VietNamese5":379.01,
-        "Wheat_USHRW":179.6765463
+        "Wheat_USHRW":179.68
     },
     {
         "Date":"2017-10",
         "Soybeans":396.52,
-        "Maize":148.6220736,
+        "Maize":148.62,
         "Rice_Thai5":394.0,
         "Rice_ThaiA1":375.68,
         "Rice_VietNamese5":376.19,
-        "Wheat_USHRW":175.6347426
+        "Wheat_USHRW":175.63
     },
     {
         "Date":"2017-09",
         "Soybeans":393.95,
-        "Maize":147.2914352,
+        "Maize":147.29,
         "Rice_Thai5":402.0,
         "Rice_ThaiA1":384.81,
         "Rice_VietNamese5":382.0,
-        "Wheat_USHRW":178.5742362
+        "Wheat_USHRW":178.57
     },
     {
         "Date":"2017-08",
         "Soybeans":392.87,
-        "Maize":148.496096,
+        "Maize":148.5,
         "Rice_Thai5":393.0,
         "Rice_ThaiA1":376.14,
         "Rice_VietNamese5":390.37,
-        "Wheat_USHRW":171.2255022
+        "Wheat_USHRW":171.23
     },
     {
         "Date":"2017-07",
         "Soybeans":410.23,
-        "Maize":157.511368,
+        "Maize":157.51,
         "Rice_Thai5":417.0,
         "Rice_ThaiA1":397.43,
         "Rice_VietNamese5":385.87,
-        "Wheat_USHRW":202.4576217
+        "Wheat_USHRW":202.46
     },
     {
         "Date":"2017-06",
         "Soybeans":378.59,
-        "Maize":157.9326056,
+        "Maize":157.93,
         "Rice_Thai5":458.0,
         "Rice_ThaiA1":440.86,
         "Rice_VietNamese5":357.18,
-        "Wheat_USHRW":189.5973372
+        "Wheat_USHRW":189.6
     },
     {
         "Date":"2017-05",
         "Soybeans":389.72,
-        "Maize":158.5900512,
+        "Maize":158.59,
         "Rice_Thai5":421.0,
         "Rice_ThaiA1":394.95,
         "Rice_VietNamese5":345.0,
-        "Wheat_USHRW":180.4114197
+        "Wheat_USHRW":180.41
     },
     {
         "Date":"2017-04",
         "Soybeans":387.44,
-        "Maize":156.4405584,
+        "Maize":156.44,
         "Rice_Thai5":380.0,
         "Rice_ThaiA1":358.53,
         "Rice_VietNamese5":344.65,
-        "Wheat_USHRW":166.0813884
+        "Wheat_USHRW":166.08
     },
     {
         "Date":"2017-03",
-        "Soybeans":383.681592,
-        "Maize":158.9640472,
+        "Soybeans":383.68,
+        "Maize":158.96,
         "Rice_Thai5":370.0,
         "Rice_ThaiA1":358.43,
         "Rice_VietNamese5":343.56,
-        "Wheat_USHRW":154.323414
+        "Wheat_USHRW":154.32
     },
     {
         "Date":"2017-02",
-        "Soybeans":394.5312,
-        "Maize":162.8575424,
+        "Soybeans":394.53,
+        "Maize":162.86,
         "Rice_Thai5":367.0,
         "Rice_ThaiA1":348.75,
         "Rice_VietNamese5":335.34,
-        "Wheat_USHRW":155.0582874
+        "Wheat_USHRW":155.06
     },
     {
         "Date":"2017-01",
         "Soybeans":412.0,
-        "Maize":159.9876152,
+        "Maize":159.99,
         "Rice_Thai5":377.0,
         "Rice_ThaiA1":355.91,
         "Rice_VietNamese5":336.55,
-        "Wheat_USHRW":153.2211039
+        "Wheat_USHRW":153.22
     },
     {
         "Date":"2016-12",
         "Soybeans":416.07,
-        "Maize":152.4486432,
+        "Maize":152.45,
         "Rice_Thai5":373.0,
         "Rice_ThaiA1":354.42,
         "Rice_VietNamese5":341.0,
-        "Wheat_USHRW":141.8305662
+        "Wheat_USHRW":141.83
     },
     {
         "Date":"2016-11",
         "Soybeans":397.76,
-        "Maize":151.803008,
+        "Maize":151.8,
         "Rice_Thai5":365.0,
         "Rice_ThaiA1":339.59,
         "Rice_VietNamese5":338.0,
-        "Wheat_USHRW":150.649047
+        "Wheat_USHRW":150.65
     },
     {
         "Date":"2016-10",
         "Soybeans":401.87,
-        "Maize":152.2596768,
+        "Maize":152.26,
         "Rice_Thai5":369.0,
         "Rice_ThaiA1":349.9,
         "Rice_VietNamese5":336.39,
-        "Wheat_USHRW":151.7513571
+        "Wheat_USHRW":151.75
     },
     {
         "Date":"2016-09",
         "Soybeans":403.53,
-        "Maize":148.4252336,
+        "Maize":148.43,
         "Rice_Thai5":384.0,
         "Rice_ThaiA1":365.27,
         "Rice_VietNamese5":342.73,
-        "Wheat_USHRW":150.649047
+        "Wheat_USHRW":150.65
     },
     {
         "Date":"2016-08",
         "Soybeans":412.17,
-        "Maize":150.1534888,
+        "Maize":150.15,
         "Rice_Thai5":415.0,
         "Rice_ThaiA1":393.78,
         "Rice_VietNamese5":347.46,
-        "Wheat_USHRW":149.1793002
+        "Wheat_USHRW":149.18
     },
     {
         "Date":"2016-07",
         "Soybeans":431.08,
-        "Maize":161.7591752,
+        "Maize":161.76,
         "Rice_Thai5":442.0,
         "Rice_ThaiA1":417.89,
         "Rice_VietNamese5":361.57,
-        "Wheat_USHRW":151.7513571
+        "Wheat_USHRW":151.75
     },
     {
         "Date":"2016-06",
         "Soybeans":457.4,
-        "Maize":179.872392,
+        "Maize":179.87,
         "Rice_Thai5":441.0,
         "Rice_ThaiA1":426.79,
         "Rice_VietNamese5":372.46,
-        "Wheat_USHRW":173.0626857
+        "Wheat_USHRW":173.06
     },
     {
         "Date":"2016-05",
         "Soybeans":422.55,
-        "Maize":168.9556456,
+        "Maize":168.96,
         "Rice_Thai5":433.0,
         "Rice_ThaiA1":414.38,
         "Rice_VietNamese5":377.31,
-        "Wheat_USHRW":171.9603756
+        "Wheat_USHRW":171.96
     },
     {
         "Date":"2016-04",
         "Soybeans":395.14,
-        "Maize":164.4125784,
+        "Maize":164.41,
         "Rice_Thai5":395.0,
         "Rice_ThaiA1":383.53,
         "Rice_VietNamese5":371.0,
-        "Wheat_USHRW":187.392717
+        "Wheat_USHRW":187.39
     },
     {
         "Date":"2016-03",
         "Soybeans":380.97,
-        "Maize":159.1372664,
+        "Maize":159.14,
         "Rice_Thai5":384.0,
         "Rice_ThaiA1":374.9,
         "Rice_VietNamese5":360.2,
-        "Wheat_USHRW":191.067084
+        "Wheat_USHRW":191.07
     },
     {
         "Date":"2016-02",
         "Soybeans":373.75,
-        "Maize":159.676608,
+        "Maize":159.68,
         "Rice_Thai5":384.0,
         "Rice_ThaiA1":377.38,
         "Rice_VietNamese5":360.13,
-        "Wheat_USHRW":187.0252803
+        "Wheat_USHRW":187.03
     },
     {
         "Date":"2016-01",
         "Soybeans":373.08,
-        "Maize":161.0269304,
+        "Maize":161.03,
         "Rice_Thai5":369.0,
         "Rice_ThaiA1":366.19,
         "Rice_VietNamese5":364.91,
-        "Wheat_USHRW":193.2717042
+        "Wheat_USHRW":193.27
     },
     {
         "Date":"2015-12",
         "Soybeans":368.42,
-        "Maize":163.948036,
+        "Maize":163.95,
         "Rice_Thai5":363.0,
         "Rice_ThaiA1":360.24,
         "Rice_VietNamese5":371.0,
-        "Wheat_USHRW":189.2299005
+        "Wheat_USHRW":189.23
     },
     {
         "Date":"2015-11",
         "Soybeans":368.0,
-        "Maize":166.1565808,
+        "Maize":166.16,
         "Rice_Thai5":368.0,
         "Rice_ThaiA1":366.24,
         "Rice_VietNamese5":353.61,
-        "Wheat_USHRW":177.1044894
+        "Wheat_USHRW":177.1
     },
     {
         "Date":"2015-10",
         "Soybeans":375.95,
-        "Maize":171.388588,
+        "Maize":171.39,
         "Rice_Thai5":373.0,
         "Rice_ThaiA1":369.27,
         "Rice_VietNamese5":342.4,
-        "Wheat_USHRW":172.709946468
+        "Wheat_USHRW":172.71
     },
     {
         "Date":"2015-09",
         "Soybeans":367.49,
-        "Maize":165.621176,
+        "Maize":165.62,
         "Rice_Thai5":357.0,
         "Rice_ThaiA1":360.0,
         "Rice_VietNamese5":326.43,
-        "Wheat_USHRW":172.695249
+        "Wheat_USHRW":172.7
     },
     {
         "Date":"2015-08",
         "Soybeans":378.78,
-        "Maize":162.5937768,
+        "Maize":162.59,
         "Rice_Thai5":373.0,
         "Rice_ThaiA1":377.5,
         "Rice_VietNamese5":340.13,
-        "Wheat_USHRW":179.6765463
+        "Wheat_USHRW":179.68
     },
     {
         "Date":"2015-07",
         "Soybeans":405.87,
-        "Maize":179.596816,
+        "Maize":179.6,
         "Rice_Thai5":392.0,
         "Rice_ThaiA1":389.86,
         "Rice_VietNamese5":345.78,
-        "Wheat_USHRW":197.3135079
+        "Wheat_USHRW":197.31
     },
     {
         "Date":"2015-06",
         "Soybeans":391.48,
-        "Maize":166.7195432,
+        "Maize":166.72,
         "Rice_Thai5":376.0,
         "Rice_ThaiA1":375.95,
         "Rice_VietNamese5":349.0,
-        "Wheat_USHRW":209.8063557
+        "Wheat_USHRW":209.81
     },
     {
         "Date":"2015-05",
         "Soybeans":388.2,
-        "Maize":166.2943688,
+        "Maize":166.29,
         "Rice_Thai5":381.0,
         "Rice_ThaiA1":386.53,
         "Rice_VietNamese5":351.0,
-        "Wheat_USHRW":215.3179062
+        "Wheat_USHRW":215.32
     },
     {
         "Date":"2015-04",
         "Soybeans":394.73,
-        "Maize":172.0539072,
+        "Maize":172.05,
         "Rice_Thai5":399.0,
         "Rice_ThaiA1":400.26,
         "Rice_VietNamese5":354.02,
-        "Wheat_USHRW":223.4015136
+        "Wheat_USHRW":223.4
     },
     {
         "Date":"2015-03",
         "Soybeans":409.79,
-        "Maize":174.2270208,
+        "Maize":174.23,
         "Rice_Thai5":410.0,
         "Rice_ThaiA1":411.0,
         "Rice_VietNamese5":360.74,
-        "Wheat_USHRW":230.7502476
+        "Wheat_USHRW":230.75
     },
     {
         "Date":"2015-02",
         "Soybeans":423.55,
-        "Maize":173.6955528,
+        "Maize":173.7,
         "Rice_Thai5":420.0,
         "Rice_ThaiA1":417.0,
         "Rice_VietNamese5":353.5,
-        "Wheat_USHRW":236.9966715
+        "Wheat_USHRW":237.0
     },
     {
         "Date":"2015-01",
         "Soybeans":433.21,
-        "Maize":174.7073104,
+        "Maize":174.71,
         "Rice_Thai5":420.0,
         "Rice_ThaiA1":418.55,
         "Rice_VietNamese5":374.42,
-        "Wheat_USHRW":248.3872092
+        "Wheat_USHRW":248.39
     },
     {
         "Date":"2014-12",
         "Soybeans":448.32,
-        "Maize":178.7346568,
+        "Maize":178.73,
         "Rice_Thai5":418.0,
         "Rice_ThaiA1":421.18,
         "Rice_VietNamese5":382.39,
-        "Wheat_USHRW":269.6985378
+        "Wheat_USHRW":269.7
     },
     {
         "Date":"2014-11",
         "Soybeans":449.9,
-        "Maize":178.7425304,
+        "Maize":178.74,
         "Rice_Thai5":418.0,
         "Rice_ThaiA1":423.8,
         "Rice_VietNamese5":422.0,
-        "Wheat_USHRW":258.6754368
+        "Wheat_USHRW":258.68
     },
     {
         "Date":"2014-10",
         "Soybeans":425.81,
-        "Maize":163.121308,
+        "Maize":163.12,
         "Rice_Thai5":428.0,
         "Rice_ThaiA1":437.57,
         "Rice_VietNamese5":436.96,
-        "Wheat_USHRW":245.4477156
+        "Wheat_USHRW":245.45
     },
     {
         "Date":"2014-09",
         "Soybeans":430.17,
-        "Maize":163.0583192,
+        "Maize":163.06,
         "Rice_Thai5":432.0,
         "Rice_ThaiA1":449.91,
         "Rice_VietNamese5":442.05,
-        "Wheat_USHRW":243.6105321
+        "Wheat_USHRW":243.61
     },
     {
         "Date":"2014-08",
         "Soybeans":458.57,
-        "Maize":176.4237552,
+        "Maize":176.42,
         "Rice_Thai5":445.0,
         "Rice_ThaiA1":460.57,
         "Rice_VietNamese5":442.62,
-        "Wheat_USHRW":263.4521139
+        "Wheat_USHRW":263.45
     },
     {
         "Date":"2014-07",
         "Soybeans":471.74,
-        "Maize":182.726572,
+        "Maize":182.73,
         "Rice_Thai5":422.0,
         "Rice_ThaiA1":435.39,
         "Rice_VietNamese5":420.87,
-        "Wheat_USHRW":280.3542021
+        "Wheat_USHRW":280.35
     },
     {
         "Date":"2014-06",
         "Soybeans":511.14,
-        "Maize":202.3948248,
+        "Maize":202.39,
         "Rice_Thai5":397.0,
         "Rice_ThaiA1":402.57,
         "Rice_VietNamese5":404.5,
-        "Wheat_USHRW":306.4422078
+        "Wheat_USHRW":306.44
     },
     {
         "Date":"2014-05",
         "Soybeans":519.42,
-        "Maize":217.2956128,
+        "Maize":217.3,
         "Rice_Thai5":388.0,
         "Rice_ThaiA1":391.55,
         "Rice_VietNamese5":390.48,
-        "Wheat_USHRW":334.7348337
+        "Wheat_USHRW":334.73
     },
     {
         "Date":"2014-04",
         "Soybeans":516.18,
-        "Maize":222.3583376,
+        "Maize":222.36,
         "Rice_Thai5":395.0,
         "Rice_ThaiA1":399.29,
         "Rice_VietNamese5":370.91,
-        "Wheat_USHRW":324.8140428
+        "Wheat_USHRW":324.81
     },
     {
         "Date":"2014-03",
         "Soybeans":530.81,
-        "Maize":222.33078,
+        "Maize":222.33,
         "Rice_Thai5":422.0,
         "Rice_ThaiA1":425.1,
         "Rice_VietNamese5":378.57,
-        "Wheat_USHRW":323.7117327
+        "Wheat_USHRW":323.71
     },
     {
         "Date":"2014-02",
         "Soybeans":490.73,
-        "Maize":209.3235928,
+        "Maize":209.32,
         "Rice_Thai5":459.0,
         "Rice_ThaiA1":449.85,
         "Rice_VietNamese5":393.16,
-        "Wheat_USHRW":292.1121765
+        "Wheat_USHRW":292.11
     },
     {
         "Date":"2014-01",
         "Soybeans":565.5,
-        "Maize":198.0643448,
+        "Maize":198.06,
         "Rice_Thai5":450.0,
         "Rice_ThaiA1":405.0,
         "Rice_VietNamese5":402.0,
-        "Wheat_USHRW":275.577525
+        "Wheat_USHRW":275.58
     },
     {
         "Date":"2013-12",
         "Soybeans":564.03,
-        "Maize":197.391152,
+        "Maize":197.39,
         "Rice_Thai5":451.0,
-        "Rice_ThaiA1":400.7619047619,
-        "Rice_VietNamese5":419.4117647059,
-        "Wheat_USHRW":291.5566472036
+        "Rice_ThaiA1":400.76,
+        "Rice_VietNamese5":419.41,
+        "Wheat_USHRW":291.56
     },
     {
         "Date":"2013-11",
         "Soybeans":551.32,
-        "Maize":199.13474,
+        "Maize":199.13,
         "Rice_Thai5":438.0,
         "Rice_ThaiA1":414.3,
-        "Rice_VietNamese5":395.8823529412,
-        "Wheat_USHRW":306.7516281789
+        "Rice_VietNamese5":395.88,
+        "Wheat_USHRW":306.75
     },
     {
         "Date":"2013-10",
         "Soybeans":540.85,
-        "Maize":201.7252109091,
+        "Maize":201.73,
         "Rice_Thai5":439.0,
-        "Rice_ThaiA1":420.4347826087,
-        "Rice_VietNamese5":376.3157894737,
-        "Wheat_USHRW":325.6867049625
+        "Rice_ThaiA1":420.43,
+        "Rice_VietNamese5":376.32,
+        "Wheat_USHRW":325.69
     },
     {
         "Date":"2013-09",
         "Soybeans":560.18,
-        "Maize":207.405387,
+        "Maize":207.41,
         "Rice_Thai5":444.0,
-        "Rice_ThaiA1":431.4761904762,
+        "Rice_ThaiA1":431.48,
         "Rice_VietNamese5":362.0,
-        "Wheat_USHRW":307.50777423
+        "Wheat_USHRW":307.51
     },
     {
         "Date":"2013-08",
         "Soybeans":511.71,
-        "Maize":238.7356045455,
+        "Maize":238.74,
         "Rice_Thai5":478.75,
         "Rice_ThaiA1":428.25,
-        "Rice_VietNamese5":399.4391351351,
-        "Wheat_USHRW":305.3398977
+        "Rice_VietNamese5":399.44,
+        "Wheat_USHRW":305.34
     },
     {
         "Date":"2013-07",
         "Soybeans":511.3,
-        "Maize":279.5128,
+        "Maize":279.51,
         "Rice_Thai5":509.0,
         "Rice_ThaiA1":461.8,
-        "Rice_VietNamese5":387.7405855856,
-        "Wheat_USHRW":304.6050243
+        "Rice_VietNamese5":387.74,
+        "Wheat_USHRW":304.61
     },
     {
         "Date":"2013-06",
         "Soybeans":524.66,
-        "Maize":298.40944,
+        "Maize":298.41,
         "Rice_Thai5":524.25,
         "Rice_ThaiA1":492.0,
-        "Rice_VietNamese5":385.9315315315,
-        "Wheat_USHRW":313.4235051
+        "Rice_VietNamese5":385.93,
+        "Wheat_USHRW":313.42
     },
     {
         "Date":"2013-05",
         "Soybeans":498.01,
-        "Maize":295.5375444,
+        "Maize":295.54,
         "Rice_Thai5":543.5,
         "Rice_ThaiA1":510.75,
-        "Rice_VietNamese5":386.8481189189,
-        "Wheat_USHRW":319.669929
+        "Rice_VietNamese5":386.85,
+        "Wheat_USHRW":319.67
     },
     {
         "Date":"2013-04",
         "Soybeans":563.88,
-        "Maize":279.90648,
+        "Maize":279.91,
         "Rice_Thai5":557.0,
         "Rice_ThaiA1":530.6,
-        "Rice_VietNamese5":390.7556756757,
-        "Wheat_USHRW":308.2793913
+        "Rice_VietNamese5":390.76,
+        "Wheat_USHRW":308.28
     },
     {
         "Date":"2013-03",
         "Soybeans":584.7,
-        "Maize":309.0388,
+        "Maize":309.04,
         "Rice_Thai5":559.0,
         "Rice_ThaiA1":532.5,
         "Rice_VietNamese5":401.61,
-        "Wheat_USHRW":309.7491381
+        "Wheat_USHRW":309.75
     },
     {
         "Date":"2013-02",
         "Soybeans":610.73,
-        "Maize":302.73992,
+        "Maize":302.74,
         "Rice_Thai5":563.0,
         "Rice_ThaiA1":535.0,
-        "Rice_VietNamese5":401.645,
-        "Wheat_USHRW":318.9350556
+        "Rice_VietNamese5":401.64,
+        "Wheat_USHRW":318.94
     },
     {
         "Date":"2013-01",
         "Soybeans":595.3,
-        "Maize":303.1336,
+        "Maize":303.13,
         "Rice_Thai5":564.2,
         "Rice_ThaiA1":530.0,
-        "Rice_VietNamese5":401.245,
-        "Wheat_USHRW":335.4697071
+        "Rice_VietNamese5":401.24,
+        "Wheat_USHRW":335.47
     },
     {
         "Date":"2012-12",
         "Soybeans":591.29,
-        "Maize":308.64512,
+        "Maize":308.65,
         "Rice_Thai5":557.8,
         "Rice_ThaiA1":520.4,
         "Rice_VietNamese5":413.75,
-        "Wheat_USHRW":347.9625549
+        "Wheat_USHRW":347.96
     },
     {
         "Date":"2012-11",
         "Soybeans":584.59,
-        "Maize":321.63656,
+        "Maize":321.64,
         "Rice_Thai5":559.25,
         "Rice_ThaiA1":523.0,
-        "Rice_VietNamese5":448.3225,
-        "Wheat_USHRW":360.8228394
+        "Rice_VietNamese5":448.32,
+        "Wheat_USHRW":360.82
     },
     {
         "Date":"2012-10",
         "Soybeans":625.76,
-        "Maize":321.24288,
+        "Maize":321.24,
         "Rice_Thai5":558.25,
         "Rice_ThaiA1":520.25,
-        "Rice_VietNamese5":453.744,
-        "Wheat_USHRW":358.195666995
+        "Rice_VietNamese5":453.74,
+        "Wheat_USHRW":358.2
     },
     {
         "Date":"2012-09",
         "Soybeans":677.32,
-        "Maize":320.8492,
+        "Maize":320.85,
         "Rice_Thai5":563.25,
         "Rice_ThaiA1":512.0,
-        "Rice_VietNamese5":455.1775,
-        "Wheat_USHRW":353.4209237724
+        "Rice_VietNamese5":455.18,
+        "Wheat_USHRW":353.42
     },
     {
         "Date":"2012-08",
         "Soybeans":684.02,
-        "Maize":331.9920556522,
+        "Maize":331.99,
         "Rice_Thai5":567.75,
         "Rice_ThaiA1":509.0,
-        "Rice_VietNamese5":436.428,
-        "Wheat_USHRW":349.4003506826
+        "Rice_VietNamese5":436.43,
+        "Wheat_USHRW":349.4
     },
     {
         "Date":"2012-07",
         "Soybeans":670.19,
-        "Maize":333.05328,
+        "Maize":333.05,
         "Rice_Thai5":573.75,
         "Rice_ThaiA1":518.75,
-        "Rice_VietNamese5":409.285,
-        "Wheat_USHRW":345.6879467571
+        "Rice_VietNamese5":409.28,
+        "Wheat_USHRW":345.69
     },
     {
         "Date":"2012-06",
         "Soybeans":578.01,
-        "Maize":267.30872,
+        "Maize":267.31,
         "Rice_Thai5":600.0,
         "Rice_ThaiA1":541.2,
-        "Rice_VietNamese5":411.9625,
-        "Wheat_USHRW":276.1899195
+        "Rice_VietNamese5":411.96,
+        "Wheat_USHRW":276.19
     },
     {
         "Date":"2012-05",
         "Soybeans":577.48,
-        "Maize":269.27712,
+        "Maize":269.28,
         "Rice_Thai5":600.5,
         "Rice_ThaiA1":561.75,
-        "Rice_VietNamese5":433.288,
-        "Wheat_USHRW":264.3587240185
+        "Rice_VietNamese5":433.29,
+        "Wheat_USHRW":264.36
     },
     {
         "Date":"2012-04",
         "Soybeans":583.83,
-        "Maize":274.00128,
+        "Maize":274.0,
         "Rice_Thai5":547.75,
         "Rice_ThaiA1":533.25,
-        "Rice_VietNamese5":440.715,
-        "Wheat_USHRW":266.3239217921
+        "Rice_VietNamese5":440.72,
+        "Wheat_USHRW":266.32
     },
     {
         "Date":"2012-03",
         "Soybeans":547.46,
-        "Maize":280.69384,
+        "Maize":280.69,
         "Rice_Thai5":548.0,
         "Rice_ThaiA1":526.75,
-        "Rice_VietNamese5":428.7475,
-        "Wheat_USHRW":283.8782540864
+        "Rice_VietNamese5":428.75,
+        "Wheat_USHRW":283.88
     },
     {
         "Date":"2012-02",
         "Soybeans":522.96,
-        "Maize":279.458669,
+        "Maize":279.46,
         "Rice_Thai5":537.5,
         "Rice_ThaiA1":518.25,
         "Rice_VietNamese5":430.43,
-        "Wheat_USHRW":277.7729592825
+        "Wheat_USHRW":277.77
     },
     {
         "Date":"2012-01",
         "Soybeans":503.18,
-        "Maize":272.844845,
+        "Maize":272.84,
         "Rice_Thai5":542.0,
         "Rice_ThaiA1":516.25,
         "Rice_VietNamese5":451.43,
-        "Wheat_USHRW":274.8931741462
+        "Wheat_USHRW":274.89
     },
     {
         "Date":"2011-12",
         "Soybeans":483.03,
-        "Maize":258.64776,
+        "Maize":258.65,
         "Rice_Thai5":585.75,
         "Rice_ThaiA1":544.0,
-        "Rice_VietNamese5":504.426,
-        "Wheat_USHRW":269.0300071375
+        "Rice_VietNamese5":504.43,
+        "Wheat_USHRW":269.03
     },
     {
         "Date":"2011-11",
         "Soybeans":478.35,
-        "Maize":274.39496,
+        "Maize":274.39,
         "Rice_Thai5":615.25,
         "Rice_ThaiA1":549.75,
-        "Rice_VietNamese5":568.7475,
-        "Wheat_USHRW":281.0064022425
+        "Rice_VietNamese5":568.75,
+        "Wheat_USHRW":281.01
     },
     {
         "Date":"2011-10",
         "Soybeans":491.42,
-        "Maize":274.78864,
+        "Maize":274.79,
         "Rice_Thai5":599.4,
         "Rice_ThaiA1":489.0,
-        "Rice_VietNamese5":580.5375,
-        "Wheat_USHRW":289.0108357821
+        "Rice_VietNamese5":580.54,
+        "Wheat_USHRW":289.01
     },
     {
         "Date":"2011-09",
@@ -1419,156 +1419,156 @@
         "Rice_Thai5":598.75,
         "Rice_ThaiA1":514.0,
         "Rice_VietNamese5":561.43,
-        "Wheat_USHRW":315.9162290761
+        "Wheat_USHRW":315.92
     },
     {
         "Date":"2011-08",
         "Soybeans":552.96,
-        "Maize":310.21984,
+        "Maize":310.22,
         "Rice_Thai5":566.0,
         "Rice_ThaiA1":465.25,
-        "Rice_VietNamese5":553.428,
-        "Wheat_USHRW":327.0665895261
+        "Rice_VietNamese5":553.43,
+        "Wheat_USHRW":327.07
     },
     {
         "Date":"2011-07",
         "Soybeans":556.5,
-        "Maize":300.77152,
+        "Maize":300.77,
         "Rice_Thai5":538.25,
         "Rice_ThaiA1":449.25,
-        "Rice_VietNamese5":519.465,
-        "Wheat_USHRW":303.8839297762
+        "Rice_VietNamese5":519.46,
+        "Wheat_USHRW":303.88
     },
     {
         "Date":"2011-06",
         "Soybeans":556.22,
-        "Maize":310.61352,
+        "Maize":310.61,
         "Rice_Thai5":513.75,
         "Rice_ThaiA1":427.5,
-        "Rice_VietNamese5":475.282,
-        "Wheat_USHRW":326.4299291966
+        "Rice_VietNamese5":475.28,
+        "Wheat_USHRW":326.43
     },
     {
         "Date":"2011-05",
         "Soybeans":556.8,
-        "Maize":307.85776,
+        "Maize":307.86,
         "Rice_Thai5":481.4,
         "Rice_ThaiA1":421.2,
-        "Rice_VietNamese5":479.645,
-        "Wheat_USHRW":355.2778855636
+        "Rice_VietNamese5":479.64,
+        "Wheat_USHRW":355.28
     },
     {
         "Date":"2011-04",
         "Soybeans":556.58,
-        "Maize":319.27448,
+        "Maize":319.27,
         "Rice_Thai5":484.25,
         "Rice_ThaiA1":409.0,
-        "Rice_VietNamese5":484.2875,
-        "Wheat_USHRW":336.124295581
+        "Rice_VietNamese5":484.29,
+        "Wheat_USHRW":336.12
     },
     {
         "Date":"2011-03",
         "Soybeans":552.75,
-        "Maize":290.53584,
+        "Maize":290.54,
         "Rice_Thai5":492.75,
         "Rice_ThaiA1":408.25,
         "Rice_VietNamese5":464.0,
-        "Wheat_USHRW":316.7465706638
+        "Wheat_USHRW":316.75
     },
     {
         "Date":"2011-02",
         "Soybeans":566.05,
-        "Maize":292.89792,
+        "Maize":292.9,
         "Rice_Thai5":524.0,
         "Rice_ThaiA1":420.5,
         "Rice_VietNamese5":478.57,
-        "Wheat_USHRW":348.1203485495
+        "Wheat_USHRW":348.12
     },
     {
         "Date":"2011-01",
         "Soybeans":567.62,
-        "Maize":264.94664,
+        "Maize":264.95,
         "Rice_Thai5":516.8,
         "Rice_ThaiA1":405.0,
-        "Rice_VietNamese5":493.858,
-        "Wheat_USHRW":326.5565676073
+        "Rice_VietNamese5":493.86,
+        "Wheat_USHRW":326.56
     },
     {
         "Date":"2010-12",
         "Soybeans":545.75,
-        "Maize":250.38048,
+        "Maize":250.38,
         "Rice_Thai5":532.0,
         "Rice_ThaiA1":413.4,
-        "Rice_VietNamese5":528.286,
-        "Wheat_USHRW":306.5201043804
+        "Rice_VietNamese5":528.29,
+        "Wheat_USHRW":306.52
     },
     {
         "Date":"2010-11",
         "Soybeans":514.15,
-        "Maize":238.1764,
+        "Maize":238.18,
         "Rice_Thai5":514.5,
         "Rice_ThaiA1":427.75,
         "Rice_VietNamese5":508.03,
-        "Wheat_USHRW":274.0807607956
+        "Wheat_USHRW":274.08
     },
     {
         "Date":"2010-10",
         "Soybeans":495.79,
-        "Maize":235.81432,
+        "Maize":235.81,
         "Rice_Thai5":486.0,
         "Rice_ThaiA1":428.25,
         "Rice_VietNamese5":477.68,
-        "Wheat_USHRW":270.2321958643
+        "Wheat_USHRW":270.23
     },
     {
         "Date":"2010-09",
         "Soybeans":468.26,
-        "Maize":205.89464,
+        "Maize":205.89,
         "Rice_Thai5":476.5,
         "Rice_ThaiA1":412.0,
-        "Rice_VietNamese5":457.678,
-        "Wheat_USHRW":271.6735975474
+        "Rice_VietNamese5":457.68,
+        "Wheat_USHRW":271.67
     },
     {
         "Date":"2010-08",
         "Soybeans":449.84,
-        "Maize":175.58128,
+        "Maize":175.58,
         "Rice_Thai5":452.75,
         "Rice_ThaiA1":369.0,
-        "Rice_VietNamese5":422.8575,
-        "Wheat_USHRW":246.2472244559
+        "Rice_VietNamese5":422.86,
+        "Wheat_USHRW":246.25
     },
     {
         "Date":"2010-07",
         "Soybeans":427.53,
-        "Maize":163.75682,
+        "Maize":163.76,
         "Rice_Thai5":441.8,
         "Rice_ThaiA1":349.8,
-        "Rice_VietNamese5":357.856,
-        "Wheat_USHRW":195.8176905913
+        "Rice_VietNamese5":357.86,
+        "Wheat_USHRW":195.82
     },
     {
         "Date":"2010-06",
         "Soybeans":401.33,
-        "Maize":152.74784,
+        "Maize":152.75,
         "Rice_Thai5":440.0,
         "Rice_ThaiA1":329.5,
-        "Rice_VietNamese5":358.215,
-        "Wheat_USHRW":157.6720984705
+        "Rice_VietNamese5":358.22,
+        "Wheat_USHRW":157.67
     },
     {
         "Date":"2010-05",
         "Soybeans":402.87,
-        "Maize":163.3772,
-        "Rice_Thai5":451.3333333333,
+        "Maize":163.38,
+        "Rice_Thai5":451.33,
         "Rice_ThaiA1":329.0,
-        "Rice_VietNamese5":368.8225,
-        "Wheat_USHRW":181.605588975
+        "Rice_VietNamese5":368.82,
+        "Wheat_USHRW":181.61
     },
     {
         "Date":"2010-04",
         "Soybeans":402.6,
-        "Maize":157.07832,
+        "Maize":157.08,
         "Rice_Thai5":466.0,
         "Rice_ThaiA1":343.0,
         "Rice_VietNamese5":371.17,
@@ -1577,785 +1577,785 @@
     {
         "Date":"2010-03",
         "Soybeans":409.36,
-        "Maize":159.04672,
+        "Maize":159.05,
         "Rice_Thai5":502.2,
         "Rice_ThaiA1":377.0,
-        "Rice_VietNamese5":392.572,
-        "Wheat_USHRW":191.0750717544
+        "Rice_VietNamese5":392.57,
+        "Wheat_USHRW":191.08
     },
     {
         "Date":"2010-02",
         "Soybeans":411.86,
-        "Maize":161.80248,
+        "Maize":161.8,
         "Rice_Thai5":535.0,
         "Rice_ThaiA1":405.0,
-        "Rice_VietNamese5":421.785,
+        "Rice_VietNamese5":421.78,
         "Wheat_USHRW":194.0
     },
     {
         "Date":"2010-01",
         "Soybeans":435.88,
-        "Maize":167.314,
+        "Maize":167.31,
         "Rice_Thai5":568.8,
         "Rice_ThaiA1":420.2,
-        "Rice_VietNamese5":485.284,
-        "Wheat_USHRW":201.1909320237
+        "Rice_VietNamese5":485.28,
+        "Wheat_USHRW":201.19
     },
     {
         "Date":"2009-12",
         "Soybeans":449.35,
-        "Maize":164.55824,
+        "Maize":164.56,
         "Rice_Thai5":591.0,
         "Rice_ThaiA1":403.0,
-        "Rice_VietNamese5":529.914,
-        "Wheat_USHRW":206.2514056275
+        "Rice_VietNamese5":529.91,
+        "Wheat_USHRW":206.25
     },
     {
         "Date":"2009-11",
         "Soybeans":447.41,
-        "Maize":171.64448,
+        "Maize":171.64,
         "Rice_Thai5":542.75,
         "Rice_ThaiA1":337.0,
-        "Rice_VietNamese5":491.605,
-        "Wheat_USHRW":211.0383493412
+        "Rice_VietNamese5":491.6,
+        "Wheat_USHRW":211.04
     },
     {
         "Date":"2009-10",
         "Soybeans":430.08,
-        "Maize":167.314,
+        "Maize":167.31,
         "Rice_Thai5":493.0,
         "Rice_ThaiA1":298.4,
-        "Rice_VietNamese5":414.1075,
-        "Wheat_USHRW":198.8488683964
+        "Rice_VietNamese5":414.11,
+        "Wheat_USHRW":198.85
     },
     {
         "Date":"2009-09",
         "Soybeans":425.01,
-        "Maize":150.38576,
+        "Maize":150.39,
         "Rice_Thai5":518.75,
         "Rice_ThaiA1":303.25,
-        "Rice_VietNamese5":392.858,
-        "Wheat_USHRW":191.0933294786
+        "Rice_VietNamese5":392.86,
+        "Wheat_USHRW":191.09
     },
     {
         "Date":"2009-08",
         "Soybeans":497.53,
-        "Maize":151.96048,
+        "Maize":151.96,
         "Rice_Thai5":526.25,
         "Rice_ThaiA1":305.5,
-        "Rice_VietNamese5":395.7175,
-        "Wheat_USHRW":210.3729080974
+        "Rice_VietNamese5":395.72,
+        "Wheat_USHRW":210.37
     },
     {
         "Date":"2009-07",
         "Soybeans":430.61,
-        "Maize":151.5668,
+        "Maize":151.57,
         "Rice_Thai5":572.0,
         "Rice_ThaiA1":320.25,
-        "Rice_VietNamese5":410.228,
-        "Wheat_USHRW":224.8503833148
+        "Rice_VietNamese5":410.23,
+        "Wheat_USHRW":224.85
     },
     {
         "Date":"2009-06",
         "Soybeans":442.09,
-        "Maize":179.51808,
+        "Maize":179.52,
         "Rice_Thai5":574.5,
         "Rice_ThaiA1":320.75,
-        "Rice_VietNamese5":404.285,
-        "Wheat_USHRW":256.6449314908
+        "Rice_VietNamese5":404.28,
+        "Wheat_USHRW":256.64
     },
     {
         "Date":"2009-05",
         "Soybeans":425.72,
-        "Maize":179.91176,
+        "Maize":179.91,
         "Rice_Thai5":533.0,
         "Rice_ThaiA1":322.4,
-        "Rice_VietNamese5":405.1775,
-        "Wheat_USHRW":261.4817345963
+        "Rice_VietNamese5":405.18,
+        "Wheat_USHRW":261.48
     },
     {
         "Date":"2009-04",
         "Soybeans":387.55,
-        "Maize":168.49504,
-        "Rice_Thai5":549.6666666667,
-        "Rice_ThaiA1":335.6666666667,
+        "Maize":168.5,
+        "Rice_Thai5":549.67,
+        "Rice_ThaiA1":335.67,
         "Rice_VietNamese5":430.0,
-        "Wheat_USHRW":233.4731285169
+        "Wheat_USHRW":233.47
     },
     {
         "Date":"2009-03",
         "Soybeans":372.75,
-        "Maize":164.55824,
+        "Maize":164.56,
         "Rice_Thai5":588.25,
         "Rice_ThaiA1":332.0,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":230.981732721
+        "Wheat_USHRW":230.98
     },
     {
         "Date":"2009-02",
         "Soybeans":374.45,
-        "Maize":163.3772,
+        "Maize":163.38,
         "Rice_Thai5":590.75,
         "Rice_ThaiA1":319.5,
-        "Rice_VietNamese5":418.0933333333,
-        "Wheat_USHRW":224.68754205
+        "Rice_VietNamese5":418.09,
+        "Wheat_USHRW":224.69
     },
     {
         "Date":"2009-01",
         "Soybeans":400.92,
-        "Maize":172.82552,
+        "Maize":172.83,
         "Rice_Thai5":580.0,
         "Rice_ThaiA1":318.6,
         "Rice_VietNamese5":386.79,
-        "Wheat_USHRW":239.1142672184
+        "Wheat_USHRW":239.11
     },
     {
         "Date":"2008-12",
         "Soybeans":359.35,
-        "Maize":158.25936,
+        "Maize":158.26,
         "Rice_Thai5":531.8,
         "Rice_ThaiA1":287.0,
         "Rice_VietNamese5":413.0,
-        "Wheat_USHRW":220.1354096
+        "Wheat_USHRW":220.14
     },
     {
         "Date":"2008-11",
         "Soybeans":371.76,
-        "Maize":163.77088,
+        "Maize":163.77,
         "Rice_Thai5":552.0,
         "Rice_ThaiA1":307.0,
         "Rice_VietNamese5":431.07,
-        "Wheat_USHRW":226.8462326625
+        "Wheat_USHRW":226.85
     },
     {
         "Date":"2008-10",
         "Soybeans":399.87,
-        "Maize":183.0612,
+        "Maize":183.06,
         "Rice_Thai5":609.25,
         "Rice_ThaiA1":348.25,
-        "Rice_VietNamese5":478.572,
-        "Wheat_USHRW":237.3840775859
+        "Rice_VietNamese5":478.57,
+        "Wheat_USHRW":237.38
     },
     {
         "Date":"2008-09",
         "Soybeans":525.48,
-        "Maize":233.84592,
+        "Maize":233.85,
         "Rice_Thai5":683.8,
         "Rice_ThaiA1":420.4,
-        "Rice_VietNamese5":561.785,
-        "Wheat_USHRW":295.5503341929
+        "Rice_VietNamese5":561.78,
+        "Wheat_USHRW":295.55
     },
     {
         "Date":"2008-08",
         "Soybeans":557.28,
-        "Maize":235.02696,
+        "Maize":235.03,
         "Rice_Thai5":693.5,
         "Rice_ThaiA1":468.75,
         "Rice_VietNamese5":607.5,
-        "Wheat_USHRW":329.3441505355
+        "Wheat_USHRW":329.34
     },
     {
         "Date":"2008-07",
         "Soybeans":637.25,
-        "Maize":265.34032,
+        "Maize":265.34,
         "Rice_Thai5":731.75,
         "Rice_ThaiA1":546.5,
         "Rice_VietNamese5":698.0,
-        "Wheat_USHRW":328.1836043557
+        "Wheat_USHRW":328.18
     },
     {
         "Date":"2008-06",
         "Soybeans":634.85,
-        "Maize":287.110824,
+        "Maize":287.11,
         "Rice_Thai5":757.0,
         "Rice_ThaiA1":591.0,
         "Rice_VietNamese5":780.0,
-        "Wheat_USHRW":348.5530781679
+        "Wheat_USHRW":348.55
     },
     {
         "Date":"2008-05",
         "Soybeans":566.12,
-        "Maize":243.4556488,
+        "Maize":243.46,
         "Rice_Thai5":901.8,
         "Rice_ThaiA1":727.4,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":328.7617127169
+        "Wheat_USHRW":328.76
     },
     {
         "Date":"2008-04",
         "Soybeans":549.11,
-        "Maize":246.44368,
+        "Maize":246.44,
         "Rice_Thai5":907.0,
-        "Rice_ThaiA1":762.6666666667,
+        "Rice_ThaiA1":762.67,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":362.2292471117
+        "Wheat_USHRW":362.23
     },
     {
         "Date":"2008-03",
         "Soybeans":558.86,
-        "Maize":234.357704,
+        "Maize":234.36,
         "Rice_Thai5":594.0,
         "Rice_ThaiA1":537.6,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":439.7160918488
+        "Wheat_USHRW":439.72
     },
     {
         "Date":"2008-02",
         "Soybeans":574.01,
-        "Maize":220.06712,
+        "Maize":220.07,
         "Rice_Thai5":464.75,
         "Rice_ThaiA1":432.75,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":424.995659055
+        "Wheat_USHRW":425.0
     },
     {
         "Date":"2008-01",
         "Soybeans":528.5,
-        "Maize":206.662316,
+        "Maize":206.66,
         "Rice_Thai5":375.6,
         "Rice_ThaiA1":358.0,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":370.6609570425
+        "Wheat_USHRW":370.66
     },
     {
         "Date":"2007-12",
         "Soybeans":503.99,
-        "Maize":180.2542616,
-        "Rice_Thai5":360.6666666667,
-        "Rice_ThaiA1":331.6666666667,
+        "Maize":180.25,
+        "Rice_Thai5":360.67,
+        "Rice_ThaiA1":331.67,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":368.6200623132
+        "Wheat_USHRW":368.62
     },
     {
         "Date":"2007-11",
         "Soybeans":489.0,
-        "Maize":171.2508,
+        "Maize":171.25,
         "Rice_Thai5":342.0,
         "Rice_ThaiA1":311.25,
         "Rice_VietNamese5":320.0,
-        "Wheat_USHRW":321.81330975
+        "Wheat_USHRW":321.81
     },
     {
         "Date":"2007-10",
         "Soybeans":450.0,
-        "Maize":164.16456,
+        "Maize":164.16,
         "Rice_Thai5":329.2,
         "Rice_ThaiA1":293.2,
         "Rice_VietNamese5":323.0,
-        "Wheat_USHRW":335.1462030489
+        "Wheat_USHRW":335.15
     },
     {
         "Date":"2007-09",
         "Soybeans":426.0,
-        "Maize":159.4404,
+        "Maize":159.44,
         "Rice_Thai5":325.0,
         "Rice_ThaiA1":272.25,
         "Rice_VietNamese5":315.25,
-        "Wheat_USHRW":326.5448630447
+        "Wheat_USHRW":326.54
     },
     {
         "Date":"2007-08",
         "Soybeans":385.0,
-        "Maize":151.17312,
+        "Maize":151.17,
         "Rice_Thai5":327.5,
         "Rice_ThaiA1":264.5,
         "Rice_VietNamese5":310.0,
-        "Wheat_USHRW":259.7273078621
+        "Wheat_USHRW":259.73
     },
     {
         "Date":"2007-07",
         "Soybeans":375.5,
-        "Maize":146.84264,
+        "Maize":146.84,
         "Rice_Thai5":328.8,
         "Rice_ThaiA1":260.4,
-        "Rice_VietNamese5":302.7125,
-        "Wheat_USHRW":238.4067098363
+        "Rice_VietNamese5":302.71,
+        "Wheat_USHRW":238.41
     },
     {
         "Date":"2007-06",
         "Soybeans":361.0,
-        "Maize":165.24718,
+        "Maize":165.25,
         "Rice_Thai5":323.25,
         "Rice_ThaiA1":257.0,
-        "Rice_VietNamese5":302.486,
-        "Wheat_USHRW":223.0391801875
+        "Rice_VietNamese5":302.49,
+        "Wheat_USHRW":223.04
     },
     {
         "Date":"2007-05",
         "Soybeans":334.0,
-        "Maize":160.22776,
+        "Maize":160.23,
         "Rice_Thai5":317.6,
         "Rice_ThaiA1":255.4,
-        "Rice_VietNamese5":300.355,
-        "Wheat_USHRW":195.7212822
+        "Rice_VietNamese5":300.36,
+        "Wheat_USHRW":195.72
     },
     {
         "Date":"2007-04",
         "Soybeans":319.75,
-        "Maize":152.74784,
+        "Maize":152.75,
         "Rice_Thai5":316.5,
         "Rice_ThaiA1":258.5,
         "Rice_VietNamese5":302.25,
-        "Wheat_USHRW":198.3077916102
+        "Wheat_USHRW":198.31
     },
     {
         "Date":"2007-03",
         "Soybeans":322.0,
-        "Maize":170.5067448,
-        "Rice_Thai5":318.6666666667,
-        "Rice_ThaiA1":262.3333333333,
+        "Maize":170.51,
+        "Rice_Thai5":318.67,
+        "Rice_ThaiA1":262.33,
         "Rice_VietNamese5":304.93,
-        "Wheat_USHRW":199.0982004429
+        "Wheat_USHRW":199.1
     },
     {
         "Date":"2007-02",
         "Soybeans":325.0,
-        "Maize":177.3489032,
+        "Maize":177.35,
         "Rice_Thai5":315.0,
         "Rice_ThaiA1":257.5,
         "Rice_VietNamese5":303.0,
-        "Wheat_USHRW":199.9822586684
+        "Wheat_USHRW":199.98
     },
     {
         "Date":"2007-01",
         "Soybeans":306.0,
-        "Maize":164.774764,
+        "Maize":164.77,
         "Rice_Thai5":313.0,
         "Rice_ThaiA1":243.8,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":196.0661569974
+        "Wheat_USHRW":196.07
     },
     {
         "Date":"2006-12",
         "Soybeans":297.0,
-        "Maize":160.37539,
+        "Maize":160.38,
         "Rice_Thai5":305.0,
         "Rice_ThaiA1":228.25,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":204.3062875969
+        "Wheat_USHRW":204.31
     },
     {
         "Date":"2006-11",
         "Soybeans":300.0,
-        "Maize":164.538556,
+        "Maize":164.54,
         "Rice_Thai5":296.25,
         "Rice_ThaiA1":220.75,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":209.6806536711
+        "Wheat_USHRW":209.68
     },
     {
         "Date":"2006-10",
         "Soybeans":273.0,
-        "Maize":142.16769,
+        "Maize":142.17,
         "Rice_Thai5":301.0,
         "Rice_ThaiA1":223.5,
-        "Rice_VietNamese5":283.2125,
-        "Wheat_USHRW":212.0940865821
+        "Rice_VietNamese5":283.21,
+        "Wheat_USHRW":212.09
     },
     {
         "Date":"2006-09",
         "Soybeans":258.0,
-        "Maize":121.74554,
+        "Maize":121.75,
         "Rice_Thai5":309.2,
         "Rice_ThaiA1":224.4,
         "Rice_VietNamese5":267.71,
-        "Wheat_USHRW":195.9815498625
+        "Wheat_USHRW":195.98
     },
     {
         "Date":"2006-08",
         "Soybeans":262.0,
-        "Maize":116.588332,
-        "Rice_Thai5":312.6666666667,
+        "Maize":116.59,
+        "Rice_Thai5":312.67,
         "Rice_ThaiA1":220.0,
-        "Rice_VietNamese5":263.628,
-        "Wheat_USHRW":189.9146688955
+        "Rice_VietNamese5":263.63,
+        "Wheat_USHRW":189.91
     },
     {
         "Date":"2006-07",
         "Soybeans":271.75,
-        "Maize":113.99108,
+        "Maize":113.99,
         "Rice_Thai5":315.4,
         "Rice_ThaiA1":218.6,
         "Rice_VietNamese5":257.43,
-        "Wheat_USHRW":202.4286135395
+        "Wheat_USHRW":202.43
     },
     {
         "Date":"2006-06",
         "Soybeans":267.0,
-        "Maize":109.403672,
+        "Maize":109.4,
         "Rice_Thai5":312.5,
         "Rice_ThaiA1":216.5,
-        "Rice_VietNamese5":259.4275,
-        "Wheat_USHRW":195.164003205
+        "Rice_VietNamese5":259.43,
+        "Wheat_USHRW":195.16
     },
     {
         "Date":"2006-05",
         "Soybeans":266.0,
-        "Maize":110.648685,
+        "Maize":110.65,
         "Rice_Thai5":308.0,
         "Rice_ThaiA1":219.4,
-        "Rice_VietNamese5":256.228,
-        "Wheat_USHRW":193.1667222857
+        "Rice_VietNamese5":256.23,
+        "Wheat_USHRW":193.17
     },
     {
         "Date":"2006-04",
         "Soybeans":258.0,
-        "Maize":107.72069,
+        "Maize":107.72,
         "Rice_Thai5":302.25,
         "Rice_ThaiA1":218.5,
         "Rice_VietNamese5":244.25,
-        "Wheat_USHRW":180.3460546449
+        "Wheat_USHRW":180.35
     },
     {
         "Date":"2006-03",
         "Soybeans":257.0,
-        "Maize":105.250348,
+        "Maize":105.25,
         "Rice_Thai5":303.5,
         "Rice_ThaiA1":216.5,
-        "Rice_VietNamese5":244.856,
-        "Wheat_USHRW":174.4359803662
+        "Rice_VietNamese5":244.86,
+        "Wheat_USHRW":174.44
     },
     {
         "Date":"2006-02",
         "Soybeans":257.0,
-        "Maize":107.13017,
+        "Maize":107.13,
         "Rice_Thai5":301.5,
         "Rice_ThaiA1":216.75,
-        "Rice_VietNamese5":264.2875,
-        "Wheat_USHRW":179.8409258763
+        "Rice_VietNamese5":264.29,
+        "Wheat_USHRW":179.84
     },
     {
         "Date":"2006-01",
         "Soybeans":257.0,
-        "Maize":102.65206,
+        "Maize":102.65,
         "Rice_Thai5":291.25,
         "Rice_ThaiA1":211.0,
-        "Rice_VietNamese5":263.8566666667,
-        "Wheat_USHRW":167.1607337062
+        "Rice_VietNamese5":263.86,
+        "Wheat_USHRW":167.16
     },
     {
         "Date":"2005-12",
         "Soybeans":264.0,
-        "Maize":102.140276,
+        "Maize":102.14,
         "Rice_Thai5":280.5,
         "Rice_ThaiA1":206.75,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":164.4410459893
+        "Wheat_USHRW":164.44
     },
     {
         "Date":"2005-11",
         "Soybeans":255.75,
-        "Maize":95.36898,
+        "Maize":95.37,
         "Rice_Thai5":277.75,
         "Rice_ThaiA1":209.5,
         "Rice_VietNamese5":272.0,
-        "Wheat_USHRW":161.1163516443
+        "Wheat_USHRW":161.12
     },
     {
         "Date":"2005-10",
         "Soybeans":257.0,
-        "Maize":101.938515,
+        "Maize":101.94,
         "Rice_Thai5":286.4,
         "Rice_ThaiA1":217.4,
-        "Rice_VietNamese5":269.3575,
-        "Wheat_USHRW":167.826712725
+        "Rice_VietNamese5":269.36,
+        "Wheat_USHRW":167.83
     },
     {
         "Date":"2005-09",
         "Soybeans":263.0,
-        "Maize":96.35318,
+        "Maize":96.35,
         "Rice_Thai5":285.25,
         "Rice_ThaiA1":215.5,
-        "Rice_VietNamese5":256.9975,
-        "Wheat_USHRW":159.7086581344
+        "Rice_VietNamese5":257.0,
+        "Wheat_USHRW":159.71
     },
     {
         "Date":"2005-08",
         "Soybeans":274.0,
-        "Maize":101.66786,
+        "Maize":101.67,
         "Rice_Thai5":282.8,
         "Rice_ThaiA1":212.8,
-        "Rice_VietNamese5":255.654,
-        "Wheat_USHRW":149.3590246728
+        "Rice_VietNamese5":255.65,
+        "Wheat_USHRW":149.36
     },
     {
         "Date":"2005-07",
         "Soybeans":298.0,
-        "Maize":107.52385,
+        "Maize":107.52,
         "Rice_Thai5":276.75,
         "Rice_ThaiA1":207.25,
-        "Rice_VietNamese5":237.285,
-        "Wheat_USHRW":143.869839885
+        "Rice_VietNamese5":237.28,
+        "Wheat_USHRW":143.87
     },
     {
         "Date":"2005-06",
         "Soybeans":306.0,
-        "Maize":97.101172,
+        "Maize":97.1,
         "Rice_Thai5":285.0,
         "Rice_ThaiA1":210.75,
-        "Rice_VietNamese5":241.488,
-        "Wheat_USHRW":141.9307762091
+        "Rice_VietNamese5":241.49,
+        "Wheat_USHRW":141.93
     },
     {
         "Date":"2005-05",
         "Soybeans":283.0,
-        "Maize":95.41819,
+        "Maize":95.42,
         "Rice_Thai5":293.8,
         "Rice_ThaiA1":220.4,
-        "Rice_VietNamese5":256.145,
-        "Wheat_USHRW":143.3300578757
+        "Rice_VietNamese5":256.14,
+        "Wheat_USHRW":143.33
     },
     {
         "Date":"2005-04",
         "Soybeans":283.0,
-        "Maize":96.279365,
+        "Maize":96.28,
         "Rice_Thai5":297.25,
         "Rice_ThaiA1":225.5,
-        "Rice_VietNamese5":259.925,
-        "Wheat_USHRW":140.8769804786
+        "Rice_VietNamese5":259.92,
+        "Wheat_USHRW":140.88
     },
     {
         "Date":"2005-03",
         "Soybeans":290.0,
-        "Maize":99.876616,
+        "Maize":99.88,
         "Rice_Thai5":292.75,
         "Rice_ThaiA1":230.0,
-        "Rice_VietNamese5":262.916,
-        "Wheat_USHRW":150.985863975
+        "Rice_VietNamese5":262.92,
+        "Wheat_USHRW":150.99
     },
     {
         "Date":"2005-02",
         "Soybeans":261.0,
-        "Maize":94.13873,
+        "Maize":94.14,
         "Rice_Thai5":290.0,
         "Rice_ThaiA1":231.75,
-        "Rice_VietNamese5":265.6425,
-        "Wheat_USHRW":151.1686798489
+        "Rice_VietNamese5":265.64,
+        "Wheat_USHRW":151.17
     },
     {
         "Date":"2005-01",
         "Soybeans":261.5,
-        "Maize":96.25476,
+        "Maize":96.25,
         "Rice_Thai5":287.0,
         "Rice_ThaiA1":226.2,
-        "Rice_VietNamese5":255.3225,
-        "Wheat_USHRW":153.5931335587
+        "Rice_VietNamese5":255.32,
+        "Wheat_USHRW":153.59
     },
     {
         "Date":"2004-12",
         "Soybeans":265.0,
-        "Maize":95.388664,
+        "Maize":95.39,
         "Rice_Thai5":278.25,
         "Rice_ThaiA1":219.75,
-        "Rice_VietNamese5":238.512,
-        "Wheat_USHRW":153.8743247
+        "Rice_VietNamese5":238.51,
+        "Wheat_USHRW":153.87
     },
     {
         "Date":"2004-11",
         "Soybeans":260.0,
-        "Maize":93.74505,
+        "Maize":93.75,
         "Rice_Thai5":259.2,
         "Rice_ThaiA1":211.6,
         "Rice_VietNamese5":233.07,
-        "Wheat_USHRW":156.5686683762
+        "Wheat_USHRW":156.57
     },
     {
         "Date":"2004-10",
         "Soybeans":249.0,
-        "Maize":93.79426,
+        "Maize":93.79,
         "Rice_Thai5":244.0,
         "Rice_ThaiA1":201.25,
-        "Rice_VietNamese5":222.145,
-        "Wheat_USHRW":150.1460086607
+        "Rice_VietNamese5":222.14,
+        "Wheat_USHRW":150.15
     },
     {
         "Date":"2004-09",
         "Soybeans":260.0,
-        "Maize":97.868848,
+        "Maize":97.87,
         "Rice_Thai5":235.25,
         "Rice_ThaiA1":206.25,
-        "Rice_VietNamese5":224.172,
-        "Wheat_USHRW":151.034855535
+        "Rice_VietNamese5":224.17,
+        "Wheat_USHRW":151.03
     },
     {
         "Date":"2004-08",
         "Soybeans":265.0,
-        "Maize":104.054545,
+        "Maize":104.05,
         "Rice_Thai5":239.0,
         "Rice_ThaiA1":212.4,
-        "Rice_VietNamese5":232.715,
-        "Wheat_USHRW":141.2948084974
+        "Rice_VietNamese5":232.72,
+        "Wheat_USHRW":141.29
     },
     {
         "Date":"2004-07",
         "Soybeans":279.0,
-        "Maize":104.846826,
+        "Maize":104.85,
         "Rice_Thai5":230.75,
         "Rice_ThaiA1":210.0,
-        "Rice_VietNamese5":228.9625,
-        "Wheat_USHRW":150.6009302893
+        "Rice_VietNamese5":228.96,
+        "Wheat_USHRW":150.6
     },
     {
         "Date":"2004-06",
         "Soybeans":295.0,
-        "Maize":123.32026,
+        "Maize":123.32,
         "Rice_Thai5":229.0,
         "Rice_ThaiA1":212.5,
-        "Rice_VietNamese5":230.742,
-        "Wheat_USHRW":154.7433416571
+        "Rice_VietNamese5":230.74,
+        "Wheat_USHRW":154.74
     },
     {
         "Date":"2004-05",
         "Soybeans":316.0,
-        "Maize":128.216655,
+        "Maize":128.22,
         "Rice_Thai5":232.0,
         "Rice_ThaiA1":212.8,
-        "Rice_VietNamese5":236.1425,
-        "Wheat_USHRW":163.7343864787
+        "Rice_VietNamese5":236.14,
+        "Wheat_USHRW":163.73
     },
     {
         "Date":"2004-04",
         "Soybeans":358.0,
-        "Maize":133.496888,
+        "Maize":133.5,
         "Rice_Thai5":240.75,
         "Rice_ThaiA1":215.0,
         "Rice_VietNamese5":240.71,
-        "Wheat_USHRW":166.5844267393
+        "Wheat_USHRW":166.58
     },
     {
         "Date":"2004-03",
         "Soybeans":413.0,
-        "Maize":127.84758,
+        "Maize":127.85,
         "Rice_Thai5":237.8,
         "Rice_ThaiA1":207.4,
-        "Rice_VietNamese5":225.802,
-        "Wheat_USHRW":166.279804218
+        "Rice_VietNamese5":225.8,
+        "Wheat_USHRW":166.28
     },
     {
         "Date":"2004-02",
         "Soybeans":368.0,
-        "Maize":123.541705,
+        "Maize":123.54,
         "Rice_Thai5":213.25,
         "Rice_ThaiA1":181.75,
         "Rice_VietNamese5":204.07,
-        "Wheat_USHRW":161.3914671875
+        "Wheat_USHRW":161.39
     },
     {
         "Date":"2004-01",
         "Soybeans":350.0,
-        "Maize":115.520475,
+        "Maize":115.52,
         "Rice_Thai5":212.75,
         "Rice_ThaiA1":171.0,
-        "Rice_VietNamese5":198.8175,
-        "Wheat_USHRW":166.3271387105
+        "Rice_VietNamese5":198.82,
+        "Wheat_USHRW":166.33
     },
     {
         "Date":"2003-12",
         "Soybeans":332.0,
-        "Maize":111.1555,
+        "Maize":111.16,
         "Rice_Thai5":198.25,
         "Rice_ThaiA1":163.0,
         "Rice_VietNamese5":197.0,
-        "Wheat_USHRW":165.5735
+        "Wheat_USHRW":165.57
     },
     {
         "Date":"2003-11",
         "Soybeans":327.0,
-        "Maize":108.4834,
+        "Maize":108.48,
         "Rice_Thai5":193.4,
         "Rice_ThaiA1":158.4,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":160.5453
+        "Wheat_USHRW":160.55
     },
     {
         "Date":"2003-10",
         "Soybeans":310.0,
-        "Maize":105.3881,
+        "Maize":105.39,
         "Rice_Thai5":195.75,
         "Rice_ThaiA1":157.0,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":147.4558
+        "Wheat_USHRW":147.46
     },
     {
         "Date":"2003-09",
         "Soybeans":264.0,
-        "Maize":104.0791,
+        "Maize":104.08,
         "Rice_Thai5":197.6,
         "Rice_ThaiA1":154.6,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":145.623
+        "Wheat_USHRW":145.62
     },
     {
         "Date":"2003-08",
         "Soybeans":237.0,
-        "Maize":100.6591,
+        "Maize":100.66,
         "Rice_Thai5":195.0,
         "Rice_ThaiA1":150.0,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":148.7172
+        "Wheat_USHRW":148.72
     },
     {
         "Date":"2003-07",
         "Soybeans":230.0,
-        "Maize":96.80591,
+        "Maize":96.81,
         "Rice_Thai5":198.5,
         "Rice_ThaiA1":150.25,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":131.6174
+        "Wheat_USHRW":131.62
     },
     {
         "Date":"2003-06",
         "Soybeans":239.0,
-        "Maize":107.327,
+        "Maize":107.33,
         "Rice_Thai5":203.4,
         "Rice_ThaiA1":151.2,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":131.3528
+        "Wheat_USHRW":131.35
     },
     {
         "Date":"2003-05",
         "Soybeans":250.0,
-        "Maize":107.4943,
+        "Maize":107.49,
         "Rice_Thai5":198.0,
         "Rice_ThaiA1":142.5,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":141.9618
+        "Wheat_USHRW":141.96
     },
     {
         "Date":"2003-04",
         "Soybeans":251.0,
-        "Maize":105.457,
+        "Maize":105.46,
         "Rice_Thai5":195.0,
         "Rice_ThaiA1":141.4,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":138.6155
+        "Wheat_USHRW":138.62
     },
     {
         "Date":"2003-03",
         "Soybeans":241.0,
-        "Maize":105.6047,
+        "Maize":105.6,
         "Rice_Thai5":197.0,
         "Rice_ThaiA1":147.0,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":141.8087
+        "Wheat_USHRW":141.81
     },
     {
         "Date":"2003-02",
         "Soybeans":243.0,
-        "Maize":105.8507,
+        "Maize":105.85,
         "Rice_Thai5":198.75,
         "Rice_ThaiA1":150.25,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":150.8382
+        "Wheat_USHRW":150.84
     },
     {
         "Date":"2003-01",
         "Soybeans":244.0,
-        "Maize":106.1361,
+        "Maize":106.14,
         "Rice_Thai5":200.75,
         "Rice_ThaiA1":152.0,
         "Rice_VietNamese5":0.0,
-        "Wheat_USHRW":149.608
+        "Wheat_USHRW":149.61
     },
     {
         "Date":"2002-12",
@@ -2398,7 +2398,7 @@
         "Soybeans":227.0,
         "Maize":108.93,
         "Rice_Thai5":190.33,
-        "Rice_ThaiA1":148.3333333333,
+        "Rice_ThaiA1":148.33,
         "Rice_VietNamese5":0.0,
         "Wheat_USHRW":161.26
     },
@@ -2470,7 +2470,7 @@
         "Soybeans":189.0,
         "Maize":91.88,
         "Rice_Thai5":179.33,
-        "Rice_ThaiA1":134.3333333333,
+        "Rice_ThaiA1":134.33,
         "Rice_VietNamese5":0.0,
         "Wheat_USHRW":122.44
     },
@@ -2497,7 +2497,7 @@
         "Soybeans":202.0,
         "Maize":90.08,
         "Rice_Thai5":173.0,
-        "Rice_ThaiA1":148.3333333333,
+        "Rice_ThaiA1":148.33,
         "Rice_VietNamese5":0.0,
         "Wheat_USHRW":122.03
     },
@@ -2605,7 +2605,7 @@
         "Soybeans":209.0,
         "Maize":80.43,
         "Rice_Thai5":179.0,
-        "Rice_ThaiA1":143.6666666667,
+        "Rice_ThaiA1":143.67,
         "Rice_VietNamese5":0.0,
         "Wheat_USHRW":117.49
     },
@@ -2668,7 +2668,7 @@
         "Soybeans":214.0,
         "Maize":95.15,
         "Rice_Thai5":241.0,
-        "Rice_ThaiA1":156.6666666667,
+        "Rice_ThaiA1":156.67,
         "Rice_VietNamese5":0.0,
         "Wheat_USHRW":107.93
     },
@@ -2902,7 +2902,7 @@
         "Soybeans":284.0,
         "Maize":113.45,
         "Rice_Thai5":269.67,
-        "Rice_ThaiA1":195.6666666667,
+        "Rice_ThaiA1":195.67,
         "Rice_VietNamese5":0.0,
         "Wheat_USHRW":144.62
     },
@@ -2911,7 +2911,7 @@
         "Soybeans":288.0,
         "Maize":117.22,
         "Rice_Thai5":252.5,
-        "Rice_ThaiA1":180.6666666667,
+        "Rice_ThaiA1":180.67,
         "Rice_VietNamese5":0.0,
         "Wheat_USHRW":149.88
     },

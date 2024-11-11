@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>果実砂糖</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>果実砂糖</span>
+    </nav>
+    
+    <article>
+        <p>果実砂糖</p>
+    </article>
+
+    <a href="https://www.worldbank.org/en/research/commodity-markets">データソース worldbank 更新予定:毎月4日</a>
+
+    <div>
+        <img src="Figure\果実砂糖.png" alt="果実砂糖のチャート">
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('ネットワークエラーが発生しました');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Date</th><th>Banana_Europe</th><th>Banana_US</th><th>Orange</th><th>Sugar_EU</th><th>Sugar_US</th><th>Sugar_world</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Date}</td><td>${item.Banana_Europe}</td><td>${item.Banana_US}</td><td>${item.Orange}</td><td>${item.Sugar_EU}</td><td>${item.Sugar_US}</td><td>${item.Sugar_world}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>データの読み込み中にエラーが発生しました。後でもう一度お試しください。</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/果実砂糖.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

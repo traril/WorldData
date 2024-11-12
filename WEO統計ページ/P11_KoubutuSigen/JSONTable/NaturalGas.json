@@ -1,4187 +1,4187 @@
 [
     {
         "Date":"2024-10",
-        "Naturalgas_US":2.2077,
-        "Naturalgas_Europe":12.9201330254,
+        "Naturalgas_US":2.21,
+        "Naturalgas_Europe":12.92,
         "Liquefiednaturalgas_Japan":12.91,
-        "Naturalgasindex":96.9773288773
+        "Naturalgasindex":96.98
     },
     {
         "Date":"2024-09",
-        "Naturalgas_US":2.2508,
-        "Naturalgas_Europe":11.7842591911,
-        "Liquefiednaturalgas_Japan":12.9692262841,
-        "Naturalgasindex":92.1409208632
+        "Naturalgas_US":2.25,
+        "Naturalgas_Europe":11.78,
+        "Liquefiednaturalgas_Japan":12.97,
+        "Naturalgasindex":92.14
     },
     {
         "Date":"2024-08",
-        "Naturalgas_US":1.9903,
-        "Naturalgas_Europe":12.3745981971,
-        "Liquefiednaturalgas_Japan":13.3196365778,
-        "Naturalgasindex":92.0214284414
+        "Naturalgas_US":1.99,
+        "Naturalgas_Europe":12.37,
+        "Liquefiednaturalgas_Japan":13.32,
+        "Naturalgasindex":92.02
     },
     {
         "Date":"2024-07",
-        "Naturalgas_US":2.0751,
-        "Naturalgas_Europe":10.3468193285,
-        "Liquefiednaturalgas_Japan":12.4909642854,
-        "Naturalgasindex":82.8497611361
+        "Naturalgas_US":2.08,
+        "Naturalgas_Europe":10.35,
+        "Liquefiednaturalgas_Japan":12.49,
+        "Naturalgasindex":82.85
     },
     {
         "Date":"2024-06",
-        "Naturalgas_US":2.5123,
-        "Naturalgas_Europe":10.8689778998,
-        "Liquefiednaturalgas_Japan":12.1309714655,
-        "Naturalgasindex":90.3972782234
+        "Naturalgas_US":2.51,
+        "Naturalgas_Europe":10.87,
+        "Liquefiednaturalgas_Japan":12.13,
+        "Naturalgasindex":90.4
     },
     {
         "Date":"2024-05",
-        "Naturalgas_US":2.1314,
-        "Naturalgas_Europe":10.1230655451,
-        "Liquefiednaturalgas_Japan":12.1628961018,
-        "Naturalgasindex":82.2474494708
+        "Naturalgas_US":2.13,
+        "Naturalgas_Europe":10.12,
+        "Liquefiednaturalgas_Japan":12.16,
+        "Naturalgasindex":82.25
     },
     {
         "Date":"2024-04",
-        "Naturalgas_US":1.5967,
-        "Naturalgas_Europe":9.0851190057,
-        "Liquefiednaturalgas_Japan":11.8777696633,
-        "Naturalgasindex":70.6268472747
+        "Naturalgas_US":1.6,
+        "Naturalgas_Europe":9.09,
+        "Liquefiednaturalgas_Japan":11.88,
+        "Naturalgasindex":70.63
     },
     {
         "Date":"2024-03",
-        "Naturalgas_US":1.4999,
-        "Naturalgas_Europe":8.5537263218,
-        "Liquefiednaturalgas_Japan":13.1856289516,
-        "Naturalgasindex":67.8112095609
+        "Naturalgas_US":1.5,
+        "Naturalgas_Europe":8.55,
+        "Liquefiednaturalgas_Japan":13.19,
+        "Naturalgasindex":67.81
     },
     {
         "Date":"2024-02",
-        "Naturalgas_US":1.7211,
-        "Naturalgas_Europe":8.1483808676,
-        "Liquefiednaturalgas_Japan":13.6449925138,
-        "Naturalgasindex":68.8815386633
+        "Naturalgas_US":1.72,
+        "Naturalgas_Europe":8.15,
+        "Liquefiednaturalgas_Japan":13.64,
+        "Naturalgasindex":68.88
     },
     {
         "Date":"2024-01",
-        "Naturalgas_US":3.1806,
-        "Naturalgas_Europe":9.5596135531,
-        "Liquefiednaturalgas_Japan":14.3441541813,
-        "Naturalgasindex":93.7874306376
+        "Naturalgas_US":3.18,
+        "Naturalgas_Europe":9.56,
+        "Liquefiednaturalgas_Japan":14.34,
+        "Naturalgasindex":93.79
     },
     {
         "Date":"2023-12",
-        "Naturalgas_US":2.5265,
-        "Naturalgas_Europe":11.5066579067,
-        "Liquefiednaturalgas_Japan":14.4395452198,
-        "Naturalgasindex":95.1652723384
+        "Naturalgas_US":2.53,
+        "Naturalgas_Europe":11.51,
+        "Liquefiednaturalgas_Japan":14.44,
+        "Naturalgasindex":95.17
     },
     {
         "Date":"2023-11",
-        "Naturalgas_US":2.7084,
-        "Naturalgas_Europe":14.4850548764,
-        "Liquefiednaturalgas_Japan":12.723406594,
-        "Naturalgasindex":110.370695067
+        "Naturalgas_US":2.71,
+        "Naturalgas_Europe":14.49,
+        "Liquefiednaturalgas_Japan":12.72,
+        "Naturalgasindex":110.37
     },
     {
         "Date":"2023-10",
-        "Naturalgas_US":2.9886,
-        "Naturalgas_Europe":14.5695070566,
-        "Liquefiednaturalgas_Japan":12.619881404,
-        "Naturalgasindex":114.1046138027
+        "Naturalgas_US":2.99,
+        "Naturalgas_Europe":14.57,
+        "Liquefiednaturalgas_Japan":12.62,
+        "Naturalgasindex":114.1
     },
     {
         "Date":"2023-09",
-        "Naturalgas_US":2.6395,
-        "Naturalgas_Europe":11.5492951461,
-        "Liquefiednaturalgas_Japan":12.2106453683,
-        "Naturalgasindex":95.2301032694
+        "Naturalgas_US":2.64,
+        "Naturalgas_Europe":11.55,
+        "Liquefiednaturalgas_Japan":12.21,
+        "Naturalgasindex":95.23
     },
     {
         "Date":"2023-08",
-        "Naturalgas_US":2.5845,
-        "Naturalgas_Europe":11.1919445637,
-        "Liquefiednaturalgas_Japan":12.5440734797,
-        "Naturalgasindex":93.0892785279
+        "Naturalgas_US":2.58,
+        "Naturalgas_Europe":11.19,
+        "Liquefiednaturalgas_Japan":12.54,
+        "Naturalgasindex":93.09
     },
     {
         "Date":"2023-07",
-        "Naturalgas_US":2.554,
-        "Naturalgas_Europe":9.5452839897,
-        "Liquefiednaturalgas_Japan":12.9889100977,
-        "Naturalgasindex":85.1921009275
+        "Naturalgas_US":2.55,
+        "Naturalgas_Europe":9.55,
+        "Liquefiednaturalgas_Japan":12.99,
+        "Naturalgasindex":85.19
     },
     {
         "Date":"2023-06",
-        "Naturalgas_US":2.1834,
-        "Naturalgas_Europe":10.3506247391,
-        "Liquefiednaturalgas_Japan":12.6792310024,
-        "Naturalgasindex":84.3105288341
+        "Naturalgas_US":2.18,
+        "Naturalgas_Europe":10.35,
+        "Liquefiednaturalgas_Japan":12.68,
+        "Naturalgasindex":84.31
     },
     {
         "Date":"2023-05",
-        "Naturalgas_US":2.1464,
-        "Naturalgas_Europe":10.1087559984,
-        "Liquefiednaturalgas_Japan":13.4302962772,
-        "Naturalgasindex":83.2202290028
+        "Naturalgas_US":2.15,
+        "Naturalgas_Europe":10.11,
+        "Liquefiednaturalgas_Japan":13.43,
+        "Naturalgasindex":83.22
     },
     {
         "Date":"2023-04",
-        "Naturalgas_US":2.1611,
-        "Naturalgas_Europe":13.5205296151,
-        "Liquefiednaturalgas_Japan":14.3660625523,
-        "Naturalgasindex":100.2521902794
+        "Naturalgas_US":2.16,
+        "Naturalgas_Europe":13.52,
+        "Liquefiednaturalgas_Japan":14.37,
+        "Naturalgasindex":100.25
     },
     {
         "Date":"2023-03",
-        "Naturalgas_US":2.3049,
-        "Naturalgas_Europe":13.8120768623,
-        "Liquefiednaturalgas_Japan":16.0331259478,
-        "Naturalgasindex":104.5138404727
+        "Naturalgas_US":2.3,
+        "Naturalgas_Europe":13.81,
+        "Liquefiednaturalgas_Japan":16.03,
+        "Naturalgasindex":104.51
     },
     {
         "Date":"2023-02",
-        "Naturalgas_US":2.3836,
-        "Naturalgas_Europe":16.5371372789,
-        "Liquefiednaturalgas_Japan":18.4153297936,
-        "Naturalgasindex":120.038314931
+        "Naturalgas_US":2.38,
+        "Naturalgas_Europe":16.54,
+        "Liquefiednaturalgas_Japan":18.42,
+        "Naturalgasindex":120.04
     },
     {
         "Date":"2023-01",
-        "Naturalgas_US":3.2728,
-        "Naturalgas_Europe":20.1839709213,
-        "Liquefiednaturalgas_Japan":20.1947882233,
-        "Naturalgasindex":149.3787211929
+        "Naturalgas_US":3.27,
+        "Naturalgas_Europe":20.18,
+        "Liquefiednaturalgas_Japan":20.19,
+        "Naturalgasindex":149.38
     },
     {
         "Date":"2022-12",
-        "Naturalgas_US":5.503,
-        "Naturalgas_Europe":36.0442600361,
-        "Liquefiednaturalgas_Japan":20.5767424029,
-        "Naturalgasindex":252.1190198418
+        "Naturalgas_US":5.5,
+        "Naturalgas_Europe":36.04,
+        "Liquefiednaturalgas_Japan":20.58,
+        "Naturalgasindex":252.12
     },
     {
         "Date":"2022-11",
-        "Naturalgas_US":5.2769,
-        "Naturalgas_Europe":35.7232822404,
-        "Liquefiednaturalgas_Japan":19.5862674226,
-        "Naturalgasindex":247.1764426895
+        "Naturalgas_US":5.28,
+        "Naturalgas_Europe":35.72,
+        "Liquefiednaturalgas_Japan":19.59,
+        "Naturalgasindex":247.18
     },
     {
         "Date":"2022-10",
-        "Naturalgas_US":5.6195,
-        "Naturalgas_Europe":39.0220499385,
-        "Liquefiednaturalgas_Japan":21.8417761625,
-        "Naturalgasindex":268.5471066657
+        "Naturalgas_US":5.62,
+        "Naturalgas_Europe":39.02,
+        "Liquefiednaturalgas_Japan":21.84,
+        "Naturalgasindex":268.55
     },
     {
         "Date":"2022-09",
-        "Naturalgas_US":7.7629,
-        "Naturalgas_Europe":59.1026222504,
-        "Liquefiednaturalgas_Japan":23.7337907357,
-        "Naturalgasindex":391.3195273271
+        "Naturalgas_US":7.76,
+        "Naturalgas_Europe":59.1,
+        "Liquefiednaturalgas_Japan":23.73,
+        "Naturalgasindex":391.32
     },
     {
         "Date":"2022-08",
-        "Naturalgas_US":8.7854,
-        "Naturalgas_Europe":70.0436398034,
-        "Liquefiednaturalgas_Japan":21.2108479767,
-        "Naturalgasindex":454.0401427484
+        "Naturalgas_US":8.79,
+        "Naturalgas_Europe":70.04,
+        "Liquefiednaturalgas_Japan":21.21,
+        "Naturalgasindex":454.04
     },
     {
         "Date":"2022-07",
-        "Naturalgas_US":7.2561,
-        "Naturalgas_Europe":51.330030473,
-        "Liquefiednaturalgas_Japan":18.8807543613,
-        "Naturalgasindex":344.9266757404
+        "Naturalgas_US":7.26,
+        "Naturalgas_Europe":51.33,
+        "Liquefiednaturalgas_Japan":18.88,
+        "Naturalgasindex":344.93
     },
     {
         "Date":"2022-06",
-        "Naturalgas_US":7.674,
-        "Naturalgas_Europe":33.5577310427,
-        "Liquefiednaturalgas_Japan":15.5339207133,
-        "Naturalgasindex":263.2449105003
+        "Naturalgas_US":7.67,
+        "Naturalgas_Europe":33.56,
+        "Liquefiednaturalgas_Japan":15.53,
+        "Naturalgasindex":263.24
     },
     {
         "Date":"2022-05",
-        "Naturalgas_US":8.1373,
-        "Naturalgas_Europe":29.1707226738,
-        "Liquefiednaturalgas_Japan":16.6790912879,
-        "Naturalgasindex":248.7910648349
+        "Naturalgas_US":8.14,
+        "Naturalgas_Europe":29.17,
+        "Liquefiednaturalgas_Japan":16.68,
+        "Naturalgasindex":248.79
     },
     {
         "Date":"2022-04",
-        "Naturalgas_US":6.5306,
-        "Naturalgas_Europe":32.2041872287,
-        "Liquefiednaturalgas_Japan":16.287523919,
-        "Naturalgasindex":243.4360296393
+        "Naturalgas_US":6.53,
+        "Naturalgas_Europe":32.2,
+        "Liquefiednaturalgas_Japan":16.29,
+        "Naturalgasindex":243.44
     },
     {
         "Date":"2022-03",
-        "Naturalgas_US":4.8839,
-        "Naturalgas_Europe":42.3929707961,
-        "Liquefiednaturalgas_Japan":15.1113849545,
-        "Naturalgasindex":271.0799059311
+        "Naturalgas_US":4.88,
+        "Naturalgas_Europe":42.39,
+        "Liquefiednaturalgas_Japan":15.11,
+        "Naturalgasindex":271.08
     },
     {
         "Date":"2022-02",
-        "Naturalgas_US":4.6577,
-        "Naturalgas_Europe":27.2297159067,
-        "Liquefiednaturalgas_Japan":16.9952383196,
-        "Naturalgasindex":197.5236794019
+        "Naturalgas_US":4.66,
+        "Naturalgas_Europe":27.23,
+        "Liquefiednaturalgas_Japan":17.0,
+        "Naturalgasindex":197.52
     },
     {
         "Date":"2022-01",
-        "Naturalgas_US":4.3325,
-        "Naturalgas_Europe":28.2606733166,
-        "Liquefiednaturalgas_Japan":14.6857598074,
-        "Naturalgasindex":196.9111395315
+        "Naturalgas_US":4.33,
+        "Naturalgas_Europe":28.26,
+        "Liquefiednaturalgas_Japan":14.69,
+        "Naturalgasindex":196.91
     },
     {
         "Date":"2021-12",
-        "Naturalgas_US":3.7327,
-        "Naturalgas_Europe":38.0271198432,
-        "Liquefiednaturalgas_Japan":15.3225269159,
-        "Naturalgasindex":236.4883675069
+        "Naturalgas_US":3.73,
+        "Naturalgas_Europe":38.03,
+        "Liquefiednaturalgas_Japan":15.32,
+        "Naturalgasindex":236.49
     },
     {
         "Date":"2021-11",
-        "Naturalgas_US":5.0176,
-        "Naturalgas_Europe":27.6234320078,
-        "Liquefiednaturalgas_Japan":15.2540026509,
-        "Naturalgasindex":202.5861179358
+        "Naturalgas_US":5.02,
+        "Naturalgas_Europe":27.62,
+        "Liquefiednaturalgas_Japan":15.25,
+        "Naturalgasindex":202.59
     },
     {
         "Date":"2021-10",
-        "Naturalgas_US":5.478,
-        "Naturalgas_Europe":31.0524663675,
-        "Liquefiednaturalgas_Japan":12.3769153834,
-        "Naturalgasindex":222.5292519052
+        "Naturalgas_US":5.48,
+        "Naturalgas_Europe":31.05,
+        "Liquefiednaturalgas_Japan":12.38,
+        "Naturalgasindex":222.53
     },
     {
         "Date":"2021-09",
-        "Naturalgas_US":5.1111,
-        "Naturalgas_Europe":22.8405960779,
-        "Liquefiednaturalgas_Japan":11.438990504,
-        "Naturalgasindex":178.3994051749
+        "Naturalgas_US":5.11,
+        "Naturalgas_Europe":22.84,
+        "Liquefiednaturalgas_Japan":11.44,
+        "Naturalgasindex":178.4
     },
     {
         "Date":"2021-08",
-        "Naturalgas_US":4.0486,
-        "Naturalgas_Europe":15.4264759384,
-        "Liquefiednaturalgas_Japan":10.8013965475,
-        "Naturalgasindex":129.8185828167
+        "Naturalgas_US":4.05,
+        "Naturalgas_Europe":15.43,
+        "Liquefiednaturalgas_Japan":10.8,
+        "Naturalgasindex":129.82
     },
     {
         "Date":"2021-07",
-        "Naturalgas_US":3.8036,
-        "Naturalgas_Europe":12.5099424324,
-        "Liquefiednaturalgas_Japan":10.359188367,
-        "Naturalgasindex":112.6787432485
+        "Naturalgas_US":3.8,
+        "Naturalgas_Europe":12.51,
+        "Liquefiednaturalgas_Japan":10.36,
+        "Naturalgasindex":112.68
     },
     {
         "Date":"2021-06",
-        "Naturalgas_US":3.2318,
-        "Naturalgas_Europe":10.3010510056,
-        "Liquefiednaturalgas_Japan":9.6160122964,
-        "Naturalgasindex":94.7306563326
+        "Naturalgas_US":3.23,
+        "Naturalgas_Europe":10.3,
+        "Liquefiednaturalgas_Japan":9.62,
+        "Naturalgasindex":94.73
     },
     {
         "Date":"2021-05",
-        "Naturalgas_US":2.8884,
-        "Naturalgas_Europe":8.9087569244,
-        "Liquefiednaturalgas_Japan":8.915694513,
-        "Naturalgasindex":83.4672332742
+        "Naturalgas_US":2.89,
+        "Naturalgas_Europe":8.91,
+        "Liquefiednaturalgas_Japan":8.92,
+        "Naturalgasindex":83.47
     },
     {
         "Date":"2021-04",
         "Naturalgas_US":2.61,
-        "Naturalgas_Europe":7.1468162881,
-        "Liquefiednaturalgas_Japan":8.2767941961,
-        "Naturalgasindex":71.277449913
+        "Naturalgas_Europe":7.15,
+        "Liquefiednaturalgas_Japan":8.28,
+        "Naturalgasindex":71.28
     },
     {
         "Date":"2021-03",
-        "Naturalgas_US":2.5645,
-        "Naturalgas_Europe":6.1270695793,
-        "Liquefiednaturalgas_Japan":7.8950515719,
-        "Naturalgasindex":65.6184503735
+        "Naturalgas_US":2.56,
+        "Naturalgas_Europe":6.13,
+        "Liquefiednaturalgas_Japan":7.9,
+        "Naturalgasindex":65.62
     },
     {
         "Date":"2021-02",
-        "Naturalgas_US":5.0651,
-        "Naturalgas_Europe":6.1585071665,
-        "Liquefiednaturalgas_Japan":9.8794278122,
-        "Naturalgasindex":97.4780254259
+        "Naturalgas_US":5.07,
+        "Naturalgas_Europe":6.16,
+        "Liquefiednaturalgas_Japan":9.88,
+        "Naturalgasindex":97.48
     },
     {
         "Date":"2021-01",
-        "Naturalgas_US":2.6655,
-        "Naturalgas_Europe":7.2683017493,
-        "Liquefiednaturalgas_Japan":9.0037875279,
-        "Naturalgasindex":73.0214793264
+        "Naturalgas_US":2.67,
+        "Naturalgas_Europe":7.27,
+        "Liquefiednaturalgas_Japan":9.0,
+        "Naturalgasindex":73.02
     },
     {
         "Date":"2020-12",
-        "Naturalgas_US":2.5387,
-        "Naturalgas_Europe":5.856106296,
-        "Liquefiednaturalgas_Japan":7.6610025631,
-        "Naturalgasindex":63.8584325632
+        "Naturalgas_US":2.54,
+        "Naturalgas_Europe":5.86,
+        "Liquefiednaturalgas_Japan":7.66,
+        "Naturalgasindex":63.86
     },
     {
         "Date":"2020-11",
-        "Naturalgas_US":2.5881,
-        "Naturalgas_Europe":4.8358390052,
-        "Liquefiednaturalgas_Japan":6.8555053474,
-        "Naturalgasindex":59.0622730548
+        "Naturalgas_US":2.59,
+        "Naturalgas_Europe":4.84,
+        "Liquefiednaturalgas_Japan":6.86,
+        "Naturalgasindex":59.06
     },
     {
         "Date":"2020-10",
-        "Naturalgas_US":2.2473,
-        "Naturalgas_Europe":4.8895904082,
-        "Liquefiednaturalgas_Japan":6.1792051618,
-        "Naturalgasindex":54.721154853
+        "Naturalgas_US":2.25,
+        "Naturalgas_Europe":4.89,
+        "Liquefiednaturalgas_Japan":6.18,
+        "Naturalgasindex":54.72
     },
     {
         "Date":"2020-09",
-        "Naturalgas_US":1.9186,
-        "Naturalgas_Europe":3.9521394627,
-        "Liquefiednaturalgas_Japan":5.8838474311,
-        "Naturalgasindex":46.0729091283
+        "Naturalgas_US":1.92,
+        "Naturalgas_Europe":3.95,
+        "Liquefiednaturalgas_Japan":5.88,
+        "Naturalgasindex":46.07
     },
     {
         "Date":"2020-08",
-        "Naturalgas_US":2.3017,
-        "Naturalgas_Europe":2.8618966767,
-        "Liquefiednaturalgas_Japan":6.3435648953,
-        "Naturalgasindex":45.8535070767
+        "Naturalgas_US":2.3,
+        "Naturalgas_Europe":2.86,
+        "Liquefiednaturalgas_Japan":6.34,
+        "Naturalgasindex":45.85
     },
     {
         "Date":"2020-07",
-        "Naturalgas_US":1.7352,
-        "Naturalgas_Europe":1.8010354965,
-        "Liquefiednaturalgas_Japan":7.7864455011,
-        "Naturalgasindex":34.9085246085
+        "Naturalgas_US":1.74,
+        "Naturalgas_Europe":1.8,
+        "Liquefiednaturalgas_Japan":7.79,
+        "Naturalgasindex":34.91
     },
     {
         "Date":"2020-06",
-        "Naturalgas_US":1.6128,
-        "Naturalgas_Europe":1.7521711122,
-        "Liquefiednaturalgas_Japan":8.9708190919,
-        "Naturalgasindex":33.9922819297
+        "Naturalgas_US":1.61,
+        "Naturalgas_Europe":1.75,
+        "Liquefiednaturalgas_Japan":8.97,
+        "Naturalgasindex":33.99
     },
     {
         "Date":"2020-05",
-        "Naturalgas_US":1.7525,
-        "Naturalgas_Europe":1.5751649779,
-        "Liquefiednaturalgas_Japan":10.0755270307,
-        "Naturalgasindex":35.5956619577
+        "Naturalgas_US":1.75,
+        "Naturalgas_Europe":1.58,
+        "Liquefiednaturalgas_Japan":10.08,
+        "Naturalgasindex":35.6
     },
     {
         "Date":"2020-04",
-        "Naturalgas_US":1.7386,
-        "Naturalgas_Europe":2.1203186673,
-        "Liquefiednaturalgas_Japan":10.009881262,
-        "Naturalgasindex":37.9740400407
+        "Naturalgas_US":1.74,
+        "Naturalgas_Europe":2.12,
+        "Liquefiednaturalgas_Japan":10.01,
+        "Naturalgasindex":37.97
     },
     {
         "Date":"2020-03",
-        "Naturalgas_US":1.7927,
-        "Naturalgas_Europe":2.7188683818,
-        "Liquefiednaturalgas_Japan":10.2129919971,
-        "Naturalgasindex":41.6140916572
+        "Naturalgas_US":1.79,
+        "Naturalgas_Europe":2.72,
+        "Liquefiednaturalgas_Japan":10.21,
+        "Naturalgasindex":41.61
     },
     {
         "Date":"2020-02",
-        "Naturalgas_US":1.9158,
-        "Naturalgas_Europe":2.9077736411,
-        "Liquefiednaturalgas_Japan":9.8944305055,
-        "Naturalgasindex":43.7911677298
+        "Naturalgas_US":1.92,
+        "Naturalgas_Europe":2.91,
+        "Liquefiednaturalgas_Japan":9.89,
+        "Naturalgasindex":43.79
     },
     {
         "Date":"2020-01",
-        "Naturalgas_US":2.0305,
-        "Naturalgas_Europe":3.6333843473,
-        "Liquefiednaturalgas_Japan":9.8869500633,
-        "Naturalgasindex":48.6284779174
+        "Naturalgas_US":2.03,
+        "Naturalgas_Europe":3.63,
+        "Liquefiednaturalgas_Japan":9.89,
+        "Naturalgasindex":48.63
     },
     {
         "Date":"2019-12",
-        "Naturalgas_US":2.2425,
-        "Naturalgas_Europe":4.6204722124,
-        "Liquefiednaturalgas_Japan":10.0566968114,
-        "Naturalgasindex":56.0104638633
+        "Naturalgas_US":2.24,
+        "Naturalgas_Europe":4.62,
+        "Liquefiednaturalgas_Japan":10.06,
+        "Naturalgasindex":56.01
     },
     {
         "Date":"2019-11",
-        "Naturalgas_US":2.6505,
-        "Naturalgas_Europe":5.1500042173,
-        "Liquefiednaturalgas_Japan":10.0395033079,
-        "Naturalgasindex":63.4706920704
+        "Naturalgas_US":2.65,
+        "Naturalgas_Europe":5.15,
+        "Liquefiednaturalgas_Japan":10.04,
+        "Naturalgasindex":63.47
     },
     {
         "Date":"2019-10",
-        "Naturalgas_US":2.3313,
-        "Naturalgas_Europe":5.0572178579,
-        "Liquefiednaturalgas_Japan":9.9835240858,
-        "Naturalgasindex":59.1154980343
+        "Naturalgas_US":2.33,
+        "Naturalgas_Europe":5.06,
+        "Liquefiednaturalgas_Japan":9.98,
+        "Naturalgasindex":59.12
     },
     {
         "Date":"2019-09",
         "Naturalgas_US":2.58,
-        "Naturalgas_Europe":4.2052556849,
-        "Liquefiednaturalgas_Japan":10.1417004063,
-        "Naturalgasindex":58.1925137678
+        "Naturalgas_Europe":4.21,
+        "Liquefiednaturalgas_Japan":10.14,
+        "Naturalgasindex":58.19
     },
     {
         "Date":"2019-08",
-        "Naturalgas_US":2.2243,
-        "Naturalgas_Europe":3.6767751604,
-        "Liquefiednaturalgas_Japan":10.8609986382,
-        "Naturalgasindex":51.8480544793
+        "Naturalgas_US":2.22,
+        "Naturalgas_Europe":3.68,
+        "Liquefiednaturalgas_Japan":10.86,
+        "Naturalgasindex":51.85
     },
     {
         "Date":"2019-07",
         "Naturalgas_US":2.36,
-        "Naturalgas_Europe":3.6203714056,
-        "Liquefiednaturalgas_Japan":10.1278112243,
-        "Naturalgasindex":52.7310381598
+        "Naturalgas_Europe":3.62,
+        "Liquefiednaturalgas_Japan":10.13,
+        "Naturalgasindex":52.73
     },
     {
         "Date":"2019-06",
-        "Naturalgas_US":2.3965,
-        "Naturalgas_Europe":3.5880065123,
-        "Liquefiednaturalgas_Japan":10.0423778769,
-        "Naturalgasindex":52.9625288761
+        "Naturalgas_US":2.4,
+        "Naturalgas_Europe":3.59,
+        "Liquefiednaturalgas_Japan":10.04,
+        "Naturalgasindex":52.96
     },
     {
         "Date":"2019-05",
-        "Naturalgas_US":2.6279,
-        "Naturalgas_Europe":4.3410552941,
-        "Liquefiednaturalgas_Japan":10.1454884943,
-        "Naturalgasindex":59.4223353327
+        "Naturalgas_US":2.63,
+        "Naturalgas_Europe":4.34,
+        "Liquefiednaturalgas_Japan":10.15,
+        "Naturalgasindex":59.42
     },
     {
         "Date":"2019-04",
-        "Naturalgas_US":2.646,
-        "Naturalgas_Europe":4.9221808197,
-        "Liquefiednaturalgas_Japan":10.2654610699,
-        "Naturalgasindex":62.4860657981
+        "Naturalgas_US":2.65,
+        "Naturalgas_Europe":4.92,
+        "Liquefiednaturalgas_Japan":10.27,
+        "Naturalgasindex":62.49
     },
     {
         "Date":"2019-03",
-        "Naturalgas_US":2.935,
-        "Naturalgas_Europe":5.1787356741,
-        "Liquefiednaturalgas_Japan":11.2941866074,
-        "Naturalgasindex":67.9121107529
+        "Naturalgas_US":2.94,
+        "Naturalgas_Europe":5.18,
+        "Liquefiednaturalgas_Japan":11.29,
+        "Naturalgasindex":67.91
     },
     {
         "Date":"2019-02",
-        "Naturalgas_US":2.7171,
-        "Naturalgas_Europe":6.0057971222,
-        "Liquefiednaturalgas_Japan":11.8065816483,
-        "Naturalgasindex":69.5450416821
+        "Naturalgas_US":2.72,
+        "Naturalgas_Europe":6.01,
+        "Liquefiednaturalgas_Japan":11.81,
+        "Naturalgasindex":69.55
     },
     {
         "Date":"2019-01",
-        "Naturalgas_US":3.0795,
-        "Naturalgas_Europe":7.2623432335,
-        "Liquefiednaturalgas_Japan":12.0072926173,
-        "Naturalgasindex":80.0553660621
+        "Naturalgas_US":3.08,
+        "Naturalgas_Europe":7.26,
+        "Liquefiednaturalgas_Japan":12.01,
+        "Naturalgasindex":80.06
     },
     {
         "Date":"2018-12",
-        "Naturalgas_US":3.9825,
-        "Naturalgas_Europe":7.9762423801,
-        "Liquefiednaturalgas_Japan":11.9953207961,
-        "Naturalgasindex":94.4065778513
+        "Naturalgas_US":3.98,
+        "Naturalgas_Europe":7.98,
+        "Liquefiednaturalgas_Japan":12.0,
+        "Naturalgasindex":94.41
     },
     {
         "Date":"2018-11",
-        "Naturalgas_US":4.1293,
-        "Naturalgas_Europe":8.2650790129,
-        "Liquefiednaturalgas_Japan":11.7002946216,
-        "Naturalgasindex":97.3624678921
+        "Naturalgas_US":4.13,
+        "Naturalgas_Europe":8.27,
+        "Liquefiednaturalgas_Japan":11.7,
+        "Naturalgasindex":97.36
     },
     {
         "Date":"2018-10",
-        "Naturalgas_US":3.284,
-        "Naturalgas_Europe":8.7909607297,
-        "Liquefiednaturalgas_Japan":11.6605802342,
-        "Naturalgasindex":89.5707956168
+        "Naturalgas_US":3.28,
+        "Naturalgas_Europe":8.79,
+        "Liquefiednaturalgas_Japan":11.66,
+        "Naturalgasindex":89.57
     },
     {
         "Date":"2018-09",
-        "Naturalgas_US":2.9847,
-        "Naturalgas_Europe":9.5215770312,
-        "Liquefiednaturalgas_Japan":11.3033169011,
-        "Naturalgasindex":89.167570014
+        "Naturalgas_US":2.98,
+        "Naturalgas_Europe":9.52,
+        "Liquefiednaturalgas_Japan":11.3,
+        "Naturalgasindex":89.17
     },
     {
         "Date":"2018-08",
-        "Naturalgas_US":2.9572,
-        "Naturalgas_Europe":8.0849099384,
-        "Liquefiednaturalgas_Japan":10.8750000001,
-        "Naturalgasindex":81.7135693964
+        "Naturalgas_US":2.96,
+        "Naturalgas_Europe":8.08,
+        "Liquefiednaturalgas_Japan":10.88,
+        "Naturalgasindex":81.71
     },
     {
         "Date":"2018-07",
-        "Naturalgas_US":2.8251,
-        "Naturalgas_Europe":7.5988392303,
-        "Liquefiednaturalgas_Japan":10.4407969031,
-        "Naturalgasindex":77.5044930687
+        "Naturalgas_US":2.83,
+        "Naturalgas_Europe":7.6,
+        "Liquefiednaturalgas_Japan":10.44,
+        "Naturalgasindex":77.5
     },
     {
         "Date":"2018-06",
-        "Naturalgas_US":2.9523,
-        "Naturalgas_Europe":7.448942844,
-        "Liquefiednaturalgas_Japan":10.4429876298,
-        "Naturalgasindex":78.338011034
+        "Naturalgas_US":2.95,
+        "Naturalgas_Europe":7.45,
+        "Liquefiednaturalgas_Japan":10.44,
+        "Naturalgasindex":78.34
     },
     {
         "Date":"2018-05",
-        "Naturalgas_US":2.7972,
-        "Naturalgas_Europe":7.4873540573,
-        "Liquefiednaturalgas_Japan":10.251516962,
-        "Naturalgasindex":76.5074594876
+        "Naturalgas_US":2.8,
+        "Naturalgas_Europe":7.49,
+        "Liquefiednaturalgas_Japan":10.25,
+        "Naturalgasindex":76.51
     },
     {
         "Date":"2018-04",
-        "Naturalgas_US":2.7791,
-        "Naturalgas_Europe":6.9278582024,
-        "Liquefiednaturalgas_Japan":10.0904697482,
-        "Naturalgasindex":73.518728055
+        "Naturalgas_US":2.78,
+        "Naturalgas_Europe":6.93,
+        "Liquefiednaturalgas_Japan":10.09,
+        "Naturalgasindex":73.52
     },
     {
         "Date":"2018-03",
-        "Naturalgas_US":2.6989,
-        "Naturalgas_Europe":6.6973876404,
-        "Liquefiednaturalgas_Japan":10.1100690911,
-        "Naturalgasindex":71.4624572927
+        "Naturalgas_US":2.7,
+        "Naturalgas_Europe":6.7,
+        "Liquefiednaturalgas_Japan":10.11,
+        "Naturalgasindex":71.46
     },
     {
         "Date":"2018-02",
-        "Naturalgas_US":2.6708,
-        "Naturalgas_Europe":6.7187497665,
-        "Liquefiednaturalgas_Japan":9.8256931102,
-        "Naturalgasindex":71.030120424
+        "Naturalgas_US":2.67,
+        "Naturalgas_Europe":6.72,
+        "Liquefiednaturalgas_Japan":9.83,
+        "Naturalgasindex":71.03
     },
     {
         "Date":"2018-01",
-        "Naturalgas_US":3.8556,
-        "Naturalgas_Europe":6.6622550131,
-        "Liquefiednaturalgas_Japan":9.3424638758,
-        "Naturalgasindex":84.8216292756
+        "Naturalgas_US":3.86,
+        "Naturalgas_Europe":6.66,
+        "Liquefiednaturalgas_Japan":9.34,
+        "Naturalgasindex":84.82
     },
     {
         "Date":"2017-12",
-        "Naturalgas_US":2.7583,
-        "Naturalgas_Europe":7.1389336141,
-        "Liquefiednaturalgas_Japan":8.6471138153,
-        "Naturalgasindex":73.2917274636
+        "Naturalgas_US":2.76,
+        "Naturalgas_Europe":7.14,
+        "Liquefiednaturalgas_Japan":8.65,
+        "Naturalgasindex":73.29
     },
     {
         "Date":"2017-11",
-        "Naturalgas_US":2.9913,
-        "Naturalgas_Europe":6.6945990398,
-        "Liquefiednaturalgas_Japan":8.4506656764,
-        "Naturalgasindex":73.8756866155
+        "Naturalgas_US":2.99,
+        "Naturalgas_Europe":6.69,
+        "Liquefiednaturalgas_Japan":8.45,
+        "Naturalgasindex":73.88
     },
     {
         "Date":"2017-10",
-        "Naturalgas_US":2.8638,
-        "Naturalgas_Europe":6.1763203485,
-        "Liquefiednaturalgas_Japan":8.3138988926,
-        "Naturalgasindex":69.7708652853
+        "Naturalgas_US":2.86,
+        "Naturalgas_Europe":6.18,
+        "Liquefiednaturalgas_Japan":8.31,
+        "Naturalgasindex":69.77
     },
     {
         "Date":"2017-09",
-        "Naturalgas_US":2.963,
-        "Naturalgas_Europe":5.961149972,
-        "Liquefiednaturalgas_Japan":8.6420299979,
-        "Naturalgasindex":70.1748807394
+        "Naturalgas_US":2.96,
+        "Naturalgas_Europe":5.96,
+        "Liquefiednaturalgas_Japan":8.64,
+        "Naturalgasindex":70.17
     },
     {
         "Date":"2017-08",
-        "Naturalgas_US":2.8757,
-        "Naturalgas_Europe":5.4766011819,
-        "Liquefiednaturalgas_Japan":8.9154154072,
-        "Naturalgasindex":66.9964497079
+        "Naturalgas_US":2.88,
+        "Naturalgas_Europe":5.48,
+        "Liquefiednaturalgas_Japan":8.92,
+        "Naturalgasindex":67.0
     },
     {
         "Date":"2017-07",
-        "Naturalgas_US":2.9614,
-        "Naturalgas_Europe":5.0039208323,
-        "Liquefiednaturalgas_Japan":8.8584823273,
-        "Naturalgasindex":65.7514556155
+        "Naturalgas_US":2.96,
+        "Naturalgas_Europe":5.0,
+        "Liquefiednaturalgas_Japan":8.86,
+        "Naturalgasindex":65.75
     },
     {
         "Date":"2017-06",
-        "Naturalgas_US":2.941,
-        "Naturalgas_Europe":4.8867667856,
-        "Liquefiednaturalgas_Japan":8.8827097047,
-        "Naturalgasindex":64.9631976087
+        "Naturalgas_US":2.94,
+        "Naturalgas_Europe":4.89,
+        "Liquefiednaturalgas_Japan":8.88,
+        "Naturalgasindex":64.96
     },
     {
         "Date":"2017-05",
-        "Naturalgas_US":3.1248,
-        "Naturalgas_Europe":5.0584359785,
-        "Liquefiednaturalgas_Japan":9.0968085205,
-        "Naturalgasindex":68.1563108464
+        "Naturalgas_US":3.12,
+        "Naturalgas_Europe":5.06,
+        "Liquefiednaturalgas_Japan":9.1,
+        "Naturalgasindex":68.16
     },
     {
         "Date":"2017-04",
-        "Naturalgas_US":3.082,
-        "Naturalgas_Europe":5.0109139183,
-        "Liquefiednaturalgas_Japan":8.7631187547,
-        "Naturalgasindex":67.1845830773
+        "Naturalgas_US":3.08,
+        "Naturalgas_Europe":5.01,
+        "Liquefiednaturalgas_Japan":8.76,
+        "Naturalgasindex":67.18
     },
     {
         "Date":"2017-03",
-        "Naturalgas_US":2.8875,
-        "Naturalgas_Europe":5.0009450765,
-        "Liquefiednaturalgas_Japan":8.2459830611,
-        "Naturalgasindex":64.4249490598
+        "Naturalgas_US":2.89,
+        "Naturalgas_Europe":5.0,
+        "Liquefiednaturalgas_Japan":8.25,
+        "Naturalgasindex":64.42
     },
     {
         "Date":"2017-02",
-        "Naturalgas_US":2.8233,
-        "Naturalgas_Europe":6.0515836448,
-        "Liquefiednaturalgas_Japan":8.4149873155,
-        "Naturalgasindex":68.7545506432
+        "Naturalgas_US":2.82,
+        "Naturalgas_Europe":6.05,
+        "Liquefiednaturalgas_Japan":8.41,
+        "Naturalgasindex":68.75
     },
     {
         "Date":"2017-01",
-        "Naturalgas_US":3.2608,
-        "Naturalgas_Europe":6.1443492548,
-        "Liquefiednaturalgas_Japan":8.0422768605,
-        "Naturalgasindex":74.2557723378
+        "Naturalgas_US":3.26,
+        "Naturalgas_Europe":6.14,
+        "Liquefiednaturalgas_Japan":8.04,
+        "Naturalgasindex":74.26
     },
     {
         "Date":"2016-12",
-        "Naturalgas_US":3.5818,
-        "Naturalgas_Europe":5.4235014224,
-        "Liquefiednaturalgas_Japan":7.5917541523,
-        "Naturalgasindex":74.4216778981
+        "Naturalgas_US":3.58,
+        "Naturalgas_Europe":5.42,
+        "Liquefiednaturalgas_Japan":7.59,
+        "Naturalgasindex":74.42
     },
     {
         "Date":"2016-11",
-        "Naturalgas_US":2.5009,
-        "Naturalgas_Europe":5.6931795012,
-        "Liquefiednaturalgas_Japan":7.592588752,
-        "Naturalgasindex":62.5785136277
+        "Naturalgas_US":2.5,
+        "Naturalgas_Europe":5.69,
+        "Liquefiednaturalgas_Japan":7.59,
+        "Naturalgasindex":62.58
     },
     {
         "Date":"2016-10",
-        "Naturalgas_US":2.9492,
-        "Naturalgas_Europe":5.3368188835,
-        "Liquefiednaturalgas_Japan":7.652866646,
-        "Naturalgasindex":66.3690971114
+        "Naturalgas_US":2.95,
+        "Naturalgas_Europe":5.34,
+        "Liquefiednaturalgas_Japan":7.65,
+        "Naturalgasindex":66.37
     },
     {
         "Date":"2016-09",
-        "Naturalgas_US":2.9689,
-        "Naturalgas_Europe":4.2536141699,
-        "Liquefiednaturalgas_Japan":7.5397929008,
-        "Naturalgasindex":61.3821894646
+        "Naturalgas_US":2.97,
+        "Naturalgas_Europe":4.25,
+        "Liquefiednaturalgas_Japan":7.54,
+        "Naturalgasindex":61.38
     },
     {
         "Date":"2016-08",
-        "Naturalgas_US":2.7913,
-        "Naturalgas_Europe":4.0474899302,
-        "Liquefiednaturalgas_Japan":7.1386747241,
-        "Naturalgasindex":57.9738622862
+        "Naturalgas_US":2.79,
+        "Naturalgas_Europe":4.05,
+        "Liquefiednaturalgas_Japan":7.14,
+        "Naturalgasindex":57.97
     },
     {
         "Date":"2016-07",
-        "Naturalgas_US":2.7879,
-        "Naturalgas_Europe":4.6747376913,
-        "Liquefiednaturalgas_Japan":6.7571186471,
-        "Naturalgasindex":60.6559913692
+        "Naturalgas_US":2.79,
+        "Naturalgas_Europe":4.67,
+        "Liquefiednaturalgas_Japan":6.76,
+        "Naturalgasindex":60.66
     },
     {
         "Date":"2016-06",
-        "Naturalgas_US":2.5666,
-        "Naturalgas_Europe":4.7557204669,
-        "Liquefiednaturalgas_Japan":6.4018011695,
-        "Naturalgasindex":58.1129273183
+        "Naturalgas_US":2.57,
+        "Naturalgas_Europe":4.76,
+        "Liquefiednaturalgas_Japan":6.4,
+        "Naturalgasindex":58.11
     },
     {
         "Date":"2016-05",
-        "Naturalgas_US":1.922,
-        "Naturalgas_Europe":4.3291918651,
-        "Liquefiednaturalgas_Japan":6.2688925069,
-        "Naturalgasindex":48.1675590697
+        "Naturalgas_US":1.92,
+        "Naturalgas_Europe":4.33,
+        "Liquefiednaturalgas_Japan":6.27,
+        "Naturalgasindex":48.17
     },
     {
         "Date":"2016-04",
-        "Naturalgas_US":1.9047,
-        "Naturalgas_Europe":3.9700750898,
-        "Liquefiednaturalgas_Japan":6.8249795643,
-        "Naturalgasindex":46.6269931773
+        "Naturalgas_US":1.9,
+        "Naturalgas_Europe":3.97,
+        "Liquefiednaturalgas_Japan":6.82,
+        "Naturalgasindex":46.63
     },
     {
         "Date":"2016-03",
-        "Naturalgas_US":1.7017,
-        "Naturalgas_Europe":3.9101802431,
-        "Liquefiednaturalgas_Japan":7.7366980955,
-        "Naturalgasindex":44.4948339319
+        "Naturalgas_US":1.7,
+        "Naturalgas_Europe":3.91,
+        "Liquefiednaturalgas_Japan":7.74,
+        "Naturalgasindex":44.49
     },
     {
         "Date":"2016-02",
-        "Naturalgas_US":1.9572,
-        "Naturalgas_Europe":3.9683785893,
-        "Liquefiednaturalgas_Japan":8.5618581323,
-        "Naturalgasindex":48.433180105
+        "Naturalgas_US":1.96,
+        "Naturalgas_Europe":3.97,
+        "Liquefiednaturalgas_Japan":8.56,
+        "Naturalgasindex":48.43
     },
     {
         "Date":"2016-01",
-        "Naturalgas_US":2.2744,
-        "Naturalgas_Europe":4.3981862754,
-        "Liquefiednaturalgas_Japan":8.4023022053,
-        "Naturalgasindex":54.2202536876
+        "Naturalgas_US":2.27,
+        "Naturalgas_Europe":4.4,
+        "Liquefiednaturalgas_Japan":8.4,
+        "Naturalgasindex":54.22
     },
     {
         "Date":"2015-12",
-        "Naturalgas_US":1.9228,
-        "Naturalgas_Europe":5.0927629826,
-        "Liquefiednaturalgas_Japan":9.0801962921,
-        "Naturalgasindex":53.7119114755
+        "Naturalgas_US":1.92,
+        "Naturalgas_Europe":5.09,
+        "Liquefiednaturalgas_Japan":9.08,
+        "Naturalgasindex":53.71
     },
     {
         "Date":"2015-11",
-        "Naturalgas_US":2.0775,
-        "Naturalgas_Europe":5.5008338512,
-        "Liquefiednaturalgas_Japan":9.5155859138,
-        "Naturalgasindex":57.8254228121
+        "Naturalgas_US":2.08,
+        "Naturalgas_Europe":5.5,
+        "Liquefiednaturalgas_Japan":9.52,
+        "Naturalgasindex":57.83
     },
     {
         "Date":"2015-10",
-        "Naturalgas_US":2.3152,
-        "Naturalgas_Europe":6.0269578206,
-        "Liquefiednaturalgas_Japan":10.1074268104,
-        "Naturalgasindex":63.6140501009
+        "Naturalgas_US":2.32,
+        "Naturalgas_Europe":6.03,
+        "Liquefiednaturalgas_Japan":10.11,
+        "Naturalgasindex":63.61
     },
     {
         "Date":"2015-09",
-        "Naturalgas_US":2.6461,
-        "Naturalgas_Europe":6.2786986603,
-        "Liquefiednaturalgas_Japan":10.3069439491,
-        "Naturalgasindex":68.9642329015
+        "Naturalgas_US":2.65,
+        "Naturalgas_Europe":6.28,
+        "Liquefiednaturalgas_Japan":10.31,
+        "Naturalgasindex":68.96
     },
     {
         "Date":"2015-08",
-        "Naturalgas_US":2.763,
-        "Naturalgas_Europe":6.3457375833,
-        "Liquefiednaturalgas_Japan":9.815839658,
-        "Naturalgasindex":70.3697741364
+        "Naturalgas_US":2.76,
+        "Naturalgas_Europe":6.35,
+        "Liquefiednaturalgas_Japan":9.82,
+        "Naturalgasindex":70.37
     },
     {
         "Date":"2015-07",
         "Naturalgas_US":2.83,
-        "Naturalgas_Europe":6.6940371347,
-        "Liquefiednaturalgas_Japan":9.4950832585,
-        "Naturalgasindex":72.6218760116
+        "Naturalgas_Europe":6.69,
+        "Liquefiednaturalgas_Japan":9.5,
+        "Naturalgasindex":72.62
     },
     {
         "Date":"2015-06",
-        "Naturalgas_US":2.7692,
-        "Naturalgas_Europe":6.6667259295,
-        "Liquefiednaturalgas_Japan":9.1891221166,
-        "Naturalgasindex":71.5464353546
+        "Naturalgas_US":2.77,
+        "Naturalgas_Europe":6.67,
+        "Liquefiednaturalgas_Japan":9.19,
+        "Naturalgasindex":71.55
     },
     {
         "Date":"2015-05",
-        "Naturalgas_US":2.8383,
-        "Naturalgas_Europe":6.6839973111,
-        "Liquefiednaturalgas_Japan":9.3369001639,
-        "Naturalgasindex":72.5677688516
+        "Naturalgas_US":2.84,
+        "Naturalgas_Europe":6.68,
+        "Liquefiednaturalgas_Japan":9.34,
+        "Naturalgasindex":72.57
     },
     {
         "Date":"2015-04",
-        "Naturalgas_US":2.5797,
-        "Naturalgas_Europe":6.7744456668,
-        "Liquefiednaturalgas_Japan":10.9366594801,
-        "Naturalgasindex":70.9413090668
+        "Naturalgas_US":2.58,
+        "Naturalgas_Europe":6.77,
+        "Liquefiednaturalgas_Japan":10.94,
+        "Naturalgasindex":70.94
     },
     {
         "Date":"2015-03",
-        "Naturalgas_US":2.8006,
+        "Naturalgas_US":2.8,
         "Naturalgas_Europe":8.27,
-        "Liquefiednaturalgas_Japan":13.0413193244,
-        "Naturalgasindex":82.1594987681
+        "Liquefiednaturalgas_Japan":13.04,
+        "Naturalgasindex":82.16
     },
     {
         "Date":"2015-02",
-        "Naturalgas_US":2.8478,
+        "Naturalgas_US":2.85,
         "Naturalgas_Europe":8.27,
-        "Liquefiednaturalgas_Japan":14.2038341443,
-        "Naturalgasindex":83.5202628914
+        "Liquefiednaturalgas_Japan":14.2,
+        "Naturalgasindex":83.52
     },
     {
         "Date":"2015-01",
-        "Naturalgas_US":2.9743,
+        "Naturalgas_US":2.97,
         "Naturalgas_Europe":9.25,
-        "Liquefiednaturalgas_Japan":16.1873379709,
-        "Naturalgasindex":91.0591046326
+        "Liquefiednaturalgas_Japan":16.19,
+        "Naturalgasindex":91.06
     },
     {
         "Date":"2014-12",
-        "Naturalgas_US":3.4328,
+        "Naturalgas_US":3.43,
         "Naturalgas_Europe":9.83,
         "Liquefiednaturalgas_Japan":15.62,
-        "Naturalgasindex":98.9997770052
+        "Naturalgasindex":99.0
     },
     {
         "Date":"2014-11",
-        "Naturalgas_US":4.1003,
+        "Naturalgas_US":4.1,
         "Naturalgas_Europe":8.9,
         "Liquefiednaturalgas_Japan":15.59,
-        "Naturalgasindex":102.66395932
+        "Naturalgasindex":102.66
     },
     {
         "Date":"2014-10",
-        "Naturalgas_US":3.7719,
+        "Naturalgas_US":3.77,
         "Naturalgas_Europe":9.77,
         "Liquefiednaturalgas_Japan":15.89,
-        "Naturalgasindex":103.0152798412
+        "Naturalgasindex":103.02
     },
     {
         "Date":"2014-09",
-        "Naturalgas_US":3.917,
+        "Naturalgas_US":3.92,
         "Naturalgas_Europe":9.24,
         "Liquefiednaturalgas_Japan":15.16,
-        "Naturalgasindex":101.7631072082
+        "Naturalgasindex":101.76
     },
     {
         "Date":"2014-08",
-        "Naturalgas_US":3.884,
+        "Naturalgas_US":3.88,
         "Naturalgas_Europe":9.14,
         "Liquefiednaturalgas_Japan":15.74,
-        "Naturalgasindex":101.2799252327
+        "Naturalgasindex":101.28
     },
     {
         "Date":"2014-07",
-        "Naturalgas_US":4.0099,
+        "Naturalgas_US":4.01,
         "Naturalgas_Europe":9.27,
-        "Liquefiednaturalgas_Japan":15.2088266299,
-        "Naturalgasindex":103.0669254823
+        "Liquefiednaturalgas_Japan":15.21,
+        "Naturalgasindex":103.07
     },
     {
         "Date":"2014-06",
-        "Naturalgas_US":4.5692,
+        "Naturalgas_US":4.57,
         "Naturalgas_Europe":9.77,
         "Liquefiednaturalgas_Japan":16.13,
-        "Naturalgasindex":112.8597896945
+        "Naturalgasindex":112.86
     },
     {
         "Date":"2014-05",
-        "Naturalgas_US":4.5625,
+        "Naturalgas_US":4.56,
         "Naturalgas_Europe":10.2,
         "Liquefiednaturalgas_Japan":16.32,
-        "Naturalgasindex":114.9513611001
+        "Naturalgasindex":114.95
     },
     {
         "Date":"2014-04",
-        "Naturalgas_US":4.6339,
+        "Naturalgas_US":4.63,
         "Naturalgas_Europe":10.73,
         "Liquefiednaturalgas_Japan":16.79,
-        "Naturalgasindex":118.6564255187
+        "Naturalgasindex":118.66
     },
     {
         "Date":"2014-03",
-        "Naturalgas_US":4.8783,
+        "Naturalgas_US":4.88,
         "Naturalgas_Europe":10.88,
         "Liquefiednaturalgas_Japan":16.55,
-        "Naturalgasindex":122.1747631506
+        "Naturalgasindex":122.17
     },
     {
         "Date":"2014-02",
-        "Naturalgas_US":5.9733,
+        "Naturalgas_US":5.97,
         "Naturalgas_Europe":11.3,
         "Liquefiednaturalgas_Japan":16.76,
-        "Naturalgasindex":137.6106987191
+        "Naturalgasindex":137.61
     },
     {
         "Date":"2014-01",
-        "Naturalgas_US":4.7008,
+        "Naturalgas_US":4.7,
         "Naturalgas_Europe":11.59,
         "Liquefiednaturalgas_Japan":16.67,
-        "Naturalgasindex":123.4759341351
+        "Naturalgasindex":123.48
     },
     {
         "Date":"2013-12",
-        "Naturalgas_US":4.2366,
+        "Naturalgas_US":4.24,
         "Naturalgas_Europe":11.55,
         "Liquefiednaturalgas_Japan":16.38,
-        "Naturalgasindex":117.4523482194
+        "Naturalgasindex":117.45
     },
     {
         "Date":"2013-11",
-        "Naturalgas_US":3.6174,
+        "Naturalgas_US":3.62,
         "Naturalgas_Europe":11.42,
         "Liquefiednaturalgas_Japan":15.4,
-        "Naturalgasindex":108.6512110562
+        "Naturalgasindex":108.65
     },
     {
         "Date":"2013-10",
-        "Naturalgas_US":3.6739,
+        "Naturalgas_US":3.67,
         "Naturalgas_Europe":11.37,
         "Liquefiednaturalgas_Japan":15.3,
-        "Naturalgasindex":109.0318636008
+        "Naturalgasindex":109.03
     },
     {
         "Date":"2013-09",
-        "Naturalgas_US":3.6154,
+        "Naturalgas_US":3.62,
         "Naturalgas_Europe":11.25,
         "Liquefiednaturalgas_Japan":14.96,
-        "Naturalgasindex":107.5206516048
+        "Naturalgasindex":107.52
     },
     {
         "Date":"2013-08",
-        "Naturalgas_US":3.4251,
+        "Naturalgas_US":3.43,
         "Naturalgas_Europe":11.64,
         "Liquefiednaturalgas_Japan":15.6,
-        "Naturalgasindex":107.4974131769
+        "Naturalgasindex":107.5
     },
     {
         "Date":"2013-07",
-        "Naturalgas_US":3.6227,
+        "Naturalgas_US":3.62,
         "Naturalgas_Europe":11.6,
         "Liquefiednaturalgas_Japan":16.17,
-        "Naturalgasindex":110.0929564116
+        "Naturalgasindex":110.09
     },
     {
         "Date":"2013-06",
-        "Naturalgas_US":3.8254,
+        "Naturalgas_US":3.83,
         "Naturalgas_Europe":11.92,
         "Liquefiednaturalgas_Japan":16.61,
-        "Naturalgasindex":114.3737866772
+        "Naturalgasindex":114.37
     },
     {
         "Date":"2013-05",
-        "Naturalgas_US":4.0403,
+        "Naturalgas_US":4.04,
         "Naturalgas_Europe":12.29,
         "Liquefiednaturalgas_Japan":16.22,
-        "Naturalgasindex":118.4781446187
+        "Naturalgasindex":118.48
     },
     {
         "Date":"2013-04",
-        "Naturalgas_US":4.1669,
+        "Naturalgas_US":4.17,
         "Naturalgas_Europe":12.88,
         "Liquefiednaturalgas_Japan":16.2,
-        "Naturalgasindex":122.8067894653
+        "Naturalgasindex":122.81
     },
     {
         "Date":"2013-03",
-        "Naturalgas_US":3.8069,
+        "Naturalgas_US":3.81,
         "Naturalgas_Europe":11.87,
         "Liquefiednaturalgas_Japan":16.27,
-        "Naturalgasindex":113.6810876675
+        "Naturalgasindex":113.68
     },
     {
         "Date":"2013-02",
-        "Naturalgas_US":3.3292,
+        "Naturalgas_US":3.33,
         "Naturalgas_Europe":11.77,
         "Liquefiednaturalgas_Japan":16.47,
-        "Naturalgasindex":107.5402999768
+        "Naturalgasindex":107.54
     },
     {
         "Date":"2013-01",
-        "Naturalgas_US":3.328,
+        "Naturalgas_US":3.33,
         "Naturalgas_Europe":11.87,
         "Liquefiednaturalgas_Japan":15.89,
-        "Naturalgasindex":107.6081785966
+        "Naturalgasindex":107.61
     },
     {
         "Date":"2012-12",
-        "Naturalgas_US":3.3395,
+        "Naturalgas_US":3.34,
         "Naturalgas_Europe":11.79,
         "Liquefiednaturalgas_Japan":15.41,
-        "Naturalgasindex":107.0423124318
+        "Naturalgasindex":107.04
     },
     {
         "Date":"2012-11",
-        "Naturalgas_US":3.538,
+        "Naturalgas_US":3.54,
         "Naturalgas_Europe":11.83,
         "Liquefiednaturalgas_Japan":15.0,
-        "Naturalgasindex":109.3651582862
+        "Naturalgasindex":109.37
     },
     {
         "Date":"2012-10",
-        "Naturalgas_US":3.3174,
+        "Naturalgas_US":3.32,
         "Naturalgas_Europe":11.58,
         "Liquefiednaturalgas_Japan":15.3,
-        "Naturalgasindex":105.7010853375
+        "Naturalgasindex":105.7
     },
     {
         "Date":"2012-09",
-        "Naturalgas_US":2.8415,
+        "Naturalgas_US":2.84,
         "Naturalgas_Europe":11.08,
         "Liquefiednaturalgas_Japan":16.83,
-        "Naturalgasindex":98.5816339007
+        "Naturalgasindex":98.58
     },
     {
         "Date":"2012-08",
-        "Naturalgas_US":2.8383,
+        "Naturalgas_US":2.84,
         "Naturalgas_Europe":11.18,
         "Liquefiednaturalgas_Japan":17.74,
-        "Naturalgasindex":99.6346919672
+        "Naturalgasindex":99.63
     },
     {
         "Date":"2012-07",
-        "Naturalgas_US":2.9455,
+        "Naturalgas_US":2.95,
         "Naturalgas_Europe":11.13,
         "Liquefiednaturalgas_Japan":18.11,
-        "Naturalgasindex":100.9494357434
+        "Naturalgasindex":100.95
     },
     {
         "Date":"2012-06",
-        "Naturalgas_US":2.4552,
+        "Naturalgas_US":2.46,
         "Naturalgas_Europe":11.49,
         "Liquefiednaturalgas_Japan":17.2,
-        "Naturalgasindex":96.0904504137
+        "Naturalgasindex":96.09
     },
     {
         "Date":"2012-05",
-        "Naturalgas_US":2.4374,
+        "Naturalgas_US":2.44,
         "Naturalgas_Europe":11.64,
         "Liquefiednaturalgas_Japan":17.12,
-        "Naturalgasindex":96.5331947061
+        "Naturalgasindex":96.53
     },
     {
         "Date":"2012-04",
-        "Naturalgas_US":1.9467,
+        "Naturalgas_US":1.95,
         "Naturalgas_Europe":11.42,
         "Liquefiednaturalgas_Japan":16.85,
-        "Naturalgasindex":89.3456442581
+        "Naturalgasindex":89.35
     },
     {
         "Date":"2012-03",
-        "Naturalgas_US":2.1661,
+        "Naturalgas_US":2.17,
         "Naturalgas_Europe":11.97,
         "Liquefiednaturalgas_Japan":16.34,
-        "Naturalgasindex":94.2790631175
+        "Naturalgasindex":94.28
     },
     {
         "Date":"2012-02",
-        "Naturalgas_US":2.5192,
+        "Naturalgas_US":2.52,
         "Naturalgas_Europe":11.12,
         "Liquefiednaturalgas_Japan":16.03,
-        "Naturalgasindex":94.3159884156
+        "Naturalgasindex":94.32
     },
     {
         "Date":"2012-01",
-        "Naturalgas_US":2.6797,
+        "Naturalgas_US":2.68,
         "Naturalgas_Europe":11.45,
         "Liquefiednaturalgas_Japan":16.71,
-        "Naturalgasindex":98.294506647
+        "Naturalgasindex":98.29
     },
     {
         "Date":"2011-12",
-        "Naturalgas_US":3.1642380952,
+        "Naturalgas_US":3.16,
         "Naturalgas_Europe":11.53,
         "Liquefiednaturalgas_Japan":16.48,
-        "Naturalgasindex":104.4029276082
+        "Naturalgasindex":104.4
     },
     {
         "Date":"2011-11",
-        "Naturalgas_US":3.24245,
+        "Naturalgas_US":3.24,
         "Naturalgas_Europe":11.32,
         "Liquefiednaturalgas_Japan":16.78,
-        "Naturalgasindex":104.5575979636
+        "Naturalgasindex":104.56
     },
     {
         "Date":"2011-10",
-        "Naturalgas_US":3.568,
+        "Naturalgas_US":3.57,
         "Naturalgas_Europe":11.42,
         "Liquefiednaturalgas_Japan":16.48,
-        "Naturalgasindex":108.7830220474
+        "Naturalgasindex":108.78
     },
     {
         "Date":"2011-09",
-        "Naturalgas_US":3.9013,
+        "Naturalgas_US":3.9,
         "Naturalgas_Europe":10.85,
         "Liquefiednaturalgas_Japan":16.27,
-        "Naturalgasindex":109.9783702387
+        "Naturalgasindex":109.98
     },
     {
         "Date":"2011-08",
-        "Naturalgas_US":4.0539,
+        "Naturalgas_US":4.05,
         "Naturalgas_Europe":10.81,
         "Liquefiednaturalgas_Japan":16.55,
-        "Naturalgasindex":111.8309884038
+        "Naturalgasindex":111.83
     },
     {
         "Date":"2011-07",
-        "Naturalgas_US":4.4131,
+        "Naturalgas_US":4.41,
         "Naturalgas_Europe":10.99,
         "Liquefiednaturalgas_Japan":16.22,
-        "Naturalgasindex":116.8250299567
+        "Naturalgasindex":116.83
     },
     {
         "Date":"2011-06",
-        "Naturalgas_US":4.549,
+        "Naturalgas_US":4.55,
         "Naturalgas_Europe":10.26,
         "Liquefiednaturalgas_Japan":14.52,
-        "Naturalgasindex":113.853174548
+        "Naturalgasindex":113.85
     },
     {
         "Date":"2011-05",
-        "Naturalgas_US":4.3089545454,
+        "Naturalgas_US":4.31,
         "Naturalgas_Europe":10.3,
         "Liquefiednaturalgas_Japan":13.61,
-        "Naturalgasindex":110.5118523374
+        "Naturalgasindex":110.51
     },
     {
         "Date":"2011-04",
-        "Naturalgas_US":4.2424,
+        "Naturalgas_US":4.24,
         "Naturalgas_Europe":10.36,
         "Liquefiednaturalgas_Japan":12.99,
-        "Naturalgasindex":109.5688476771
+        "Naturalgasindex":109.57
     },
     {
         "Date":"2011-03",
-        "Naturalgas_US":3.9713,
+        "Naturalgas_US":3.97,
         "Naturalgas_Europe":9.37,
         "Liquefiednaturalgas_Japan":12.5,
-        "Naturalgasindex":101.2383744945
+        "Naturalgasindex":101.24
     },
     {
         "Date":"2011-02",
-        "Naturalgas_US":4.0749,
+        "Naturalgas_US":4.07,
         "Naturalgas_Europe":9.36,
         "Liquefiednaturalgas_Japan":12.02,
-        "Naturalgasindex":102.1236910479
+        "Naturalgasindex":102.12
     },
     {
         "Date":"2011-01",
-        "Naturalgas_US":4.4934,
+        "Naturalgas_US":4.49,
         "Naturalgas_Europe":9.61,
         "Liquefiednaturalgas_Japan":11.45,
-        "Naturalgasindex":108.0080141041
+        "Naturalgasindex":108.01
     },
     {
         "Date":"2010-12",
-        "Naturalgas_US":4.2370952381,
+        "Naturalgas_US":4.24,
         "Naturalgas_Europe":8.74,
         "Liquefiednaturalgas_Japan":10.75,
-        "Naturalgasindex":100.285407944
+        "Naturalgasindex":100.29
     },
     {
         "Date":"2010-11",
-        "Naturalgas_US":3.72725,
+        "Naturalgas_US":3.73,
         "Naturalgas_Europe":8.59,
         "Liquefiednaturalgas_Japan":10.84,
-        "Naturalgasindex":93.4420456685
+        "Naturalgasindex":93.44
     },
     {
         "Date":"2010-10",
-        "Naturalgas_US":3.4315,
+        "Naturalgas_US":3.43,
         "Naturalgas_Europe":8.29,
         "Liquefiednaturalgas_Japan":11.13,
-        "Naturalgasindex":88.6209246805
+        "Naturalgasindex":88.62
     },
     {
         "Date":"2010-09",
-        "Naturalgas_US":3.9039,
+        "Naturalgas_US":3.9,
         "Naturalgas_Europe":8.28,
         "Liquefiednaturalgas_Japan":11.03,
-        "Naturalgasindex":94.2421649404
+        "Naturalgasindex":94.24
     },
     {
         "Date":"2010-08",
-        "Naturalgas_US":4.305,
+        "Naturalgas_US":4.3,
         "Naturalgas_Europe":8.45,
         "Liquefiednaturalgas_Japan":11.3,
-        "Naturalgasindex":100.1039705505
+        "Naturalgasindex":100.1
     },
     {
         "Date":"2010-07",
-        "Naturalgas_US":4.6266,
+        "Naturalgas_US":4.63,
         "Naturalgas_Europe":8.04,
         "Liquefiednaturalgas_Japan":11.32,
-        "Naturalgasindex":102.0737005008
+        "Naturalgasindex":102.07
     },
     {
         "Date":"2010-06",
-        "Naturalgas_US":4.7948,
+        "Naturalgas_US":4.79,
         "Naturalgas_Europe":7.74,
         "Liquefiednaturalgas_Japan":10.48,
-        "Naturalgasindex":102.1209290833
+        "Naturalgasindex":102.12
     },
     {
         "Date":"2010-05",
-        "Naturalgas_US":4.156,
+        "Naturalgas_US":4.16,
         "Naturalgas_Europe":7.27,
         "Liquefiednaturalgas_Japan":11.39,
-        "Naturalgasindex":92.7458950256
+        "Naturalgasindex":92.75
     },
     {
         "Date":"2010-04",
-        "Naturalgas_US":4.0059,
+        "Naturalgas_US":4.01,
         "Naturalgas_Europe":7.52,
         "Liquefiednaturalgas_Japan":10.98,
-        "Naturalgasindex":91.8338952632
+        "Naturalgasindex":91.83
     },
     {
         "Date":"2010-03",
-        "Naturalgas_US":4.2924,
+        "Naturalgas_US":4.29,
         "Naturalgas_Europe":8.93,
         "Liquefiednaturalgas_Japan":10.42,
-        "Naturalgasindex":101.6366759997
+        "Naturalgasindex":101.64
     },
     {
         "Date":"2010-02",
-        "Naturalgas_US":5.3357,
+        "Naturalgas_US":5.34,
         "Naturalgas_Europe":8.8,
         "Liquefiednaturalgas_Japan":10.52,
-        "Naturalgasindex":113.7555900214
+        "Naturalgasindex":113.76
     },
     {
         "Date":"2010-01",
-        "Naturalgas_US":5.8069,
+        "Naturalgas_US":5.81,
         "Naturalgas_Europe":8.8,
         "Liquefiednaturalgas_Japan":10.02,
-        "Naturalgasindex":119.1388003221
+        "Naturalgasindex":119.14
     },
     {
         "Date":"2009-12",
-        "Naturalgas_US":5.3652,
+        "Naturalgas_US":5.37,
         "Naturalgas_Europe":8.01,
         "Liquefiednaturalgas_Japan":9.76,
-        "Naturalgasindex":109.8432858286
+        "Naturalgasindex":109.84
     },
     {
         "Date":"2009-11",
-        "Naturalgas_US":3.6907,
+        "Naturalgas_US":3.69,
         "Naturalgas_Europe":7.81,
         "Liquefiednaturalgas_Japan":9.13,
-        "Naturalgasindex":88.1315920302
+        "Naturalgasindex":88.13
     },
     {
         "Date":"2009-10",
-        "Naturalgas_US":4.0232,
+        "Naturalgas_US":4.02,
         "Naturalgas_Europe":7.6,
         "Liquefiednaturalgas_Japan":9.1,
-        "Naturalgasindex":91.1506045194
+        "Naturalgasindex":91.15
     },
     {
         "Date":"2009-09",
-        "Naturalgas_US":2.9616,
+        "Naturalgas_US":2.96,
         "Naturalgas_Europe":7.13,
         "Liquefiednaturalgas_Japan":8.42,
-        "Naturalgasindex":75.5641367669
+        "Naturalgasindex":75.56
     },
     {
         "Date":"2009-08",
-        "Naturalgas_US":3.1479,
+        "Naturalgas_US":3.15,
         "Naturalgas_Europe":6.92,
         "Liquefiednaturalgas_Japan":7.76,
-        "Naturalgasindex":76.3809668513
+        "Naturalgasindex":76.38
     },
     {
         "Date":"2009-07",
-        "Naturalgas_US":3.3902,
+        "Naturalgas_US":3.39,
         "Naturalgas_Europe":6.67,
         "Liquefiednaturalgas_Japan":7.55,
-        "Naturalgasindex":77.9925392667
+        "Naturalgasindex":77.99
     },
     {
         "Date":"2009-06",
-        "Naturalgas_US":3.8043,
+        "Naturalgas_US":3.8,
         "Naturalgas_Europe":7.95,
         "Liquefiednaturalgas_Japan":7.18,
-        "Naturalgasindex":88.8555218609
+        "Naturalgasindex":88.86
     },
     {
         "Date":"2009-05",
         "Naturalgas_US":3.81,
         "Naturalgas_Europe":8.09,
         "Liquefiednaturalgas_Japan":7.5,
-        "Naturalgasindex":89.8070933299
+        "Naturalgasindex":89.81
     },
     {
         "Date":"2009-04",
-        "Naturalgas_US":3.4998,
+        "Naturalgas_US":3.5,
         "Naturalgas_Europe":8.51,
         "Liquefiednaturalgas_Japan":8.12,
-        "Naturalgasindex":88.4569337723
+        "Naturalgasindex":88.46
     },
     {
         "Date":"2009-03",
-        "Naturalgas_US":3.9502,
+        "Naturalgas_US":3.95,
         "Naturalgas_Europe":10.9,
         "Liquefiednaturalgas_Japan":9.48,
-        "Naturalgasindex":106.2096949321
+        "Naturalgasindex":106.21
     },
     {
         "Date":"2009-02",
-        "Naturalgas_US":4.519,
+        "Naturalgas_US":4.52,
         "Naturalgas_Europe":11.04,
         "Liquefiednaturalgas_Japan":10.52,
-        "Naturalgasindex":114.4869954667
+        "Naturalgasindex":114.49
     },
     {
         "Date":"2009-01",
-        "Naturalgas_US":5.2414,
+        "Naturalgas_US":5.24,
         "Naturalgas_Europe":13.89,
         "Liquefiednaturalgas_Japan":12.71,
-        "Naturalgasindex":138.2919014684
+        "Naturalgasindex":138.29
     },
     {
         "Date":"2008-12",
-        "Naturalgas_US":5.7948,
+        "Naturalgas_US":5.79,
         "Naturalgas_Europe":15.5,
         "Liquefiednaturalgas_Japan":13.78,
-        "Naturalgasindex":153.3908582947
+        "Naturalgasindex":153.39
     },
     {
         "Date":"2008-11",
-        "Naturalgas_US":6.6745,
+        "Naturalgas_US":6.67,
         "Naturalgas_Europe":15.81,
         "Liquefiednaturalgas_Japan":15.06,
-        "Naturalgasindex":166.4143073744
+        "Naturalgasindex":166.41
     },
     {
         "Date":"2008-10",
-        "Naturalgas_US":6.7335,
+        "Naturalgas_US":6.73,
         "Naturalgas_Europe":15.93,
         "Liquefiednaturalgas_Japan":15.01,
-        "Naturalgasindex":167.6673683621
+        "Naturalgasindex":167.67
     },
     {
         "Date":"2008-09",
-        "Naturalgas_US":7.6945,
+        "Naturalgas_US":7.69,
         "Naturalgas_Europe":14.85,
         "Liquefiednaturalgas_Japan":14.39,
-        "Naturalgasindex":173.7828132738
+        "Naturalgasindex":173.78
     },
     {
         "Date":"2008-08",
         "Naturalgas_US":8.25,
         "Naturalgas_Europe":14.64,
         "Liquefiednaturalgas_Japan":13.25,
-        "Naturalgasindex":178.7577794973
+        "Naturalgasindex":178.76
     },
     {
         "Date":"2008-07",
-        "Naturalgas_US":11.1487826087,
+        "Naturalgas_US":11.15,
         "Naturalgas_Europe":14.37,
         "Liquefiednaturalgas_Japan":12.35,
-        "Naturalgasindex":212.065460659
+        "Naturalgasindex":212.07
     },
     {
         "Date":"2008-06",
-        "Naturalgas_US":12.6761904762,
+        "Naturalgas_US":12.68,
         "Naturalgas_Europe":12.63,
         "Liquefiednaturalgas_Japan":12.07,
-        "Naturalgasindex":222.1517337739
+        "Naturalgasindex":222.15
     },
     {
         "Date":"2008-05",
-        "Naturalgas_US":11.2304545454,
+        "Naturalgas_US":11.23,
         "Naturalgas_Europe":12.38,
         "Liquefiednaturalgas_Japan":11.63,
-        "Naturalgasindex":203.109032649
+        "Naturalgasindex":203.11
     },
     {
         "Date":"2008-04",
-        "Naturalgas_US":10.1322727273,
+        "Naturalgas_US":10.13,
         "Naturalgas_Europe":12.19,
         "Liquefiednaturalgas_Japan":11.42,
-        "Naturalgasindex":188.7278727251
+        "Naturalgasindex":188.73
     },
     {
         "Date":"2008-03",
-        "Naturalgas_US":9.4014285714,
+        "Naturalgas_US":9.4,
         "Naturalgas_Europe":11.04,
         "Liquefiednaturalgas_Japan":10.96,
-        "Naturalgasindex":174.074244026
+        "Naturalgasindex":174.07
     },
     {
         "Date":"2008-02",
         "Naturalgas_US":8.55,
         "Naturalgas_Europe":10.84,
         "Liquefiednaturalgas_Japan":10.46,
-        "Naturalgasindex":162.4454878003
+        "Naturalgasindex":162.45
     },
     {
         "Date":"2008-01",
         "Naturalgas_US":8.0,
         "Naturalgas_Europe":10.7,
         "Liquefiednaturalgas_Japan":9.94,
-        "Naturalgasindex":154.7487796039
+        "Naturalgasindex":154.75
     },
     {
         "Date":"2007-12",
-        "Naturalgas_US":7.1497619048,
+        "Naturalgas_US":7.15,
         "Naturalgas_Europe":9.49,
         "Liquefiednaturalgas_Japan":9.18,
-        "Naturalgasindex":138.1568191978
+        "Naturalgasindex":138.16
     },
     {
         "Date":"2007-11",
-        "Naturalgas_US":7.1377272727,
+        "Naturalgas_US":7.14,
         "Naturalgas_Europe":9.47,
         "Liquefiednaturalgas_Japan":9.14,
-        "Naturalgasindex":137.8884989611
+        "Naturalgasindex":137.89
     },
     {
         "Date":"2007-10",
-        "Naturalgas_US":6.7980434783,
+        "Naturalgas_US":6.8,
         "Naturalgas_Europe":9.16,
         "Liquefiednaturalgas_Japan":8.55,
-        "Naturalgasindex":131.8901389984
+        "Naturalgasindex":131.89
     },
     {
         "Date":"2007-09",
-        "Naturalgas_US":6.0965,
+        "Naturalgas_US":6.1,
         "Naturalgas_Europe":8.54,
         "Liquefiednaturalgas_Japan":8.09,
-        "Naturalgasindex":120.1119247221
+        "Naturalgasindex":120.11
     },
     {
         "Date":"2007-08",
-        "Naturalgas_US":6.1954347826,
+        "Naturalgas_US":6.2,
         "Naturalgas_Europe":8.34,
         "Liquefiednaturalgas_Japan":7.7,
-        "Naturalgasindex":120.0983095147
+        "Naturalgasindex":120.1
     },
     {
         "Date":"2007-07",
-        "Naturalgas_US":6.2209090909,
+        "Naturalgas_US":6.22,
         "Naturalgas_Europe":8.13,
         "Liquefiednaturalgas_Japan":7.26,
-        "Naturalgasindex":119.1112219407
+        "Naturalgasindex":119.11
     },
     {
         "Date":"2007-06",
-        "Naturalgas_US":7.3041428571,
+        "Naturalgas_US":7.3,
         "Naturalgas_Europe":8.03,
         "Liquefiednaturalgas_Japan":7.11,
-        "Naturalgasindex":131.6883122294
+        "Naturalgasindex":131.69
     },
     {
         "Date":"2007-05",
-        "Naturalgas_US":7.6134782609,
+        "Naturalgas_US":7.61,
         "Naturalgas_Europe":7.98,
         "Liquefiednaturalgas_Japan":7.22,
-        "Naturalgasindex":135.2815131411
+        "Naturalgasindex":135.28
     },
     {
         "Date":"2007-04",
-        "Naturalgas_US":7.5873809524,
+        "Naturalgas_US":7.59,
         "Naturalgas_Europe":8.0,
         "Liquefiednaturalgas_Japan":7.09,
-        "Naturalgasindex":134.9716090067
+        "Naturalgasindex":134.97
     },
     {
         "Date":"2007-03",
-        "Naturalgas_US":7.1231818182,
+        "Naturalgas_US":7.12,
         "Naturalgas_Europe":8.37,
         "Liquefiednaturalgas_Japan":6.86,
-        "Naturalgasindex":130.9378119298
+        "Naturalgasindex":130.94
     },
     {
         "Date":"2007-02",
-        "Naturalgas_US":7.9725,
+        "Naturalgas_US":7.97,
         "Naturalgas_Europe":8.56,
         "Liquefiednaturalgas_Japan":6.89,
-        "Naturalgasindex":142.1749789617
+        "Naturalgasindex":142.17
     },
     {
         "Date":"2007-01",
-        "Naturalgas_US":6.5843478261,
+        "Naturalgas_US":6.58,
         "Naturalgas_Europe":8.59,
         "Liquefiednaturalgas_Japan":7.11,
-        "Naturalgasindex":125.6097972409
+        "Naturalgasindex":125.61
     },
     {
         "Date":"2006-12",
-        "Naturalgas_US":6.5780952381,
+        "Naturalgas_US":6.58,
         "Naturalgas_Europe":8.92,
         "Liquefiednaturalgas_Japan":7.35,
-        "Naturalgasindex":127.2652792028
+        "Naturalgasindex":127.27
     },
     {
         "Date":"2006-11",
-        "Naturalgas_US":7.4536363636,
+        "Naturalgas_US":7.45,
         "Naturalgas_Europe":8.99,
         "Liquefiednaturalgas_Japan":7.21,
-        "Naturalgasindex":138.1352305389
+        "Naturalgasindex":138.14
     },
     {
         "Date":"2006-10",
-        "Naturalgas_US":5.9625,
+        "Naturalgas_US":5.96,
         "Naturalgas_Europe":8.97,
         "Liquefiednaturalgas_Japan":7.2,
-        "Naturalgasindex":119.925951132
+        "Naturalgasindex":119.93
     },
     {
         "Date":"2006-09",
-        "Naturalgas_US":4.8623809524,
+        "Naturalgas_US":4.86,
         "Naturalgas_Europe":8.77,
         "Liquefiednaturalgas_Japan":7.65,
-        "Naturalgasindex":105.9208730834
+        "Naturalgasindex":105.92
     },
     {
         "Date":"2006-08",
-        "Naturalgas_US":6.995,
+        "Naturalgas_US":7.0,
         "Naturalgas_Europe":8.71,
         "Liquefiednaturalgas_Japan":7.23,
-        "Naturalgasindex":131.2482757286
+        "Naturalgasindex":131.25
     },
     {
         "Date":"2006-07",
         "Naturalgas_US":6.25,
         "Naturalgas_Europe":8.58,
         "Liquefiednaturalgas_Japan":6.86,
-        "Naturalgasindex":121.3327736396
+        "Naturalgasindex":121.33
     },
     {
         "Date":"2006-06",
-        "Naturalgas_US":6.1931818182,
+        "Naturalgas_US":6.19,
         "Naturalgas_Europe":8.29,
         "Liquefiednaturalgas_Japan":7.1,
-        "Naturalgasindex":119.4267558545
+        "Naturalgasindex":119.43
     },
     {
         "Date":"2006-05",
-        "Naturalgas_US":6.1980434783,
+        "Naturalgas_US":6.2,
         "Naturalgas_Europe":8.28,
         "Liquefiednaturalgas_Japan":6.92,
-        "Naturalgasindex":119.3163041462
+        "Naturalgasindex":119.32
     },
     {
         "Date":"2006-04",
-        "Naturalgas_US":7.094,
+        "Naturalgas_US":7.09,
         "Naturalgas_Europe":8.24,
         "Liquefiednaturalgas_Japan":6.93,
-        "Naturalgasindex":130.0128544032
+        "Naturalgasindex":130.01
     },
     {
         "Date":"2006-03",
-        "Naturalgas_US":6.8989130435,
+        "Naturalgas_US":6.9,
         "Naturalgas_Europe":7.99,
         "Liquefiednaturalgas_Japan":6.88,
-        "Naturalgasindex":126.4214729259
+        "Naturalgasindex":126.42
     },
     {
         "Date":"2006-02",
-        "Naturalgas_US":7.4878571429,
+        "Naturalgas_US":7.49,
         "Naturalgas_Europe":7.95,
         "Liquefiednaturalgas_Japan":7.04,
-        "Naturalgasindex":133.491480944
+        "Naturalgasindex":133.49
     },
     {
         "Date":"2006-01",
-        "Naturalgas_US":8.6609090909,
+        "Naturalgas_US":8.66,
         "Naturalgas_Europe":7.96,
         "Liquefiednaturalgas_Japan":6.53,
-        "Naturalgasindex":147.4383060052
+        "Naturalgasindex":147.44
     },
     {
         "Date":"2005-12",
-        "Naturalgas_US":12.8275,
+        "Naturalgas_US":12.83,
         "Naturalgas_Europe":7.49,
         "Liquefiednaturalgas_Japan":6.49,
-        "Naturalgasindex":195.7733066563
+        "Naturalgasindex":195.77
     },
     {
         "Date":"2005-11",
-        "Naturalgas_US":10.4309090909,
+        "Naturalgas_US":10.43,
         "Naturalgas_Europe":7.46,
         "Liquefiednaturalgas_Japan":6.61,
-        "Naturalgasindex":166.6092895009
+        "Naturalgasindex":166.61
     },
     {
         "Date":"2005-10",
-        "Naturalgas_US":13.5226190476,
+        "Naturalgas_US":13.52,
         "Naturalgas_Europe":7.28,
         "Liquefiednaturalgas_Japan":6.48,
-        "Naturalgasindex":203.2092873699
+        "Naturalgasindex":203.21
     },
     {
         "Date":"2005-09",
-        "Naturalgas_US":12.8756818182,
+        "Naturalgas_US":12.88,
         "Naturalgas_Europe":6.58,
         "Liquefiednaturalgas_Japan":6.39,
-        "Naturalgasindex":191.9645321615
+        "Naturalgasindex":191.96
     },
     {
         "Date":"2005-08",
-        "Naturalgas_US":9.6297826087,
+        "Naturalgas_US":9.63,
         "Naturalgas_Europe":6.56,
         "Liquefiednaturalgas_Japan":6.2,
-        "Naturalgasindex":152.324564101
+        "Naturalgasindex":152.32
     },
     {
         "Date":"2005-07",
-        "Naturalgas_US":7.6261904762,
+        "Naturalgas_US":7.63,
         "Naturalgas_Europe":6.42,
         "Liquefiednaturalgas_Japan":6.03,
-        "Naturalgasindex":127.2134674192
+        "Naturalgasindex":127.21
     },
     {
         "Date":"2005-06",
-        "Naturalgas_US":7.1861363636,
+        "Naturalgas_US":7.19,
         "Naturalgas_Europe":5.91,
         "Liquefiednaturalgas_Japan":5.68,
-        "Naturalgasindex":119.208077352
+        "Naturalgasindex":119.21
     },
     {
         "Date":"2005-05",
-        "Naturalgas_US":6.4693181818,
+        "Naturalgas_US":6.47,
         "Naturalgas_Europe":5.89,
         "Liquefiednaturalgas_Japan":5.74,
-        "Naturalgasindex":110.4490570134
+        "Naturalgasindex":110.45
     },
     {
         "Date":"2005-04",
-        "Naturalgas_US":7.1526190476,
+        "Naturalgas_US":7.15,
         "Naturalgas_Europe":5.86,
         "Liquefiednaturalgas_Japan":5.67,
-        "Naturalgasindex":118.5565905221
+        "Naturalgasindex":118.56
     },
     {
         "Date":"2005-03",
-        "Naturalgas_US":6.9680434783,
+        "Naturalgas_US":6.97,
         "Naturalgas_Europe":5.52,
         "Liquefiednaturalgas_Japan":5.59,
-        "Naturalgasindex":114.644670402
+        "Naturalgasindex":114.64
     },
     {
         "Date":"2005-02",
-        "Naturalgas_US":6.14475,
+        "Naturalgas_US":6.14,
         "Naturalgas_Europe":5.49,
         "Liquefiednaturalgas_Japan":5.58,
-        "Naturalgasindex":104.4977165161
+        "Naturalgasindex":104.5
     },
     {
         "Date":"2005-01",
-        "Naturalgas_US":6.1545238095,
+        "Naturalgas_US":6.15,
         "Naturalgas_Europe":5.46,
         "Liquefiednaturalgas_Japan":5.42,
-        "Naturalgasindex":104.3653853046
+        "Naturalgasindex":104.37
     },
     {
         "Date":"2004-12",
-        "Naturalgas_US":6.5813043478,
+        "Naturalgas_US":6.58,
         "Naturalgas_Europe":5.01,
         "Liquefiednaturalgas_Japan":5.57,
-        "Naturalgasindex":107.5102770971
+        "Naturalgasindex":107.51
     },
     {
         "Date":"2004-11",
-        "Naturalgas_US":6.0870454546,
+        "Naturalgas_US":6.09,
         "Naturalgas_Europe":4.96,
         "Liquefiednaturalgas_Japan":5.45,
-        "Naturalgasindex":101.1893091003
+        "Naturalgasindex":101.19
     },
     {
         "Date":"2004-10",
-        "Naturalgas_US":6.4116666667,
+        "Naturalgas_US":6.41,
         "Naturalgas_Europe":4.83,
         "Liquefiednaturalgas_Japan":5.55,
-        "Naturalgasindex":104.5810385524
+        "Naturalgasindex":104.58
     },
     {
         "Date":"2004-09",
-        "Naturalgas_US":5.1388636364,
+        "Naturalgas_US":5.14,
         "Naturalgas_Europe":4.41,
         "Liquefiednaturalgas_Japan":5.43,
-        "Naturalgasindex":87.0469489391
+        "Naturalgasindex":87.05
     },
     {
         "Date":"2004-08",
-        "Naturalgas_US":5.3956818182,
+        "Naturalgas_US":5.4,
         "Naturalgas_Europe":4.34,
         "Liquefiednaturalgas_Japan":5.16,
-        "Naturalgasindex":89.649886436
+        "Naturalgasindex":89.65
     },
     {
         "Date":"2004-07",
-        "Naturalgas_US":5.9286363636,
+        "Naturalgas_US":5.93,
         "Naturalgas_Europe":4.28,
         "Liquefiednaturalgas_Japan":5.07,
-        "Naturalgasindex":95.7755394481
+        "Naturalgasindex":95.78
     },
     {
         "Date":"2004-06",
-        "Naturalgas_US":6.2715909091,
+        "Naturalgas_US":6.27,
         "Naturalgas_Europe":4.01,
         "Liquefiednaturalgas_Japan":5.04,
-        "Naturalgasindex":98.6362670387
+        "Naturalgasindex":98.64
     },
     {
         "Date":"2004-05",
-        "Naturalgas_US":6.335952381,
+        "Naturalgas_US":6.34,
         "Naturalgas_Europe":3.95,
         "Liquefiednaturalgas_Japan":4.91,
-        "Naturalgasindex":99.0445198217
+        "Naturalgasindex":99.04
     },
     {
         "Date":"2004-04",
-        "Naturalgas_US":5.7165217391,
+        "Naturalgas_US":5.72,
         "Naturalgas_Europe":3.92,
         "Liquefiednaturalgas_Japan":4.91,
-        "Naturalgasindex":91.379923335
+        "Naturalgasindex":91.38
     },
     {
         "Date":"2004-03",
-        "Naturalgas_US":5.3968695652,
+        "Naturalgas_US":5.4,
         "Naturalgas_Europe":3.86,
         "Liquefiednaturalgas_Japan":4.88,
-        "Naturalgasindex":87.1927045993
+        "Naturalgasindex":87.19
     },
     {
         "Date":"2004-02",
-        "Naturalgas_US":5.3795,
+        "Naturalgas_US":5.38,
         "Naturalgas_Europe":3.89,
         "Liquefiednaturalgas_Japan":4.81,
-        "Naturalgasindex":87.076974076
+        "Naturalgasindex":87.08
     },
     {
         "Date":"2004-01",
-        "Naturalgas_US":6.0947727273,
+        "Naturalgas_US":6.09,
         "Naturalgas_Europe":3.87,
         "Liquefiednaturalgas_Japan":4.75,
-        "Naturalgasindex":95.627068488
+        "Naturalgasindex":95.63
     },
     {
         "Date":"2003-12",
-        "Naturalgas_US":6.126522,
+        "Naturalgas_US":6.13,
         "Naturalgas_Europe":3.97,
         "Liquefiednaturalgas_Japan":4.75,
-        "Naturalgasindex":96.4880089873
+        "Naturalgasindex":96.49
     },
     {
         "Date":"2003-11",
-        "Naturalgas_US":4.5275,
+        "Naturalgas_US":4.53,
         "Naturalgas_Europe":3.9,
         "Liquefiednaturalgas_Japan":4.72,
-        "Naturalgasindex":76.7173855583
+        "Naturalgasindex":76.72
     },
     {
         "Date":"2003-10",
-        "Naturalgas_US":4.635652,
+        "Naturalgas_US":4.64,
         "Naturalgas_Europe":3.88,
         "Liquefiednaturalgas_Japan":4.62,
-        "Naturalgasindex":77.8678867754
+        "Naturalgasindex":77.87
     },
     {
         "Date":"2003-09",
-        "Naturalgas_US":4.612727,
+        "Naturalgas_US":4.61,
         "Naturalgas_Europe":3.97,
         "Liquefiednaturalgas_Japan":4.7,
-        "Naturalgasindex":78.0715569922
+        "Naturalgasindex":78.07
     },
     {
         "Date":"2003-08",
-        "Naturalgas_US":4.970714,
+        "Naturalgas_US":4.97,
         "Naturalgas_Europe":3.98,
         "Liquefiednaturalgas_Japan":4.67,
-        "Naturalgasindex":82.4459415541
+        "Naturalgasindex":82.45
     },
     {
         "Date":"2003-07",
-        "Naturalgas_US":5.005,
+        "Naturalgas_US":5.0,
         "Naturalgas_Europe":4.04,
         "Liquefiednaturalgas_Japan":4.75,
-        "Naturalgasindex":83.2017271104
+        "Naturalgasindex":83.2
     },
     {
         "Date":"2003-06",
-        "Naturalgas_US":5.771905,
+        "Naturalgas_US":5.77,
         "Naturalgas_Europe":4.05,
         "Liquefiednaturalgas_Japan":4.77,
-        "Naturalgasindex":92.5756301665
+        "Naturalgasindex":92.58
     },
     {
         "Date":"2003-05",
-        "Naturalgas_US":5.838044,
+        "Naturalgas_US":5.84,
         "Naturalgas_Europe":4.04,
         "Liquefiednaturalgas_Japan":4.74,
-        "Naturalgasindex":93.310916165
+        "Naturalgasindex":93.31
     },
     {
         "Date":"2003-04",
-        "Naturalgas_US":5.289318,
+        "Naturalgas_US":5.29,
         "Naturalgas_Europe":4.03,
         "Liquefiednaturalgas_Japan":4.78,
-        "Naturalgasindex":86.6270917263
+        "Naturalgasindex":86.63
     },
     {
         "Date":"2003-03",
-        "Naturalgas_US":5.946857,
+        "Naturalgas_US":5.95,
         "Naturalgas_Europe":3.74,
         "Liquefiednaturalgas_Japan":4.78,
-        "Naturalgasindex":93.233181055
+        "Naturalgasindex":93.23
     },
     {
         "Date":"2003-02",
-        "Naturalgas_US":7.773684,
+        "Naturalgas_US":7.77,
         "Naturalgas_Europe":3.67,
         "Liquefiednaturalgas_Japan":4.8,
-        "Naturalgasindex":115.0977944889
+        "Naturalgasindex":115.1
     },
     {
         "Date":"2003-01",
-        "Naturalgas_US":5.405869,
+        "Naturalgas_US":5.41,
         "Naturalgas_Europe":3.61,
         "Liquefiednaturalgas_Japan":4.69,
-        "Naturalgasindex":85.9847711181
+        "Naturalgasindex":85.98
     },
     {
         "Date":"2002-12",
         "Naturalgas_US":4.74,
         "Naturalgas_Europe":3.36,
         "Liquefiednaturalgas_Japan":4.56,
-        "Naturalgasindex":76.6223081705
+        "Naturalgasindex":76.62
     },
     {
         "Date":"2002-11",
         "Naturalgas_US":4.04,
         "Naturalgas_Europe":3.34,
         "Liquefiednaturalgas_Japan":4.56,
-        "Naturalgasindex":68.0268676411
+        "Naturalgasindex":68.03
     },
     {
         "Date":"2002-10",
         "Naturalgas_US":4.12,
         "Naturalgas_Europe":3.28,
         "Liquefiednaturalgas_Japan":4.54,
-        "Naturalgasindex":68.6995492539
+        "Naturalgasindex":68.7
     },
     {
         "Date":"2002-09",
         "Naturalgas_US":3.57,
         "Naturalgas_Europe":3.08,
         "Liquefiednaturalgas_Japan":4.46,
-        "Naturalgasindex":61.0157001133
+        "Naturalgasindex":61.02
     },
     {
         "Date":"2002-08",
         "Naturalgas_US":3.09,
         "Naturalgas_Europe":3.01,
         "Liquefiednaturalgas_Japan":4.35,
-        "Naturalgasindex":54.7795786689
+        "Naturalgasindex":54.78
     },
     {
         "Date":"2002-07",
         "Naturalgas_US":2.98,
         "Naturalgas_Europe":2.95,
         "Liquefiednaturalgas_Japan":4.56,
-        "Naturalgasindex":53.3008430571
+        "Naturalgasindex":53.3
     },
     {
         "Date":"2002-06",
         "Naturalgas_US":3.22,
         "Naturalgas_Europe":2.9,
         "Liquefiednaturalgas_Japan":4.06,
-        "Naturalgasindex":55.6388069067
+        "Naturalgasindex":55.64
     },
     {
         "Date":"2002-05",
         "Naturalgas_US":3.49,
         "Naturalgas_Europe":2.83,
         "Liquefiednaturalgas_Japan":4.01,
-        "Naturalgasindex":58.5508648379
+        "Naturalgasindex":58.55
     },
     {
         "Date":"2002-04",
         "Naturalgas_US":3.42,
         "Naturalgas_Europe":2.81,
         "Liquefiednaturalgas_Japan":3.96,
-        "Naturalgasindex":57.5718745775
+        "Naturalgasindex":57.57
     },
     {
         "Date":"2002-03",
         "Naturalgas_US":3.03,
         "Naturalgas_Europe":2.97,
         "Liquefiednaturalgas_Japan":3.99,
-        "Naturalgasindex":53.6169195228
+        "Naturalgasindex":53.62
     },
     {
         "Date":"2002-02",
         "Naturalgas_US":2.31,
         "Naturalgas_Europe":3.03,
         "Liquefiednaturalgas_Japan":4.12,
-        "Naturalgasindex":45.2470035567
+        "Naturalgasindex":45.25
     },
     {
         "Date":"2002-01",
         "Naturalgas_US":2.25,
         "Naturalgas_Europe":3.06,
         "Liquefiednaturalgas_Japan":4.21,
-        "Naturalgasindex":44.721994818
+        "Naturalgasindex":44.72
     },
     {
         "Date":"2001-12",
         "Naturalgas_US":2.41,
         "Naturalgas_Europe":3.4,
         "Liquefiednaturalgas_Japan":4.27,
-        "Naturalgasindex":48.3219347516
+        "Naturalgasindex":48.32
     },
     {
         "Date":"2001-11",
         "Naturalgas_US":2.36,
         "Naturalgas_Europe":3.46,
         "Liquefiednaturalgas_Japan":4.38,
-        "Naturalgasindex":48.0745287961
+        "Naturalgasindex":48.07
     },
     {
         "Date":"2001-10",
         "Naturalgas_US":2.45,
         "Naturalgas_Europe":3.52,
         "Liquefiednaturalgas_Japan":4.59,
-        "Naturalgasindex":49.5949444658
+        "Naturalgasindex":49.59
     },
     {
         "Date":"2001-09",
         "Naturalgas_US":2.15,
         "Naturalgas_Europe":3.79,
         "Liquefiednaturalgas_Japan":4.54,
-        "Naturalgasindex":47.2016304145
+        "Naturalgasindex":47.2
     },
     {
         "Date":"2001-08",
         "Naturalgas_US":2.95,
         "Naturalgas_Europe":3.79,
         "Liquefiednaturalgas_Japan":4.54,
-        "Naturalgasindex":56.9163287934
+        "Naturalgasindex":56.92
     },
     {
         "Date":"2001-07",
         "Naturalgas_US":3.1,
         "Naturalgas_Europe":3.75,
         "Liquefiednaturalgas_Japan":4.66,
-        "Naturalgasindex":58.6289751345
+        "Naturalgasindex":58.63
     },
     {
         "Date":"2001-06",
         "Naturalgas_US":3.71,
         "Naturalgas_Europe":4.33,
         "Liquefiednaturalgas_Japan":4.69,
-        "Naturalgasindex":68.8140614572
+        "Naturalgasindex":68.81
     },
     {
         "Date":"2001-05",
         "Naturalgas_US":4.21,
         "Naturalgas_Europe":4.36,
         "Liquefiednaturalgas_Japan":4.66,
-        "Naturalgasindex":75.008042293
+        "Naturalgasindex":75.01
     },
     {
         "Date":"2001-04",
         "Naturalgas_US":5.17,
         "Naturalgas_Europe":4.48,
         "Liquefiednaturalgas_Japan":4.73,
-        "Naturalgasindex":87.2835816207
+        "Naturalgasindex":87.28
     },
     {
         "Date":"2001-03",
         "Naturalgas_US":5.16,
         "Naturalgas_Europe":4.57,
         "Liquefiednaturalgas_Japan":4.87,
-        "Naturalgasindex":87.6848545786
+        "Naturalgasindex":87.68
     },
     {
         "Date":"2001-02",
         "Naturalgas_US":5.63,
         "Naturalgas_Europe":4.59,
         "Liquefiednaturalgas_Japan":4.8,
-        "Naturalgasindex":93.4398947377
+        "Naturalgasindex":93.44
     },
     {
         "Date":"2001-01",
         "Naturalgas_US":8.17,
         "Naturalgas_Europe":4.65,
         "Liquefiednaturalgas_Japan":4.88,
-        "Naturalgasindex":124.6234999614
+        "Naturalgasindex":124.62
     },
     {
         "Date":"2000-12",
         "Naturalgas_US":8.95,
         "Naturalgas_Europe":4.44,
         "Liquefiednaturalgas_Japan":5.05,
-        "Naturalgasindex":133.2121706741
+        "Naturalgasindex":133.21
     },
     {
         "Date":"2000-11",
         "Naturalgas_US":5.55,
         "Naturalgas_Europe":4.39,
         "Liquefiednaturalgas_Japan":5.13,
-        "Naturalgasindex":91.7412034713
+        "Naturalgasindex":91.74
     },
     {
         "Date":"2000-10",
         "Naturalgas_US":5.02,
         "Naturalgas_Europe":4.31,
         "Liquefiednaturalgas_Japan":5.04,
-        "Naturalgasindex":84.863923536
+        "Naturalgasindex":84.86
     },
     {
         "Date":"2000-09",
         "Naturalgas_US":5.06,
         "Naturalgas_Europe":4.03,
         "Liquefiednaturalgas_Japan":4.9,
-        "Naturalgasindex":83.9236970134
+        "Naturalgasindex":83.92
     },
     {
         "Date":"2000-08",
         "Naturalgas_US":4.41,
         "Naturalgas_Europe":4.01,
         "Liquefiednaturalgas_Japan":4.84,
-        "Naturalgasindex":75.8947754874
+        "Naturalgasindex":75.89
     },
     {
         "Date":"2000-07",
         "Naturalgas_US":3.96,
         "Naturalgas_Europe":3.96,
         "Liquefiednaturalgas_Japan":4.86,
-        "Naturalgasindex":70.2061089116
+        "Naturalgasindex":70.21
     },
     {
         "Date":"2000-06",
         "Naturalgas_US":4.28,
         "Naturalgas_Europe":3.6,
         "Liquefiednaturalgas_Japan":4.74,
-        "Naturalgasindex":72.2992589122
+        "Naturalgasindex":72.3
     },
     {
         "Date":"2000-05",
         "Naturalgas_US":3.58,
         "Naturalgas_Europe":3.55,
         "Liquefiednaturalgas_Japan":4.53,
-        "Naturalgasindex":63.4189254524
+        "Naturalgasindex":63.42
     },
     {
         "Date":"2000-04",
         "Naturalgas_US":3.03,
         "Naturalgas_Europe":3.68,
         "Liquefiednaturalgas_Japan":4.64,
-        "Naturalgasindex":57.4326110773
+        "Naturalgasindex":57.43
     },
     {
         "Date":"2000-03",
         "Naturalgas_US":2.79,
         "Naturalgas_Europe":3.51,
         "Liquefiednaturalgas_Japan":4.46,
-        "Naturalgasindex":53.5880773214
+        "Naturalgasindex":53.59
     },
     {
         "Date":"2000-02",
         "Naturalgas_US":2.65,
         "Naturalgas_Europe":3.46,
         "Liquefiednaturalgas_Japan":4.21,
-        "Naturalgasindex":51.4809329633
+        "Naturalgasindex":51.48
     },
     {
         "Date":"2000-01",
         "Naturalgas_US":2.42,
         "Naturalgas_Europe":3.36,
         "Liquefiednaturalgas_Japan":4.15,
-        "Naturalgasindex":48.1719102951
+        "Naturalgasindex":48.17
     },
     {
         "Date":"1999-12",
         "Naturalgas_US":2.36,
         "Naturalgas_Europe":2.66,
         "Liquefiednaturalgas_Japan":3.94,
-        "Naturalgasindex":43.9732534852
+        "Naturalgasindex":43.97
     },
     {
         "Date":"1999-11",
         "Naturalgas_US":2.36,
         "Naturalgas_Europe":2.51,
         "Liquefiednaturalgas_Japan":3.73,
-        "Naturalgasindex":43.117883868
+        "Naturalgasindex":43.12
     },
     {
         "Date":"1999-10",
         "Naturalgas_US":2.72,
         "Naturalgas_Europe":2.47,
         "Liquefiednaturalgas_Japan":3.57,
-        "Naturalgasindex":47.1909401887
+        "Naturalgasindex":47.19
     },
     {
         "Date":"1999-09",
         "Naturalgas_US":2.54,
         "Naturalgas_Europe":2.2,
         "Liquefiednaturalgas_Japan":3.35,
-        "Naturalgasindex":43.5725118087
+        "Naturalgasindex":43.57
     },
     {
         "Date":"1999-08",
         "Naturalgas_US":2.79,
         "Naturalgas_Europe":2.08,
         "Liquefiednaturalgas_Japan":3.17,
-        "Naturalgasindex":45.9159294293
+        "Naturalgasindex":45.92
     },
     {
         "Date":"1999-07",
         "Naturalgas_US":2.31,
         "Naturalgas_Europe":2.0,
         "Liquefiednaturalgas_Japan":2.99,
-        "Naturalgasindex":39.5848436747
+        "Naturalgasindex":39.58
     },
     {
         "Date":"1999-06",
         "Naturalgas_US":2.3,
         "Naturalgas_Europe":1.91,
         "Liquefiednaturalgas_Japan":2.93,
-        "Naturalgasindex":38.9949027846
+        "Naturalgasindex":38.99
     },
     {
         "Date":"1999-05",
         "Naturalgas_US":2.25,
         "Naturalgas_Europe":1.89,
         "Liquefiednaturalgas_Japan":2.88,
-        "Naturalgasindex":38.2587799837
+        "Naturalgasindex":38.26
     },
     {
         "Date":"1999-04",
         "Naturalgas_US":2.15,
         "Naturalgas_Europe":1.87,
         "Liquefiednaturalgas_Japan":2.76,
-        "Naturalgasindex":36.8680639478
+        "Naturalgasindex":36.87
     },
     {
         "Date":"1999-03",
         "Naturalgas_US":1.79,
         "Naturalgas_Europe":1.95,
         "Liquefiednaturalgas_Japan":2.78,
-        "Naturalgasindex":32.8903173503
+        "Naturalgasindex":32.89
     },
     {
         "Date":"1999-02",
         "Naturalgas_US":1.77,
         "Naturalgas_Europe":2.01,
         "Liquefiednaturalgas_Japan":2.78,
-        "Naturalgasindex":32.9326882341
+        "Naturalgasindex":32.93
     },
     {
         "Date":"1999-01",
         "Naturalgas_US":1.86,
         "Naturalgas_Europe":2.02,
         "Liquefiednaturalgas_Japan":2.77,
-        "Naturalgasindex":34.0663565848
+        "Naturalgasindex":34.07
     },
     {
         "Date":"1998-12",
         "Naturalgas_US":1.74,
         "Naturalgas_Europe":2.13,
         "Liquefiednaturalgas_Japan":2.72,
-        "Naturalgasindex":33.0982140864
+        "Naturalgasindex":33.1
     },
     {
         "Date":"1998-11",
-        "Naturalgas_US":2.103,
+        "Naturalgas_US":2.1,
         "Naturalgas_Europe":2.15,
         "Liquefiednaturalgas_Japan":2.78,
-        "Naturalgasindex":37.6419875689
+        "Naturalgasindex":37.64
     },
     {
         "Date":"1998-10",
         "Naturalgas_US":1.89,
         "Naturalgas_Europe":2.17,
         "Liquefiednaturalgas_Japan":2.76,
-        "Naturalgasindex":35.1369786916
+        "Naturalgasindex":35.14
     },
     {
         "Date":"1998-09",
         "Naturalgas_US":2.01,
         "Naturalgas_Europe":2.33,
         "Liquefiednaturalgas_Japan":2.74,
-        "Naturalgasindex":37.341269149
+        "Naturalgasindex":37.34
     },
     {
         "Date":"1998-08",
         "Naturalgas_US":1.85,
         "Naturalgas_Europe":2.37,
         "Liquefiednaturalgas_Japan":2.79,
-        "Naturalgasindex":35.6223630732
+        "Naturalgasindex":35.62
     },
     {
         "Date":"1998-07",
         "Naturalgas_US":2.17,
         "Naturalgas_Europe":2.4,
         "Liquefiednaturalgas_Japan":2.84,
-        "Naturalgasindex":39.6847363009
+        "Naturalgasindex":39.68
     },
     {
         "Date":"1998-06",
         "Naturalgas_US":2.17,
         "Naturalgas_Europe":2.5,
         "Liquefiednaturalgas_Japan":3.0,
-        "Naturalgasindex":40.2685325942
+        "Naturalgasindex":40.27
     },
     {
         "Date":"1998-05",
         "Naturalgas_US":2.14,
         "Naturalgas_Europe":2.51,
         "Liquefiednaturalgas_Japan":3.0,
-        "Naturalgasindex":39.9517711288
+        "Naturalgasindex":39.95
     },
     {
         "Date":"1998-04",
         "Naturalgas_US":2.42,
         "Naturalgas_Europe":2.54,
         "Liquefiednaturalgas_Japan":3.19,
-        "Naturalgasindex":43.6232586101
+        "Naturalgasindex":43.62
     },
     {
         "Date":"1998-03",
         "Naturalgas_US":2.23,
         "Naturalgas_Europe":2.61,
         "Liquefiednaturalgas_Japan":3.44,
-        "Naturalgasindex":41.8181693346
+        "Naturalgasindex":41.82
     },
     {
         "Date":"1998-02",
         "Naturalgas_US":2.22,
         "Naturalgas_Europe":2.63,
         "Liquefiednaturalgas_Japan":3.43,
-        "Naturalgasindex":41.7850401118
+        "Naturalgasindex":41.79
     },
     {
         "Date":"1998-01",
         "Naturalgas_US":2.1,
         "Naturalgas_Europe":2.65,
         "Liquefiednaturalgas_Japan":3.54,
-        "Naturalgasindex":40.4974391525
+        "Naturalgasindex":40.5
     },
     {
         "Date":"1997-12",
         "Naturalgas_US":2.33,
         "Naturalgas_Europe":2.65,
         "Liquefiednaturalgas_Japan":3.6,
-        "Naturalgasindex":43.3310645818
+        "Naturalgasindex":43.33
     },
     {
         "Date":"1997-11",
         "Naturalgas_US":3.02,
         "Naturalgas_Europe":2.66,
         "Liquefiednaturalgas_Japan":3.68,
-        "Naturalgasindex":51.8117311847
+        "Naturalgasindex":51.81
     },
     {
         "Date":"1997-10",
         "Naturalgas_US":3.04,
         "Naturalgas_Europe":2.63,
         "Liquefiednaturalgas_Japan":3.62,
-        "Naturalgasindex":51.8713298271
+        "Naturalgasindex":51.87
     },
     {
         "Date":"1997-09",
         "Naturalgas_US":2.84,
         "Naturalgas_Europe":2.7,
         "Liquefiednaturalgas_Japan":3.69,
-        "Naturalgasindex":49.8228578859
+        "Naturalgasindex":49.82
     },
     {
         "Date":"1997-08",
         "Naturalgas_US":2.47,
         "Naturalgas_Europe":2.67,
         "Liquefiednaturalgas_Japan":3.69,
-        "Naturalgasindex":45.1871907139
+        "Naturalgasindex":45.19
     },
     {
         "Date":"1997-07",
         "Naturalgas_US":2.19,
         "Naturalgas_Europe":2.67,
         "Liquefiednaturalgas_Japan":3.89,
-        "Naturalgasindex":41.9225450991
+        "Naturalgasindex":41.92
     },
     {
         "Date":"1997-06",
         "Naturalgas_US":2.2,
         "Naturalgas_Europe":2.76,
         "Liquefiednaturalgas_Japan":4.03,
-        "Naturalgasindex":42.5666855164
+        "Naturalgasindex":42.57
     },
     {
         "Date":"1997-05",
         "Naturalgas_US":2.24,
         "Naturalgas_Europe":2.74,
         "Liquefiednaturalgas_Japan":4.03,
-        "Naturalgasindex":42.9573409875
+        "Naturalgasindex":42.96
     },
     {
         "Date":"1997-04",
-        "Naturalgas_US":2.031,
+        "Naturalgas_US":2.03,
         "Naturalgas_Europe":2.77,
         "Liquefiednaturalgas_Japan":4.07,
-        "Naturalgasindex":40.5890949713
+        "Naturalgasindex":40.59
     },
     {
         "Date":"1997-03",
         "Naturalgas_US":1.89,
         "Naturalgas_Europe":2.83,
         "Liquefiednaturalgas_Japan":4.25,
-        "Naturalgasindex":39.2840666614
+        "Naturalgasindex":39.28
     },
     {
         "Date":"1997-02",
         "Naturalgas_US":2.22,
         "Naturalgas_Europe":2.89,
         "Liquefiednaturalgas_Japan":4.22,
-        "Naturalgasindex":43.5562932634
+        "Naturalgasindex":43.56
     },
     {
         "Date":"1997-01",
         "Naturalgas_US":3.31,
         "Naturalgas_Europe":2.89,
         "Liquefiednaturalgas_Japan":4.13,
-        "Naturalgasindex":56.7315953367
+        "Naturalgasindex":56.73
     },
     {
         "Date":"1996-12",
         "Naturalgas_US":3.82,
         "Naturalgas_Europe":2.96,
         "Liquefiednaturalgas_Japan":4.08,
-        "Naturalgasindex":63.2236189161
+        "Naturalgasindex":63.22
     },
     {
         "Date":"1996-11",
         "Naturalgas_US":3.03,
         "Naturalgas_Europe":2.96,
         "Liquefiednaturalgas_Japan":4.03,
-        "Naturalgasindex":53.5964795625
+        "Naturalgasindex":53.6
     },
     {
         "Date":"1996-10",
         "Naturalgas_US":2.37,
         "Naturalgas_Europe":2.94,
         "Liquefiednaturalgas_Japan":3.79,
-        "Naturalgasindex":45.3241753707
+        "Naturalgasindex":45.32
     },
     {
         "Date":"1996-09",
         "Naturalgas_US":1.84,
         "Naturalgas_Europe":2.79,
         "Liquefiednaturalgas_Japan":3.68,
-        "Naturalgasindex":38.1005674864
+        "Naturalgasindex":38.1
     },
     {
         "Date":"1996-08",
         "Naturalgas_US":2.03,
         "Naturalgas_Europe":2.79,
         "Liquefiednaturalgas_Japan":3.68,
-        "Naturalgasindex":40.4078083514
+        "Naturalgasindex":40.41
     },
     {
         "Date":"1996-07",
         "Naturalgas_US":2.48,
         "Naturalgas_Europe":2.78,
         "Liquefiednaturalgas_Japan":3.61,
-        "Naturalgasindex":45.7773618794
+        "Naturalgasindex":45.78
     },
     {
         "Date":"1996-06",
         "Naturalgas_US":2.49,
         "Naturalgas_Europe":2.81,
         "Liquefiednaturalgas_Japan":3.6,
-        "Naturalgasindex":46.03463984
+        "Naturalgasindex":46.03
     },
     {
         "Date":"1996-05",
         "Naturalgas_US":2.24,
         "Naturalgas_Europe":2.81,
         "Liquefiednaturalgas_Japan":3.6,
-        "Naturalgasindex":42.9987965965
+        "Naturalgasindex":43.0
     },
     {
         "Date":"1996-04",
         "Naturalgas_US":2.23,
         "Naturalgas_Europe":3.1,
         "Liquefiednaturalgas_Japan":3.56,
-        "Naturalgasindex":44.2289150962
+        "Naturalgasindex":44.23
     },
     {
         "Date":"1996-03",
         "Naturalgas_US":2.95,
         "Naturalgas_Europe":2.67,
         "Liquefiednaturalgas_Japan":3.47,
-        "Naturalgasindex":50.8669610417
+        "Naturalgasindex":50.87
     },
     {
         "Date":"1996-02",
         "Naturalgas_US":4.4,
         "Naturalgas_Europe":2.77,
         "Liquefiednaturalgas_Japan":3.48,
-        "Naturalgasindex":68.9570240334
+        "Naturalgasindex":68.96
     },
     {
         "Date":"1996-01",
         "Naturalgas_US":2.93,
         "Naturalgas_Europe":2.75,
         "Liquefiednaturalgas_Japan":3.43,
-        "Naturalgasindex":50.9773116098
+        "Naturalgasindex":50.98
     },
     {
         "Date":"1995-12",
         "Naturalgas_US":2.71,
         "Naturalgas_Europe":2.73,
         "Liquefiednaturalgas_Japan":3.37,
-        "Naturalgasindex":48.1700404625
+        "Naturalgasindex":48.17
     },
     {
         "Date":"1995-11",
         "Naturalgas_US":2.04,
         "Naturalgas_Europe":2.75,
         "Liquefiednaturalgas_Japan":3.41,
-        "Naturalgasindex":40.1561597815
+        "Naturalgasindex":40.16
     },
     {
         "Date":"1995-10",
         "Naturalgas_US":1.77,
         "Naturalgas_Europe":2.75,
         "Liquefiednaturalgas_Japan":3.45,
-        "Naturalgasindex":36.9045488422
+        "Naturalgasindex":36.9
     },
     {
         "Date":"1995-09",
         "Naturalgas_US":1.64,
         "Naturalgas_Europe":2.78,
         "Liquefiednaturalgas_Japan":3.46,
-        "Naturalgasindex":35.4753044682
+        "Naturalgasindex":35.48
     },
     {
         "Date":"1995-08",
         "Naturalgas_US":1.56,
         "Naturalgas_Europe":2.8,
         "Liquefiednaturalgas_Japan":3.46,
-        "Naturalgasindex":34.5989140781
+        "Naturalgasindex":34.6
     },
     {
         "Date":"1995-07",
         "Naturalgas_US":1.44,
         "Naturalgas_Europe":2.8,
         "Liquefiednaturalgas_Japan":3.48,
-        "Naturalgasindex":33.155259203
+        "Naturalgasindex":33.16
     },
     {
         "Date":"1995-06",
         "Naturalgas_US":1.62,
         "Naturalgas_Europe":2.73,
         "Liquefiednaturalgas_Japan":3.56,
-        "Naturalgasindex":35.0624877981
+        "Naturalgasindex":35.06
     },
     {
         "Date":"1995-05",
         "Naturalgas_US":1.64,
         "Naturalgas_Europe":2.71,
         "Liquefiednaturalgas_Japan":3.53,
-        "Naturalgasindex":35.1899509871
+        "Naturalgasindex":35.19
     },
     {
         "Date":"1995-04",
         "Naturalgas_US":1.62,
         "Naturalgas_Europe":2.71,
         "Liquefiednaturalgas_Japan":3.45,
-        "Naturalgasindex":34.8928840005
+        "Naturalgasindex":34.89
     },
     {
         "Date":"1995-03",
         "Naturalgas_US":1.54,
         "Naturalgas_Europe":2.65,
         "Liquefiednaturalgas_Japan":3.46,
-        "Naturalgasindex":33.6429507602
+        "Naturalgasindex":33.64
     },
     {
         "Date":"1995-02",
         "Naturalgas_US":1.58,
         "Naturalgas_Europe":2.66,
         "Liquefiednaturalgas_Japan":3.4,
-        "Naturalgasindex":34.1355757577
+        "Naturalgasindex":34.14
     },
     {
         "Date":"1995-01",
         "Naturalgas_US":1.51,
         "Naturalgas_Europe":2.66,
         "Liquefiednaturalgas_Japan":3.36,
-        "Naturalgasindex":33.2584398859
+        "Naturalgasindex":33.26
     },
     {
         "Date":"1994-12",
         "Naturalgas_US":1.72,
         "Naturalgas_Europe":2.56,
         "Liquefiednaturalgas_Japan":3.29,
-        "Naturalgasindex":35.2857263852
+        "Naturalgasindex":35.29
     },
     {
         "Date":"1994-11",
         "Naturalgas_US":1.58,
         "Naturalgas_Europe":2.57,
         "Liquefiednaturalgas_Japan":3.26,
-        "Naturalgasindex":33.6128690701
+        "Naturalgasindex":33.61
     },
     {
         "Date":"1994-10",
         "Naturalgas_US":1.51,
         "Naturalgas_Europe":2.56,
         "Liquefiednaturalgas_Japan":3.26,
-        "Naturalgasindex":32.7152932381
+        "Naturalgasindex":32.72
     },
     {
         "Date":"1994-09",
         "Naturalgas_US":1.49,
         "Naturalgas_Europe":2.48,
         "Liquefiednaturalgas_Japan":3.28,
-        "Naturalgasindex":32.1056578692
+        "Naturalgasindex":32.11
     },
     {
         "Date":"1994-08",
         "Naturalgas_US":1.66,
         "Naturalgas_Europe":2.46,
         "Liquefiednaturalgas_Japan":3.24,
-        "Naturalgasindex":34.0478520634
+        "Naturalgasindex":34.05
     },
     {
         "Date":"1994-07",
         "Naturalgas_US":1.96,
         "Naturalgas_Europe":2.42,
         "Liquefiednaturalgas_Japan":3.14,
-        "Naturalgasindex":37.432955651
+        "Naturalgasindex":37.43
     },
     {
         "Date":"1994-06",
         "Naturalgas_US":1.9,
         "Naturalgas_Europe":2.36,
         "Liquefiednaturalgas_Japan":3.1,
-        "Naturalgasindex":36.3920151656
+        "Naturalgasindex":36.39
     },
     {
         "Date":"1994-05",
         "Naturalgas_US":1.92,
         "Naturalgas_Europe":2.36,
         "Liquefiednaturalgas_Japan":3.06,
-        "Naturalgasindex":36.6077828615
+        "Naturalgasindex":36.61
     },
     {
         "Date":"1994-04",
         "Naturalgas_US":2.04,
         "Naturalgas_Europe":2.36,
         "Liquefiednaturalgas_Japan":3.07,
-        "Naturalgasindex":38.0717625592
+        "Naturalgasindex":38.07
     },
     {
         "Date":"1994-03",
         "Naturalgas_US":2.21,
         "Naturalgas_Europe":2.36,
         "Liquefiednaturalgas_Japan":3.15,
-        "Naturalgasindex":40.1903354919
+        "Naturalgasindex":40.19
     },
     {
         "Date":"1994-02",
         "Naturalgas_US":2.71,
         "Naturalgas_Europe":2.36,
         "Liquefiednaturalgas_Japan":3.19,
-        "Naturalgasindex":46.2891217423
+        "Naturalgasindex":46.29
     },
     {
         "Date":"1994-01",
         "Naturalgas_US":2.34,
         "Naturalgas_Europe":2.47,
         "Liquefiednaturalgas_Japan":3.12,
-        "Naturalgasindex":42.2715861187
+        "Naturalgasindex":42.27
     },
     {
         "Date":"1993-12",
         "Naturalgas_US":2.34,
         "Naturalgas_Europe":2.6,
         "Liquefiednaturalgas_Japan":3.25,
-        "Naturalgasindex":42.9776767609
+        "Naturalgasindex":42.98
     },
     {
         "Date":"1993-11",
         "Naturalgas_US":2.26,
         "Naturalgas_Europe":2.62,
-        "Liquefiednaturalgas_Japan":3.355495,
-        "Naturalgasindex":42.1727586097
+        "Liquefiednaturalgas_Japan":3.36,
+        "Naturalgasindex":42.17
     },
     {
         "Date":"1993-10",
         "Naturalgas_US":2.02,
         "Naturalgas_Europe":2.62,
-        "Liquefiednaturalgas_Japan":3.391259,
-        "Naturalgasindex":39.2825789946
+        "Liquefiednaturalgas_Japan":3.39,
+        "Naturalgasindex":39.28
     },
     {
         "Date":"1993-09",
         "Naturalgas_US":2.27,
         "Naturalgas_Europe":2.62,
-        "Liquefiednaturalgas_Japan":3.480854,
-        "Naturalgasindex":42.379122321
+        "Liquefiednaturalgas_Japan":3.48,
+        "Naturalgasindex":42.38
     },
     {
         "Date":"1993-08",
         "Naturalgas_US":2.26,
         "Naturalgas_Europe":2.65,
-        "Liquefiednaturalgas_Japan":3.493022,
-        "Naturalgasindex":42.408551511
+        "Liquefiednaturalgas_Japan":3.49,
+        "Naturalgasindex":42.41
     },
     {
         "Date":"1993-07",
         "Naturalgas_US":2.06,
         "Naturalgas_Europe":2.66,
-        "Liquefiednaturalgas_Japan":3.539228,
-        "Naturalgasindex":40.058720932
+        "Liquefiednaturalgas_Japan":3.54,
+        "Naturalgasindex":40.06
     },
     {
         "Date":"1993-06",
         "Naturalgas_US":1.97,
         "Naturalgas_Europe":2.68,
-        "Liquefiednaturalgas_Japan":3.535079,
-        "Naturalgasindex":39.0580858892
+        "Liquefiednaturalgas_Japan":3.54,
+        "Naturalgasindex":39.06
     },
     {
         "Date":"1993-05",
         "Naturalgas_US":2.17,
         "Naturalgas_Europe":2.68,
-        "Liquefiednaturalgas_Japan":3.566033,
-        "Naturalgasindex":41.507731636
+        "Liquefiednaturalgas_Japan":3.57,
+        "Naturalgasindex":41.51
     },
     {
         "Date":"1993-04",
         "Naturalgas_US":2.35,
         "Naturalgas_Europe":2.68,
-        "Liquefiednaturalgas_Japan":3.624532,
-        "Naturalgasindex":43.733171498
+        "Liquefiednaturalgas_Japan":3.62,
+        "Naturalgasindex":43.73
     },
     {
         "Date":"1993-03",
         "Naturalgas_US":2.18,
         "Naturalgas_Europe":2.75,
-        "Liquefiednaturalgas_Japan":3.589991,
-        "Naturalgasindex":41.9781748364
+        "Liquefiednaturalgas_Japan":3.59,
+        "Naturalgasindex":41.98
     },
     {
         "Date":"1993-02",
         "Naturalgas_US":1.69,
         "Naturalgas_Europe":2.74,
-        "Liquefiednaturalgas_Japan":3.611498,
-        "Naturalgasindex":35.9949532208
+        "Liquefiednaturalgas_Japan":3.61,
+        "Naturalgasindex":35.99
     },
     {
         "Date":"1993-01",
         "Naturalgas_US":1.88,
         "Naturalgas_Europe":2.76,
-        "Liquefiednaturalgas_Japan":3.642194,
-        "Naturalgasindex":38.4180698921
+        "Liquefiednaturalgas_Japan":3.64,
+        "Naturalgasindex":38.42
     },
     {
         "Date":"1992-12",
         "Naturalgas_US":2.16,
         "Naturalgas_Europe":2.64,
-        "Liquefiednaturalgas_Japan":3.709421,
-        "Naturalgasindex":41.2932835331
+        "Liquefiednaturalgas_Japan":3.71,
+        "Naturalgasindex":41.29
     },
     {
         "Date":"1992-11",
         "Naturalgas_US":2.24,
         "Naturalgas_Europe":2.64,
-        "Liquefiednaturalgas_Japan":3.652703,
-        "Naturalgasindex":42.2263272613
+        "Liquefiednaturalgas_Japan":3.65,
+        "Naturalgasindex":42.23
     },
     {
         "Date":"1992-10",
         "Naturalgas_US":2.42,
         "Naturalgas_Europe":2.63,
-        "Liquefiednaturalgas_Japan":3.704153,
-        "Naturalgasindex":44.3994517435
+        "Liquefiednaturalgas_Japan":3.7,
+        "Naturalgasindex":44.4
     },
     {
         "Date":"1992-09",
         "Naturalgas_US":2.33,
         "Naturalgas_Europe":2.57,
-        "Liquefiednaturalgas_Japan":3.633951,
-        "Naturalgasindex":42.9737483924
+        "Liquefiednaturalgas_Japan":3.63,
+        "Naturalgasindex":42.97
     },
     {
         "Date":"1992-08",
         "Naturalgas_US":1.97,
         "Naturalgas_Europe":2.56,
-        "Liquefiednaturalgas_Japan":3.649728,
-        "Naturalgasindex":38.5652832223
+        "Liquefiednaturalgas_Japan":3.65,
+        "Naturalgasindex":38.57
     },
     {
         "Date":"1992-07",
         "Naturalgas_US":1.75,
         "Naturalgas_Europe":2.55,
-        "Liquefiednaturalgas_Japan":3.60554,
-        "Naturalgasindex":35.8162643354
+        "Liquefiednaturalgas_Japan":3.61,
+        "Naturalgasindex":35.82
     },
     {
         "Date":"1992-06",
         "Naturalgas_US":1.56,
         "Naturalgas_Europe":2.5,
-        "Liquefiednaturalgas_Japan":3.488016,
-        "Naturalgasindex":33.1917030356
+        "Liquefiednaturalgas_Japan":3.49,
+        "Naturalgasindex":33.19
     },
     {
         "Date":"1992-05",
         "Naturalgas_US":1.59,
         "Naturalgas_Europe":2.49,
-        "Liquefiednaturalgas_Japan":3.471553,
-        "Naturalgasindex":33.4973109157
+        "Liquefiednaturalgas_Japan":3.47,
+        "Naturalgasindex":33.5
     },
     {
         "Date":"1992-04",
         "Naturalgas_US":1.47,
         "Naturalgas_Europe":2.47,
-        "Liquefiednaturalgas_Japan":3.529824,
-        "Naturalgasindex":31.9845049691
+        "Liquefiednaturalgas_Japan":3.53,
+        "Naturalgasindex":31.98
     },
     {
         "Date":"1992-03",
         "Naturalgas_US":1.28,
         "Naturalgas_Europe":2.58,
-        "Liquefiednaturalgas_Japan":3.592249,
-        "Naturalgasindex":30.2424936355
+        "Liquefiednaturalgas_Japan":3.59,
+        "Naturalgasindex":30.24
     },
     {
         "Date":"1992-02",
         "Naturalgas_US":1.21,
         "Naturalgas_Europe":2.5,
-        "Liquefiednaturalgas_Japan":3.50897,
-        "Naturalgasindex":28.9557187059
+        "Liquefiednaturalgas_Japan":3.51,
+        "Naturalgasindex":28.96
     },
     {
         "Date":"1992-01",
         "Naturalgas_US":1.28,
         "Naturalgas_Europe":2.57,
-        "Liquefiednaturalgas_Japan":3.595243,
-        "Naturalgasindex":30.1969823289
+        "Liquefiednaturalgas_Japan":3.6,
+        "Naturalgasindex":30.2
     },
     {
         "Date":"1991-12",
         "Naturalgas_US":1.92,
         "Naturalgas_Europe":2.7,
         "Liquefiednaturalgas_Japan":3.99,
-        "Naturalgasindex":38.8542029768
+        "Naturalgasindex":38.85
     },
     {
         "Date":"1991-11",
         "Naturalgas_US":1.81,
         "Naturalgas_Europe":2.7,
         "Liquefiednaturalgas_Japan":3.99,
-        "Naturalgasindex":37.5184319497
+        "Naturalgasindex":37.52
     },
     {
         "Date":"1991-10",
         "Naturalgas_US":1.77,
         "Naturalgas_Europe":2.71,
         "Liquefiednaturalgas_Japan":3.99,
-        "Naturalgasindex":37.0802367547
+        "Naturalgasindex":37.08
     },
     {
         "Date":"1991-09",
         "Naturalgas_US":1.63,
         "Naturalgas_Europe":2.97,
         "Liquefiednaturalgas_Japan":3.99,
-        "Naturalgasindex":36.6161973597
+        "Naturalgasindex":36.62
     },
     {
         "Date":"1991-08",
         "Naturalgas_US":1.31,
         "Naturalgas_Europe":2.98,
         "Liquefiednaturalgas_Japan":3.99,
-        "Naturalgasindex":32.777857732
+        "Naturalgasindex":32.78
     },
     {
         "Date":"1991-07",
         "Naturalgas_US":1.19,
         "Naturalgas_Europe":3.0,
         "Liquefiednaturalgas_Japan":3.99,
-        "Naturalgasindex":31.4157324229
+        "Naturalgasindex":31.42
     },
     {
         "Date":"1991-06",
         "Naturalgas_US":1.2,
         "Naturalgas_Europe":3.29,
         "Liquefiednaturalgas_Japan":3.99,
-        "Naturalgasindex":32.9158181457
+        "Naturalgasindex":32.92
     },
     {
         "Date":"1991-05",
         "Naturalgas_US":1.31,
         "Naturalgas_Europe":3.37,
         "Liquefiednaturalgas_Japan":3.99,
-        "Naturalgasindex":34.631906964
+        "Naturalgasindex":34.63
     },
     {
         "Date":"1991-04",
         "Naturalgas_US":1.33,
         "Naturalgas_Europe":3.47,
         "Liquefiednaturalgas_Japan":3.99,
-        "Naturalgasindex":35.3501716624
+        "Naturalgasindex":35.35
     },
     {
         "Date":"1991-03",
         "Naturalgas_US":1.34,
         "Naturalgas_Europe":3.33,
         "Liquefiednaturalgas_Japan":3.99,
-        "Naturalgasindex":34.8060492576
+        "Naturalgasindex":34.81
     },
     {
         "Date":"1991-02",
         "Naturalgas_US":1.36,
         "Naturalgas_Europe":3.41,
         "Liquefiednaturalgas_Japan":3.99,
-        "Naturalgasindex":35.4292345082
+        "Naturalgasindex":35.43
     },
     {
         "Date":"1991-01",
         "Naturalgas_US":1.67,
         "Naturalgas_Europe":3.44,
         "Liquefiednaturalgas_Japan":3.99,
-        "Naturalgasindex":39.3362993018
+        "Naturalgasindex":39.34
     },
     {
         "Date":"1990-12",
         "Naturalgas_US":2.11,
         "Naturalgas_Europe":2.82,
         "Liquefiednaturalgas_Japan":3.64,
-        "Naturalgasindex":41.4947975974
+        "Naturalgasindex":41.49
     },
     {
         "Date":"1990-11",
         "Naturalgas_US":2.1,
         "Naturalgas_Europe":2.82,
         "Liquefiednaturalgas_Japan":3.64,
-        "Naturalgasindex":41.3733638677
+        "Naturalgasindex":41.37
     },
     {
         "Date":"1990-10",
         "Naturalgas_US":1.69,
         "Naturalgas_Europe":2.82,
         "Liquefiednaturalgas_Japan":3.64,
-        "Naturalgasindex":36.3945809485
+        "Naturalgasindex":36.39
     },
     {
         "Date":"1990-09",
         "Naturalgas_US":1.44,
         "Naturalgas_Europe":2.82,
         "Liquefiednaturalgas_Japan":3.64,
-        "Naturalgasindex":33.358737705
+        "Naturalgasindex":33.36
     },
     {
         "Date":"1990-08",
         "Naturalgas_US":1.36,
         "Naturalgas_Europe":2.82,
         "Liquefiednaturalgas_Japan":3.64,
-        "Naturalgasindex":32.3872678672
+        "Naturalgasindex":32.39
     },
     {
         "Date":"1990-07",
         "Naturalgas_US":1.41,
         "Naturalgas_Europe":2.82,
         "Liquefiednaturalgas_Japan":3.64,
-        "Naturalgasindex":32.9944365158
+        "Naturalgasindex":32.99
     },
     {
         "Date":"1990-06",
         "Naturalgas_US":1.47,
         "Naturalgas_Europe":2.82,
         "Liquefiednaturalgas_Japan":3.64,
-        "Naturalgasindex":33.7230388943
+        "Naturalgasindex":33.72
     },
     {
         "Date":"1990-05",
         "Naturalgas_US":1.47,
         "Naturalgas_Europe":2.82,
         "Liquefiednaturalgas_Japan":3.64,
-        "Naturalgasindex":33.7230388943
+        "Naturalgasindex":33.72
     },
     {
         "Date":"1990-04",
         "Naturalgas_US":1.49,
         "Naturalgas_Europe":2.82,
         "Liquefiednaturalgas_Japan":3.64,
-        "Naturalgasindex":33.9659063537
+        "Naturalgasindex":33.97
     },
     {
         "Date":"1990-03",
         "Naturalgas_US":1.55,
         "Naturalgas_Europe":2.82,
         "Liquefiednaturalgas_Japan":3.64,
-        "Naturalgasindex":34.6945087321
+        "Naturalgasindex":34.69
     },
     {
         "Date":"1990-02",
         "Naturalgas_US":1.9,
         "Naturalgas_Europe":2.82,
         "Liquefiednaturalgas_Japan":3.64,
-        "Naturalgasindex":38.9446892729
+        "Naturalgasindex":38.94
     },
     {
         "Date":"1990-01",
         "Naturalgas_US":2.39,
         "Naturalgas_Europe":2.82,
         "Liquefiednaturalgas_Japan":3.64,
-        "Naturalgasindex":44.89494203
+        "Naturalgasindex":44.89
     },
     {
         "Date":"1989-12",
         "Naturalgas_US":2.24,
         "Naturalgas_Europe":2.09,
         "Liquefiednaturalgas_Japan":3.28,
-        "Naturalgasindex":39.3591383675
+        "Naturalgasindex":39.36
     },
     {
         "Date":"1989-11",
         "Naturalgas_US":1.9,
         "Naturalgas_Europe":2.09,
         "Liquefiednaturalgas_Japan":3.28,
-        "Naturalgasindex":35.2303915564
+        "Naturalgasindex":35.23
     },
     {
         "Date":"1989-10",
         "Naturalgas_US":1.6,
         "Naturalgas_Europe":2.09,
         "Liquefiednaturalgas_Japan":3.28,
-        "Naturalgasindex":31.5873796643
+        "Naturalgasindex":31.59
     },
     {
         "Date":"1989-09",
         "Naturalgas_US":1.53,
         "Naturalgas_Europe":2.09,
         "Liquefiednaturalgas_Japan":3.28,
-        "Naturalgasindex":30.7373435562
+        "Naturalgasindex":30.74
     },
     {
         "Date":"1989-08",
         "Naturalgas_US":1.58,
         "Naturalgas_Europe":2.09,
         "Liquefiednaturalgas_Japan":3.28,
-        "Naturalgasindex":31.3445122048
+        "Naturalgasindex":31.34
     },
     {
         "Date":"1989-07",
         "Naturalgas_US":1.64,
         "Naturalgas_Europe":2.09,
         "Liquefiednaturalgas_Japan":3.28,
-        "Naturalgasindex":32.0731145833
+        "Naturalgasindex":32.07
     },
     {
         "Date":"1989-06",
         "Naturalgas_US":1.7,
         "Naturalgas_Europe":2.09,
         "Liquefiednaturalgas_Japan":3.28,
-        "Naturalgasindex":32.8017169617
+        "Naturalgasindex":32.8
     },
     {
         "Date":"1989-05",
         "Naturalgas_US":1.66,
         "Naturalgas_Europe":2.09,
         "Liquefiednaturalgas_Japan":3.28,
-        "Naturalgasindex":32.3159820427
+        "Naturalgasindex":32.32
     },
     {
         "Date":"1989-04",
         "Naturalgas_US":1.53,
         "Naturalgas_Europe":2.09,
         "Liquefiednaturalgas_Japan":3.28,
-        "Naturalgasindex":30.7373435562
+        "Naturalgasindex":30.74
     },
     {
         "Date":"1989-03",
         "Naturalgas_US":1.49,
         "Naturalgas_Europe":2.09,
         "Liquefiednaturalgas_Japan":3.28,
-        "Naturalgasindex":30.2516086372
+        "Naturalgasindex":30.25
     },
     {
         "Date":"1989-02",
         "Naturalgas_US":1.71,
         "Naturalgas_Europe":2.09,
         "Liquefiednaturalgas_Japan":3.28,
-        "Naturalgasindex":32.9231506914
+        "Naturalgasindex":32.92
     },
     {
         "Date":"1989-01",
         "Naturalgas_US":1.78,
         "Naturalgas_Europe":2.09,
         "Liquefiednaturalgas_Japan":3.28,
-        "Naturalgasindex":33.7731867996
+        "Naturalgasindex":33.77
     },
     {
         "Date":"1988-12",
         "Naturalgas_US":1.89,
         "Naturalgas_Europe":2.36,
         "Liquefiednaturalgas_Japan":3.34,
-        "Naturalgasindex":36.4331800172
+        "Naturalgasindex":36.43
     },
     {
         "Date":"1988-11",
         "Naturalgas_US":1.76,
         "Naturalgas_Europe":2.36,
         "Liquefiednaturalgas_Japan":3.34,
-        "Naturalgasindex":34.8545415307
+        "Naturalgasindex":34.85
     },
     {
         "Date":"1988-10",
         "Naturalgas_US":1.68,
         "Naturalgas_Europe":2.36,
         "Liquefiednaturalgas_Japan":3.34,
-        "Naturalgasindex":33.8830716928
+        "Naturalgasindex":33.88
     },
     {
         "Date":"1988-09",
         "Naturalgas_US":1.53,
         "Naturalgas_Europe":2.36,
         "Liquefiednaturalgas_Japan":3.34,
-        "Naturalgasindex":32.0615657467
+        "Naturalgasindex":32.06
     },
     {
         "Date":"1988-08",
         "Naturalgas_US":1.62,
         "Naturalgas_Europe":2.36,
         "Liquefiednaturalgas_Japan":3.34,
-        "Naturalgasindex":33.1544693144
+        "Naturalgasindex":33.15
     },
     {
         "Date":"1988-07",
         "Naturalgas_US":1.56,
         "Naturalgas_Europe":2.36,
         "Liquefiednaturalgas_Japan":3.34,
-        "Naturalgasindex":32.4258669359
+        "Naturalgasindex":32.43
     },
     {
         "Date":"1988-06",
         "Naturalgas_US":1.53,
         "Naturalgas_Europe":2.36,
         "Liquefiednaturalgas_Japan":3.34,
-        "Naturalgasindex":32.0615657467
+        "Naturalgasindex":32.06
     },
     {
         "Date":"1988-05",
         "Naturalgas_US":1.52,
         "Naturalgas_Europe":2.36,
         "Liquefiednaturalgas_Japan":3.34,
-        "Naturalgasindex":31.940132017
+        "Naturalgasindex":31.94
     },
     {
         "Date":"1988-04",
         "Naturalgas_US":1.59,
         "Naturalgas_Europe":2.36,
         "Liquefiednaturalgas_Japan":3.34,
-        "Naturalgasindex":32.7901681251
+        "Naturalgasindex":32.79
     },
     {
         "Date":"1988-03",
         "Naturalgas_US":1.7,
         "Naturalgas_Europe":2.36,
         "Liquefiednaturalgas_Japan":3.34,
-        "Naturalgasindex":34.1259391522
+        "Naturalgasindex":34.13
     },
     {
         "Date":"1988-02",
         "Naturalgas_US":1.84,
         "Naturalgas_Europe":2.36,
         "Liquefiednaturalgas_Japan":3.34,
-        "Naturalgasindex":35.8260113686
+        "Naturalgasindex":35.83
     },
     {
         "Date":"1988-01",
         "Naturalgas_US":1.96,
         "Naturalgas_Europe":2.36,
         "Liquefiednaturalgas_Japan":3.34,
-        "Naturalgasindex":37.2832161254
+        "Naturalgasindex":37.28
     },
     {
         "Date":"1987-12",
         "Naturalgas_US":1.7,
         "Naturalgas_Europe":2.59,
         "Liquefiednaturalgas_Japan":3.35,
-        "Naturalgasindex":35.2261277428
+        "Naturalgasindex":35.23
     },
     {
         "Date":"1987-11",
         "Naturalgas_US":1.64,
         "Naturalgas_Europe":2.59,
         "Liquefiednaturalgas_Japan":3.35,
-        "Naturalgasindex":34.4975253643
+        "Naturalgasindex":34.5
     },
     {
         "Date":"1987-10",
         "Naturalgas_US":1.57,
         "Naturalgas_Europe":2.59,
         "Liquefiednaturalgas_Japan":3.35,
-        "Naturalgasindex":33.6474892562
+        "Naturalgasindex":33.65
     },
     {
         "Date":"1987-09",
         "Naturalgas_US":1.56,
         "Naturalgas_Europe":2.59,
         "Liquefiednaturalgas_Japan":3.35,
-        "Naturalgasindex":33.5260555264
+        "Naturalgasindex":33.53
     },
     {
         "Date":"1987-08",
         "Naturalgas_US":1.63,
         "Naturalgas_Europe":2.59,
         "Liquefiednaturalgas_Japan":3.35,
-        "Naturalgasindex":34.3760916346
+        "Naturalgasindex":34.38
     },
     {
         "Date":"1987-07",
         "Naturalgas_US":1.66,
         "Naturalgas_Europe":2.59,
         "Liquefiednaturalgas_Japan":3.35,
-        "Naturalgasindex":34.7403928238
+        "Naturalgasindex":34.74
     },
     {
         "Date":"1987-06",
         "Naturalgas_US":1.65,
         "Naturalgas_Europe":2.59,
         "Liquefiednaturalgas_Japan":3.35,
-        "Naturalgasindex":34.6189590941
+        "Naturalgasindex":34.62
     },
     {
         "Date":"1987-05",
         "Naturalgas_US":1.65,
         "Naturalgas_Europe":2.59,
         "Liquefiednaturalgas_Japan":3.35,
-        "Naturalgasindex":34.6189590941
+        "Naturalgasindex":34.62
     },
     {
         "Date":"1987-04",
         "Naturalgas_US":1.69,
         "Naturalgas_Europe":2.59,
         "Liquefiednaturalgas_Japan":3.35,
-        "Naturalgasindex":35.104694013
+        "Naturalgasindex":35.1
     },
     {
         "Date":"1987-03",
         "Naturalgas_US":1.73,
         "Naturalgas_Europe":2.59,
         "Liquefiednaturalgas_Japan":3.35,
-        "Naturalgasindex":35.590428932
+        "Naturalgasindex":35.59
     },
     {
         "Date":"1987-02",
         "Naturalgas_US":1.73,
         "Naturalgas_Europe":2.59,
         "Liquefiednaturalgas_Japan":3.35,
-        "Naturalgasindex":35.590428932
+        "Naturalgasindex":35.59
     },
     {
         "Date":"1987-01",
         "Naturalgas_US":1.74,
         "Naturalgas_Europe":2.59,
         "Liquefiednaturalgas_Japan":3.35,
-        "Naturalgasindex":35.7118626617
+        "Naturalgasindex":35.71
     },
     {
         "Date":"1986-12",
         "Naturalgas_US":1.76,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":4.1,
-        "Naturalgasindex":41.502061421
+        "Naturalgasindex":41.5
     },
     {
         "Date":"1986-11",
         "Naturalgas_US":1.77,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":4.1,
-        "Naturalgasindex":41.6234951508
+        "Naturalgasindex":41.62
     },
     {
         "Date":"1986-10",
         "Naturalgas_US":1.73,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":4.1,
-        "Naturalgasindex":41.1377602318
+        "Naturalgasindex":41.14
     },
     {
         "Date":"1986-09",
         "Naturalgas_US":1.78,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":4.1,
-        "Naturalgasindex":41.7449288805
+        "Naturalgasindex":41.74
     },
     {
         "Date":"1986-08",
         "Naturalgas_US":1.77,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":4.1,
-        "Naturalgasindex":41.6234951508
+        "Naturalgasindex":41.62
     },
     {
         "Date":"1986-07",
         "Naturalgas_US":1.8,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":4.1,
-        "Naturalgasindex":41.98779634
+        "Naturalgasindex":41.99
     },
     {
         "Date":"1986-06",
         "Naturalgas_US":1.85,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":4.1,
-        "Naturalgasindex":42.5949649886
+        "Naturalgasindex":42.59
     },
     {
         "Date":"1986-05",
         "Naturalgas_US":1.96,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":4.1,
-        "Naturalgasindex":43.9307360158
+        "Naturalgasindex":43.93
     },
     {
         "Date":"1986-04",
         "Naturalgas_US":2.1,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":4.1,
-        "Naturalgasindex":45.6308082321
+        "Naturalgasindex":45.63
     },
     {
         "Date":"1986-03",
         "Naturalgas_US":2.16,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":4.1,
-        "Naturalgasindex":46.3594106105
+        "Naturalgasindex":46.36
     },
     {
         "Date":"1986-02",
         "Naturalgas_US":2.26,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":4.1,
-        "Naturalgasindex":47.5737479078
+        "Naturalgasindex":47.57
     },
     {
         "Date":"1986-01",
         "Naturalgas_US":2.28,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":4.1,
-        "Naturalgasindex":47.8166153673
+        "Naturalgasindex":47.82
     },
     {
         "Date":"1985-12",
         "Naturalgas_US":2.28,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":5.23,
-        "Naturalgasindex":48.5821836879
+        "Naturalgasindex":48.58
     },
     {
         "Date":"1985-11",
         "Naturalgas_US":2.36,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":5.23,
-        "Naturalgasindex":49.5536535258
+        "Naturalgasindex":49.55
     },
     {
         "Date":"1985-10",
         "Naturalgas_US":2.37,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":5.23,
-        "Naturalgasindex":49.6750872555
+        "Naturalgasindex":49.68
     },
     {
         "Date":"1985-09",
         "Naturalgas_US":2.42,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":5.23,
-        "Naturalgasindex":50.2822559042
+        "Naturalgasindex":50.28
     },
     {
         "Date":"1985-08",
         "Naturalgas_US":2.47,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":5.23,
-        "Naturalgasindex":50.8894245529
+        "Naturalgasindex":50.89
     },
     {
         "Date":"1985-07",
         "Naturalgas_US":2.51,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":5.23,
-        "Naturalgasindex":51.3751594719
+        "Naturalgasindex":51.38
     },
     {
         "Date":"1985-06",
         "Naturalgas_US":2.58,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":5.23,
-        "Naturalgasindex":52.22519558
+        "Naturalgasindex":52.23
     },
     {
         "Date":"1985-05",
         "Naturalgas_US":2.53,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":5.23,
-        "Naturalgasindex":51.6180269313
+        "Naturalgasindex":51.62
     },
     {
         "Date":"1985-04",
         "Naturalgas_US":2.64,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":5.23,
-        "Naturalgasindex":52.9537979584
+        "Naturalgasindex":52.95
     },
     {
         "Date":"1985-03",
         "Naturalgas_US":2.62,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":5.23,
-        "Naturalgasindex":52.710930499
+        "Naturalgasindex":52.71
     },
     {
         "Date":"1985-02",
         "Naturalgas_US":2.71,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":5.23,
-        "Naturalgasindex":53.8038340666
+        "Naturalgasindex":53.8
     },
     {
         "Date":"1985-01",
         "Naturalgas_US":2.64,
         "Naturalgas_Europe":3.65,
         "Liquefiednaturalgas_Japan":5.23,
-        "Naturalgasindex":52.9537979584
+        "Naturalgasindex":52.95
     },
     {
         "Date":"1984-12",
         "Naturalgas_US":2.57,
         "Naturalgas_Europe":3.76,
-        "Liquefiednaturalgas_Japan":5.2376807819,
-        "Naturalgasindex":52.6319024975
+        "Liquefiednaturalgas_Japan":5.24,
+        "Naturalgasindex":52.63
     },
     {
         "Date":"1984-11",
         "Naturalgas_US":2.61,
         "Naturalgas_Europe":3.76,
-        "Liquefiednaturalgas_Japan":5.2376807819,
-        "Naturalgasindex":53.1176374165
+        "Liquefiednaturalgas_Japan":5.24,
+        "Naturalgasindex":53.12
     },
     {
         "Date":"1984-10",
         "Naturalgas_US":2.63,
         "Naturalgas_Europe":3.76,
-        "Liquefiednaturalgas_Japan":5.2376807819,
-        "Naturalgasindex":53.3605048759
+        "Liquefiednaturalgas_Japan":5.24,
+        "Naturalgasindex":53.36
     },
     {
         "Date":"1984-09",
         "Naturalgas_US":2.62,
         "Naturalgas_Europe":3.76,
-        "Liquefiednaturalgas_Japan":5.2376807819,
-        "Naturalgasindex":53.2390711462
+        "Liquefiednaturalgas_Japan":5.24,
+        "Naturalgasindex":53.24
     },
     {
         "Date":"1984-08",
         "Naturalgas_US":2.69,
         "Naturalgas_Europe":3.76,
-        "Liquefiednaturalgas_Japan":5.2376807819,
-        "Naturalgasindex":54.0891072543
+        "Liquefiednaturalgas_Japan":5.24,
+        "Naturalgasindex":54.09
     },
     {
         "Date":"1984-07",
         "Naturalgas_US":2.68,
         "Naturalgas_Europe":3.76,
-        "Liquefiednaturalgas_Japan":5.2376807819,
-        "Naturalgasindex":53.9676735246
+        "Liquefiednaturalgas_Japan":5.24,
+        "Naturalgasindex":53.97
     },
     {
         "Date":"1984-06",
         "Naturalgas_US":2.7,
         "Naturalgas_Europe":3.76,
-        "Liquefiednaturalgas_Japan":5.2376807819,
-        "Naturalgasindex":54.2105409841
+        "Liquefiednaturalgas_Japan":5.24,
+        "Naturalgasindex":54.21
     },
     {
         "Date":"1984-05",
         "Naturalgas_US":2.67,
         "Naturalgas_Europe":3.76,
-        "Liquefiednaturalgas_Japan":5.2376807819,
-        "Naturalgasindex":53.8462397949
+        "Liquefiednaturalgas_Japan":5.24,
+        "Naturalgasindex":53.85
     },
     {
         "Date":"1984-04",
         "Naturalgas_US":2.64,
         "Naturalgas_Europe":3.76,
-        "Liquefiednaturalgas_Japan":5.2376807819,
-        "Naturalgasindex":53.4819386057
+        "Liquefiednaturalgas_Japan":5.24,
+        "Naturalgasindex":53.48
     },
     {
         "Date":"1984-03",
         "Naturalgas_US":2.67,
         "Naturalgas_Europe":3.76,
-        "Liquefiednaturalgas_Japan":5.2376807819,
-        "Naturalgasindex":53.8462397949
+        "Liquefiednaturalgas_Japan":5.24,
+        "Naturalgasindex":53.85
     },
     {
         "Date":"1984-02",
         "Naturalgas_US":2.71,
         "Naturalgas_Europe":3.76,
-        "Liquefiednaturalgas_Japan":5.2376807819,
-        "Naturalgasindex":54.3319747138
+        "Liquefiednaturalgas_Japan":5.24,
+        "Naturalgasindex":54.33
     },
     {
         "Date":"1984-01",
         "Naturalgas_US":2.67,
         "Naturalgas_Europe":3.76,
-        "Liquefiednaturalgas_Japan":5.2376807819,
-        "Naturalgasindex":53.8462397949
+        "Liquefiednaturalgas_Japan":5.24,
+        "Naturalgasindex":53.85
     },
     {
         "Date":"1983-12",
         "Naturalgas_US":2.61,
         "Naturalgas_Europe":4.05,
-        "Liquefiednaturalgas_Japan":5.5458157477,
-        "Naturalgasindex":54.7050490274
+        "Liquefiednaturalgas_Japan":5.55,
+        "Naturalgasindex":54.71
     },
     {
         "Date":"1983-11",
         "Naturalgas_US":2.6,
         "Naturalgas_Europe":4.05,
-        "Liquefiednaturalgas_Japan":5.5458157477,
-        "Naturalgasindex":54.5836152977
+        "Liquefiednaturalgas_Japan":5.55,
+        "Naturalgasindex":54.58
     },
     {
         "Date":"1983-10",
         "Naturalgas_US":2.58,
         "Naturalgas_Europe":4.05,
-        "Liquefiednaturalgas_Japan":5.5458157477,
-        "Naturalgasindex":54.3407478382
+        "Liquefiednaturalgas_Japan":5.55,
+        "Naturalgasindex":54.34
     },
     {
         "Date":"1983-09",
         "Naturalgas_US":2.67,
         "Naturalgas_Europe":4.05,
-        "Liquefiednaturalgas_Japan":5.5458157477,
-        "Naturalgasindex":55.4336514058
+        "Liquefiednaturalgas_Japan":5.55,
+        "Naturalgasindex":55.43
     },
     {
         "Date":"1983-08",
         "Naturalgas_US":2.58,
         "Naturalgas_Europe":4.05,
-        "Liquefiednaturalgas_Japan":5.5458157477,
-        "Naturalgasindex":54.3407478382
+        "Liquefiednaturalgas_Japan":5.55,
+        "Naturalgasindex":54.34
     },
     {
         "Date":"1983-07",
         "Naturalgas_US":2.52,
         "Naturalgas_Europe":4.05,
-        "Liquefiednaturalgas_Japan":5.5458157477,
-        "Naturalgasindex":53.6121454598
+        "Liquefiednaturalgas_Japan":5.55,
+        "Naturalgasindex":53.61
     },
     {
         "Date":"1983-06",
         "Naturalgas_US":2.59,
         "Naturalgas_Europe":4.05,
-        "Liquefiednaturalgas_Japan":5.5458157477,
-        "Naturalgasindex":54.4621815679
+        "Liquefiednaturalgas_Japan":5.55,
+        "Naturalgasindex":54.46
     },
     {
         "Date":"1983-05",
         "Naturalgas_US":2.53,
         "Naturalgas_Europe":4.05,
-        "Liquefiednaturalgas_Japan":5.5458157477,
-        "Naturalgasindex":53.7335791895
+        "Liquefiednaturalgas_Japan":5.55,
+        "Naturalgasindex":53.73
     },
     {
         "Date":"1983-04",
         "Naturalgas_US":2.53,
         "Naturalgas_Europe":4.05,
-        "Liquefiednaturalgas_Japan":5.5458157477,
-        "Naturalgasindex":53.7335791895
+        "Liquefiednaturalgas_Japan":5.55,
+        "Naturalgasindex":53.73
     },
     {
         "Date":"1983-03",
         "Naturalgas_US":2.58,
         "Naturalgas_Europe":4.05,
-        "Liquefiednaturalgas_Japan":5.5458157477,
-        "Naturalgasindex":54.3407478382
+        "Liquefiednaturalgas_Japan":5.55,
+        "Naturalgasindex":54.34
     },
     {
         "Date":"1983-02",
         "Naturalgas_US":2.66,
         "Naturalgas_Europe":4.05,
-        "Liquefiednaturalgas_Japan":5.5458157477,
-        "Naturalgasindex":55.3122176761
+        "Liquefiednaturalgas_Japan":5.55,
+        "Naturalgasindex":55.31
     },
     {
         "Date":"1983-01",
         "Naturalgas_US":2.66,
         "Naturalgas_Europe":4.05,
-        "Liquefiednaturalgas_Japan":5.5458157477,
-        "Naturalgasindex":55.3122176761
+        "Liquefiednaturalgas_Japan":5.55,
+        "Naturalgasindex":55.31
     },
     {
         "Date":"1982-12",
         "Naturalgas_US":2.62,
         "Naturalgas_Europe":4.45,
-        "Liquefiednaturalgas_Japan":6.0516223989,
-        "Naturalgasindex":57.0707527294
+        "Liquefiednaturalgas_Japan":6.05,
+        "Naturalgasindex":57.07
     },
     {
         "Date":"1982-11",
         "Naturalgas_US":2.62,
         "Naturalgas_Europe":4.45,
-        "Liquefiednaturalgas_Japan":6.0516223989,
-        "Naturalgasindex":57.0707527294
+        "Liquefiednaturalgas_Japan":6.05,
+        "Naturalgasindex":57.07
     },
     {
         "Date":"1982-10",
         "Naturalgas_US":2.6,
         "Naturalgas_Europe":4.45,
-        "Liquefiednaturalgas_Japan":6.0516223989,
-        "Naturalgasindex":56.8278852699
+        "Liquefiednaturalgas_Japan":6.05,
+        "Naturalgasindex":56.83
     },
     {
         "Date":"1982-09",
         "Naturalgas_US":2.56,
         "Naturalgas_Europe":4.45,
-        "Liquefiednaturalgas_Japan":6.0516223989,
-        "Naturalgasindex":56.3421503509
+        "Liquefiednaturalgas_Japan":6.05,
+        "Naturalgasindex":56.34
     },
     {
         "Date":"1982-08",
         "Naturalgas_US":2.53,
         "Naturalgas_Europe":4.45,
-        "Liquefiednaturalgas_Japan":6.0516223989,
-        "Naturalgasindex":55.9778491617
+        "Liquefiednaturalgas_Japan":6.05,
+        "Naturalgasindex":55.98
     },
     {
         "Date":"1982-07",
         "Naturalgas_US":2.47,
         "Naturalgas_Europe":4.45,
-        "Liquefiednaturalgas_Japan":6.0516223989,
-        "Naturalgasindex":55.2492467833
+        "Liquefiednaturalgas_Japan":6.05,
+        "Naturalgasindex":55.25
     },
     {
         "Date":"1982-06",
         "Naturalgas_US":2.45,
         "Naturalgas_Europe":4.45,
-        "Liquefiednaturalgas_Japan":6.0516223989,
-        "Naturalgasindex":55.0063793238
+        "Liquefiednaturalgas_Japan":6.05,
+        "Naturalgasindex":55.01
     },
     {
         "Date":"1982-05",
         "Naturalgas_US":2.45,
         "Naturalgas_Europe":4.45,
-        "Liquefiednaturalgas_Japan":6.0516223989,
-        "Naturalgasindex":55.0063793238
+        "Liquefiednaturalgas_Japan":6.05,
+        "Naturalgasindex":55.01
     },
     {
         "Date":"1982-04",
         "Naturalgas_US":2.4,
         "Naturalgas_Europe":4.45,
-        "Liquefiednaturalgas_Japan":6.0516223989,
-        "Naturalgasindex":54.3992106752
+        "Liquefiednaturalgas_Japan":6.05,
+        "Naturalgasindex":54.4
     },
     {
         "Date":"1982-03",
         "Naturalgas_US":2.35,
         "Naturalgas_Europe":4.45,
-        "Liquefiednaturalgas_Japan":6.0516223989,
-        "Naturalgasindex":53.7920420265
+        "Liquefiednaturalgas_Japan":6.05,
+        "Naturalgasindex":53.79
     },
     {
         "Date":"1982-02",
         "Naturalgas_US":2.3,
         "Naturalgas_Europe":4.45,
-        "Liquefiednaturalgas_Japan":6.0516223989,
-        "Naturalgasindex":53.1848733778
+        "Liquefiednaturalgas_Japan":6.05,
+        "Naturalgasindex":53.18
     },
     {
         "Date":"1982-01",
         "Naturalgas_US":2.23,
         "Naturalgas_Europe":4.45,
-        "Liquefiednaturalgas_Japan":6.0516223989,
-        "Naturalgasindex":52.3348372696
+        "Liquefiednaturalgas_Japan":6.05,
+        "Naturalgasindex":52.33
     },
     {
         "Date":"1981-12",
         "Naturalgas_US":2.16,
         "Naturalgas_Europe":4.6,
-        "Liquefiednaturalgas_Japan":6.0303414353,
-        "Naturalgasindex":52.1834792929
+        "Liquefiednaturalgas_Japan":6.03,
+        "Naturalgasindex":52.18
     },
     {
         "Date":"1981-11",
         "Naturalgas_US":2.15,
         "Naturalgas_Europe":4.6,
-        "Liquefiednaturalgas_Japan":6.0303414353,
-        "Naturalgasindex":52.0620455632
+        "Liquefiednaturalgas_Japan":6.03,
+        "Naturalgasindex":52.06
     },
     {
         "Date":"1981-10",
         "Naturalgas_US":2.11,
         "Naturalgas_Europe":4.6,
-        "Liquefiednaturalgas_Japan":6.0303414353,
-        "Naturalgasindex":51.5763106442
+        "Liquefiednaturalgas_Japan":6.03,
+        "Naturalgasindex":51.58
     },
     {
         "Date":"1981-09",
         "Naturalgas_US":2.08,
         "Naturalgas_Europe":4.6,
-        "Liquefiednaturalgas_Japan":6.0303414353,
-        "Naturalgasindex":51.212009455
+        "Liquefiednaturalgas_Japan":6.03,
+        "Naturalgasindex":51.21
     },
     {
         "Date":"1981-08",
         "Naturalgas_US":2.02,
         "Naturalgas_Europe":4.6,
-        "Liquefiednaturalgas_Japan":6.0303414353,
-        "Naturalgasindex":50.4834070766
+        "Liquefiednaturalgas_Japan":6.03,
+        "Naturalgasindex":50.48
     },
     {
         "Date":"1981-07",
         "Naturalgas_US":2.01,
         "Naturalgas_Europe":4.6,
-        "Liquefiednaturalgas_Japan":6.0303414353,
-        "Naturalgasindex":50.3619733469
+        "Liquefiednaturalgas_Japan":6.03,
+        "Naturalgasindex":50.36
     },
     {
         "Date":"1981-06",
         "Naturalgas_US":1.95,
         "Naturalgas_Europe":4.6,
-        "Liquefiednaturalgas_Japan":6.0303414353,
-        "Naturalgasindex":49.6333709685
+        "Liquefiednaturalgas_Japan":6.03,
+        "Naturalgasindex":49.63
     },
     {
         "Date":"1981-05",
         "Naturalgas_US":1.95,
         "Naturalgas_Europe":4.6,
-        "Liquefiednaturalgas_Japan":6.0303414353,
-        "Naturalgasindex":49.6333709685
+        "Liquefiednaturalgas_Japan":6.03,
+        "Naturalgasindex":49.63
     },
     {
         "Date":"1981-04",
         "Naturalgas_US":1.93,
         "Naturalgas_Europe":4.6,
-        "Liquefiednaturalgas_Japan":6.0303414353,
-        "Naturalgasindex":49.390503509
+        "Liquefiednaturalgas_Japan":6.03,
+        "Naturalgasindex":49.39
     },
     {
         "Date":"1981-03",
         "Naturalgas_US":1.86,
         "Naturalgas_Europe":4.6,
-        "Liquefiednaturalgas_Japan":6.0303414353,
-        "Naturalgasindex":48.5404674008
+        "Liquefiednaturalgas_Japan":6.03,
+        "Naturalgasindex":48.54
     },
     {
         "Date":"1981-02",
         "Naturalgas_US":1.81,
         "Naturalgas_Europe":4.6,
-        "Liquefiednaturalgas_Japan":6.0303414353,
-        "Naturalgasindex":47.9332987521
+        "Liquefiednaturalgas_Japan":6.03,
+        "Naturalgasindex":47.93
     },
     {
         "Date":"1981-01",
         "Naturalgas_US":1.77,
         "Naturalgas_Europe":4.6,
-        "Liquefiednaturalgas_Japan":6.0303414353,
-        "Naturalgasindex":47.4475638332
+        "Liquefiednaturalgas_Japan":6.03,
+        "Naturalgasindex":47.45
     },
     {
         "Date":"1980-12",
         "Naturalgas_US":1.74,
         "Naturalgas_Europe":4.22,
-        "Liquefiednaturalgas_Japan":5.6962273283,
-        "Naturalgasindex":45.0503928033
+        "Liquefiednaturalgas_Japan":5.7,
+        "Naturalgasindex":45.05
     },
     {
         "Date":"1980-11",
         "Naturalgas_US":1.76,
         "Naturalgas_Europe":4.22,
-        "Liquefiednaturalgas_Japan":5.6962273283,
-        "Naturalgasindex":45.2932602628
+        "Liquefiednaturalgas_Japan":5.7,
+        "Naturalgasindex":45.29
     },
     {
         "Date":"1980-10",
         "Naturalgas_US":1.71,
         "Naturalgas_Europe":4.22,
-        "Liquefiednaturalgas_Japan":5.6962273283,
-        "Naturalgasindex":44.6860916141
+        "Liquefiednaturalgas_Japan":5.7,
+        "Naturalgasindex":44.69
     },
     {
         "Date":"1980-09",
         "Naturalgas_US":1.69,
         "Naturalgas_Europe":4.22,
-        "Liquefiednaturalgas_Japan":5.6962273283,
-        "Naturalgasindex":44.4432241546
+        "Liquefiednaturalgas_Japan":5.7,
+        "Naturalgasindex":44.44
     },
     {
         "Date":"1980-08",
         "Naturalgas_US":1.64,
         "Naturalgas_Europe":4.22,
-        "Liquefiednaturalgas_Japan":5.6962273283,
-        "Naturalgasindex":43.836055506
+        "Liquefiednaturalgas_Japan":5.7,
+        "Naturalgasindex":43.84
     },
     {
         "Date":"1980-07",
         "Naturalgas_US":1.64,
         "Naturalgas_Europe":4.22,
-        "Liquefiednaturalgas_Japan":5.6962273283,
-        "Naturalgasindex":43.836055506
+        "Liquefiednaturalgas_Japan":5.7,
+        "Naturalgasindex":43.84
     },
     {
         "Date":"1980-06",
         "Naturalgas_US":1.57,
         "Naturalgas_Europe":4.22,
-        "Liquefiednaturalgas_Japan":5.6962273283,
-        "Naturalgasindex":42.9860193978
+        "Liquefiednaturalgas_Japan":5.7,
+        "Naturalgasindex":42.99
     },
     {
         "Date":"1980-05",
         "Naturalgas_US":1.56,
         "Naturalgas_Europe":4.22,
-        "Liquefiednaturalgas_Japan":5.6962273283,
-        "Naturalgasindex":42.8645856681
+        "Liquefiednaturalgas_Japan":5.7,
+        "Naturalgasindex":42.86
     },
     {
         "Date":"1980-04",
         "Naturalgas_US":1.51,
         "Naturalgas_Europe":4.22,
-        "Liquefiednaturalgas_Japan":5.6962273283,
-        "Naturalgasindex":42.2574170194
+        "Liquefiednaturalgas_Japan":5.7,
+        "Naturalgasindex":42.26
     },
     {
         "Date":"1980-03",
         "Naturalgas_US":1.46,
         "Naturalgas_Europe":4.22,
-        "Liquefiednaturalgas_Japan":5.6962273283,
-        "Naturalgasindex":41.6502483707
+        "Liquefiednaturalgas_Japan":5.7,
+        "Naturalgasindex":41.65
     },
     {
         "Date":"1980-02",
         "Naturalgas_US":1.42,
         "Naturalgas_Europe":4.22,
-        "Liquefiednaturalgas_Japan":5.6962273283,
-        "Naturalgasindex":41.1645134518
+        "Liquefiednaturalgas_Japan":5.7,
+        "Naturalgasindex":41.16
     },
     {
         "Date":"1980-01",
         "Naturalgas_US":1.37,
         "Naturalgas_Europe":4.22,
-        "Liquefiednaturalgas_Japan":5.6962273283,
-        "Naturalgasindex":40.5573448031
+        "Liquefiednaturalgas_Japan":5.7,
+        "Naturalgasindex":40.56
     },
     {
         "Date":"1979-12",
         "Naturalgas_US":1.31,
-        "Naturalgas_Europe":3.2594885749,
-        "Liquefiednaturalgas_Japan":3.6924229156,
-        "Naturalgasindex":33.9049319843
+        "Naturalgas_Europe":3.26,
+        "Liquefiednaturalgas_Japan":3.69,
+        "Naturalgasindex":33.9
     },
     {
         "Date":"1979-11",
         "Naturalgas_US":1.29,
-        "Naturalgas_Europe":3.2594885749,
-        "Liquefiednaturalgas_Japan":3.6924229156,
-        "Naturalgasindex":33.6620645248
+        "Naturalgas_Europe":3.26,
+        "Liquefiednaturalgas_Japan":3.69,
+        "Naturalgasindex":33.66
     },
     {
         "Date":"1979-10",
         "Naturalgas_US":1.28,
-        "Naturalgas_Europe":3.2594885749,
-        "Liquefiednaturalgas_Japan":3.6924229156,
-        "Naturalgasindex":33.5406307951
+        "Naturalgas_Europe":3.26,
+        "Liquefiednaturalgas_Japan":3.69,
+        "Naturalgasindex":33.54
     },
     {
         "Date":"1979-09",
         "Naturalgas_US":1.24,
-        "Naturalgas_Europe":3.2594885749,
-        "Liquefiednaturalgas_Japan":3.6924229156,
-        "Naturalgasindex":33.0548958761
+        "Naturalgas_Europe":3.26,
+        "Liquefiednaturalgas_Japan":3.69,
+        "Naturalgasindex":33.05
     },
     {
         "Date":"1979-08",
         "Naturalgas_US":1.24,
-        "Naturalgas_Europe":3.2594885749,
-        "Liquefiednaturalgas_Japan":3.6924229156,
-        "Naturalgasindex":33.0548958761
+        "Naturalgas_Europe":3.26,
+        "Liquefiednaturalgas_Japan":3.69,
+        "Naturalgasindex":33.05
     },
     {
         "Date":"1979-07",
         "Naturalgas_US":1.2,
-        "Naturalgas_Europe":3.2594885749,
-        "Liquefiednaturalgas_Japan":3.6924229156,
-        "Naturalgasindex":32.5691609572
+        "Naturalgas_Europe":3.26,
+        "Liquefiednaturalgas_Japan":3.69,
+        "Naturalgasindex":32.57
     },
     {
         "Date":"1979-06",
         "Naturalgas_US":1.17,
-        "Naturalgas_Europe":3.2594885749,
-        "Liquefiednaturalgas_Japan":3.6924229156,
-        "Naturalgasindex":32.204859768
+        "Naturalgas_Europe":3.26,
+        "Liquefiednaturalgas_Japan":3.69,
+        "Naturalgasindex":32.2
     },
     {
         "Date":"1979-05",
         "Naturalgas_US":1.15,
-        "Naturalgas_Europe":3.2594885749,
-        "Liquefiednaturalgas_Japan":3.6924229156,
-        "Naturalgasindex":31.9619923085
+        "Naturalgas_Europe":3.26,
+        "Liquefiednaturalgas_Japan":3.69,
+        "Naturalgasindex":31.96
     },
     {
         "Date":"1979-04",
         "Naturalgas_US":1.11,
-        "Naturalgas_Europe":3.2594885749,
-        "Liquefiednaturalgas_Japan":3.6924229156,
-        "Naturalgasindex":31.4762573896
+        "Naturalgas_Europe":3.26,
+        "Liquefiednaturalgas_Japan":3.69,
+        "Naturalgasindex":31.48
     },
     {
         "Date":"1979-03",
         "Naturalgas_US":1.1,
-        "Naturalgas_Europe":3.2594885749,
-        "Liquefiednaturalgas_Japan":3.6924229156,
-        "Naturalgasindex":31.3548236598
+        "Naturalgas_Europe":3.26,
+        "Liquefiednaturalgas_Japan":3.69,
+        "Naturalgasindex":31.35
     },
     {
         "Date":"1979-02",
         "Naturalgas_US":1.05,
-        "Naturalgas_Europe":3.2594885749,
-        "Liquefiednaturalgas_Japan":3.6924229156,
-        "Naturalgasindex":30.7476550112
+        "Naturalgas_Europe":3.26,
+        "Liquefiednaturalgas_Japan":3.69,
+        "Naturalgasindex":30.75
     },
     {
         "Date":"1979-01",
         "Naturalgas_US":1.02,
-        "Naturalgas_Europe":3.2594885749,
-        "Liquefiednaturalgas_Japan":3.6924229156,
-        "Naturalgasindex":30.3833538219
+        "Naturalgas_Europe":3.26,
+        "Liquefiednaturalgas_Japan":3.69,
+        "Naturalgasindex":30.38
     },
     {
         "Date":"1978-12",
         "Naturalgas_US":0.96,
-        "Naturalgas_Europe":2.3022180993,
-        "Liquefiednaturalgas_Japan":3.036080842,
-        "Naturalgasindex":24.659246158
+        "Naturalgas_Europe":2.3,
+        "Liquefiednaturalgas_Japan":3.04,
+        "Naturalgasindex":24.66
     },
     {
         "Date":"1978-11",
         "Naturalgas_US":0.93,
-        "Naturalgas_Europe":2.3022180993,
-        "Liquefiednaturalgas_Japan":3.036080842,
-        "Naturalgasindex":24.2949449688
+        "Naturalgas_Europe":2.3,
+        "Liquefiednaturalgas_Japan":3.04,
+        "Naturalgasindex":24.29
     },
     {
         "Date":"1978-10",
         "Naturalgas_US":0.92,
-        "Naturalgas_Europe":2.3022180993,
-        "Liquefiednaturalgas_Japan":3.036080842,
-        "Naturalgasindex":24.1735112391
+        "Naturalgas_Europe":2.3,
+        "Liquefiednaturalgas_Japan":3.04,
+        "Naturalgasindex":24.17
     },
     {
         "Date":"1978-09",
         "Naturalgas_US":0.92,
-        "Naturalgas_Europe":2.3022180993,
-        "Liquefiednaturalgas_Japan":3.036080842,
-        "Naturalgasindex":24.1735112391
+        "Naturalgas_Europe":2.3,
+        "Liquefiednaturalgas_Japan":3.04,
+        "Naturalgasindex":24.17
     },
     {
         "Date":"1978-08",
         "Naturalgas_US":0.91,
-        "Naturalgas_Europe":2.3022180993,
-        "Liquefiednaturalgas_Japan":3.036080842,
-        "Naturalgasindex":24.0520775093
+        "Naturalgas_Europe":2.3,
+        "Liquefiednaturalgas_Japan":3.04,
+        "Naturalgasindex":24.05
     },
     {
         "Date":"1978-07",
         "Naturalgas_US":0.89,
-        "Naturalgas_Europe":2.3022180993,
-        "Liquefiednaturalgas_Japan":3.036080842,
-        "Naturalgasindex":23.8092100498
+        "Naturalgas_Europe":2.3,
+        "Liquefiednaturalgas_Japan":3.04,
+        "Naturalgasindex":23.81
     },
     {
         "Date":"1978-06",
         "Naturalgas_US":0.91,
-        "Naturalgas_Europe":2.3022180993,
-        "Liquefiednaturalgas_Japan":3.036080842,
-        "Naturalgasindex":24.0520775093
+        "Naturalgas_Europe":2.3,
+        "Liquefiednaturalgas_Japan":3.04,
+        "Naturalgasindex":24.05
     },
     {
         "Date":"1978-05",
         "Naturalgas_US":0.91,
-        "Naturalgas_Europe":2.3022180993,
-        "Liquefiednaturalgas_Japan":3.036080842,
-        "Naturalgasindex":24.0520775093
+        "Naturalgas_Europe":2.3,
+        "Liquefiednaturalgas_Japan":3.04,
+        "Naturalgasindex":24.05
     },
     {
         "Date":"1978-04",
         "Naturalgas_US":0.88,
-        "Naturalgas_Europe":2.3022180993,
-        "Liquefiednaturalgas_Japan":3.036080842,
-        "Naturalgasindex":23.6877763201
+        "Naturalgas_Europe":2.3,
+        "Liquefiednaturalgas_Japan":3.04,
+        "Naturalgasindex":23.69
     },
     {
         "Date":"1978-03",
         "Naturalgas_US":0.89,
-        "Naturalgas_Europe":2.3022180993,
-        "Liquefiednaturalgas_Japan":3.036080842,
-        "Naturalgasindex":23.8092100498
+        "Naturalgas_Europe":2.3,
+        "Liquefiednaturalgas_Japan":3.04,
+        "Naturalgasindex":23.81
     },
     {
         "Date":"1978-02",
         "Naturalgas_US":0.88,
-        "Naturalgas_Europe":2.3022180993,
-        "Liquefiednaturalgas_Japan":3.036080842,
-        "Naturalgasindex":23.6877763201
+        "Naturalgas_Europe":2.3,
+        "Liquefiednaturalgas_Japan":3.04,
+        "Naturalgasindex":23.69
     },
     {
         "Date":"1978-01",
         "Naturalgas_US":0.87,
-        "Naturalgas_Europe":2.3022180993,
-        "Liquefiednaturalgas_Japan":3.036080842,
-        "Naturalgasindex":23.5663425904
+        "Naturalgas_Europe":2.3,
+        "Liquefiednaturalgas_Japan":3.04,
+        "Naturalgasindex":23.57
     },
     {
         "Date":"1977-12",
         "Naturalgas_US":0.84,
-        "Naturalgas_Europe":1.7916226068,
-        "Liquefiednaturalgas_Japan":2.7711628728,
-        "Naturalgasindex":20.5952041695
+        "Naturalgas_Europe":1.79,
+        "Liquefiednaturalgas_Japan":2.77,
+        "Naturalgasindex":20.6
     },
     {
         "Date":"1977-11",
         "Naturalgas_US":0.83,
-        "Naturalgas_Europe":1.7916226068,
-        "Liquefiednaturalgas_Japan":2.7711628728,
-        "Naturalgasindex":20.4737704398
+        "Naturalgas_Europe":1.79,
+        "Liquefiednaturalgas_Japan":2.77,
+        "Naturalgasindex":20.47
     },
     {
         "Date":"1977-10",
         "Naturalgas_US":0.84,
-        "Naturalgas_Europe":1.7916226068,
-        "Liquefiednaturalgas_Japan":2.7711628728,
-        "Naturalgasindex":20.5952041695
+        "Naturalgas_Europe":1.79,
+        "Liquefiednaturalgas_Japan":2.77,
+        "Naturalgasindex":20.6
     },
     {
         "Date":"1977-09",
         "Naturalgas_US":0.83,
-        "Naturalgas_Europe":1.7916226068,
-        "Liquefiednaturalgas_Japan":2.7711628728,
-        "Naturalgasindex":20.4737704398
+        "Naturalgas_Europe":1.79,
+        "Liquefiednaturalgas_Japan":2.77,
+        "Naturalgasindex":20.47
     },
     {
         "Date":"1977-08",
         "Naturalgas_US":0.82,
-        "Naturalgas_Europe":1.7916226068,
-        "Liquefiednaturalgas_Japan":2.7711628728,
-        "Naturalgasindex":20.35233671
+        "Naturalgas_Europe":1.79,
+        "Liquefiednaturalgas_Japan":2.77,
+        "Naturalgasindex":20.35
     },
     {
         "Date":"1977-07",
         "Naturalgas_US":0.83,
-        "Naturalgas_Europe":1.7916226068,
-        "Liquefiednaturalgas_Japan":2.7711628728,
-        "Naturalgasindex":20.4737704398
+        "Naturalgas_Europe":1.79,
+        "Liquefiednaturalgas_Japan":2.77,
+        "Naturalgasindex":20.47
     },
     {
         "Date":"1977-06",
         "Naturalgas_US":0.82,
-        "Naturalgas_Europe":1.7916226068,
-        "Liquefiednaturalgas_Japan":2.7711628728,
-        "Naturalgasindex":20.35233671
+        "Naturalgas_Europe":1.79,
+        "Liquefiednaturalgas_Japan":2.77,
+        "Naturalgasindex":20.35
     },
     {
         "Date":"1977-05",
         "Naturalgas_US":0.77,
-        "Naturalgas_Europe":1.7916226068,
-        "Liquefiednaturalgas_Japan":2.7711628728,
-        "Naturalgasindex":19.7451680613
+        "Naturalgas_Europe":1.79,
+        "Liquefiednaturalgas_Japan":2.77,
+        "Naturalgasindex":19.75
     },
     {
         "Date":"1977-04",
         "Naturalgas_US":0.77,
-        "Naturalgas_Europe":1.7916226068,
-        "Liquefiednaturalgas_Japan":2.7711628728,
-        "Naturalgasindex":19.7451680613
+        "Naturalgas_Europe":1.79,
+        "Liquefiednaturalgas_Japan":2.77,
+        "Naturalgasindex":19.75
     },
     {
         "Date":"1977-03",
         "Naturalgas_US":0.75,
-        "Naturalgas_Europe":1.7916226068,
-        "Liquefiednaturalgas_Japan":2.7711628728,
-        "Naturalgasindex":19.5023006018
+        "Naturalgas_Europe":1.79,
+        "Liquefiednaturalgas_Japan":2.77,
+        "Naturalgasindex":19.5
     },
     {
         "Date":"1977-02",
         "Naturalgas_US":0.71,
-        "Naturalgas_Europe":1.7916226068,
-        "Liquefiednaturalgas_Japan":2.7711628728,
-        "Naturalgasindex":19.0165656829
+        "Naturalgas_Europe":1.79,
+        "Liquefiednaturalgas_Japan":2.77,
+        "Naturalgasindex":19.02
     },
     {
         "Date":"1977-01",
         "Naturalgas_US":0.67,
-        "Naturalgas_Europe":1.7916226068,
-        "Liquefiednaturalgas_Japan":2.7711628728,
-        "Naturalgasindex":18.530830764
+        "Naturalgas_Europe":1.79,
+        "Liquefiednaturalgas_Japan":2.77,
+        "Naturalgasindex":18.53
     },
     {
         "Date":"1976-12",
         "Naturalgas_US":0.64,
-        "Naturalgas_Europe":1.7351132997,
+        "Naturalgas_Europe":1.74,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1976-11",
         "Naturalgas_US":0.63,
-        "Naturalgas_Europe":1.7351132997,
+        "Naturalgas_Europe":1.74,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1976-10",
         "Naturalgas_US":0.62,
-        "Naturalgas_Europe":1.7351132997,
+        "Naturalgas_Europe":1.74,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1976-09",
         "Naturalgas_US":0.6,
-        "Naturalgas_Europe":1.7351132997,
+        "Naturalgas_Europe":1.74,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1976-08",
         "Naturalgas_US":0.6,
-        "Naturalgas_Europe":1.7351132997,
+        "Naturalgas_Europe":1.74,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1976-07",
         "Naturalgas_US":0.58,
-        "Naturalgas_Europe":1.7351132997,
+        "Naturalgas_Europe":1.74,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1976-06",
         "Naturalgas_US":0.58,
-        "Naturalgas_Europe":1.7351132997,
+        "Naturalgas_Europe":1.74,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1976-05",
         "Naturalgas_US":0.55,
-        "Naturalgas_Europe":1.7351132997,
+        "Naturalgas_Europe":1.74,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1976-04",
         "Naturalgas_US":0.55,
-        "Naturalgas_Europe":1.7351132997,
+        "Naturalgas_Europe":1.74,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1976-03",
         "Naturalgas_US":0.54,
-        "Naturalgas_Europe":1.7351132997,
+        "Naturalgas_Europe":1.74,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1976-02",
         "Naturalgas_US":0.54,
-        "Naturalgas_Europe":1.7351132997,
+        "Naturalgas_Europe":1.74,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1976-01",
         "Naturalgas_US":0.54,
-        "Naturalgas_Europe":1.7351132997,
+        "Naturalgas_Europe":1.74,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1975-12",
         "Naturalgas_US":0.43,
-        "Naturalgas_Europe":1.6820935908,
+        "Naturalgas_Europe":1.68,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1975-11",
         "Naturalgas_US":0.43,
-        "Naturalgas_Europe":1.6820935908,
+        "Naturalgas_Europe":1.68,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1975-10",
         "Naturalgas_US":0.43,
-        "Naturalgas_Europe":1.6820935908,
+        "Naturalgas_Europe":1.68,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1975-09",
         "Naturalgas_US":0.43,
-        "Naturalgas_Europe":1.6820935908,
+        "Naturalgas_Europe":1.68,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1975-08",
         "Naturalgas_US":0.43,
-        "Naturalgas_Europe":1.6820935908,
+        "Naturalgas_Europe":1.68,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1975-07",
         "Naturalgas_US":0.43,
-        "Naturalgas_Europe":1.6820935908,
+        "Naturalgas_Europe":1.68,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1975-06",
         "Naturalgas_US":0.43,
-        "Naturalgas_Europe":1.6820935908,
+        "Naturalgas_Europe":1.68,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1975-05",
         "Naturalgas_US":0.43,
-        "Naturalgas_Europe":1.6820935908,
+        "Naturalgas_Europe":1.68,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1975-04",
         "Naturalgas_US":0.43,
-        "Naturalgas_Europe":1.6820935908,
+        "Naturalgas_Europe":1.68,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1975-03",
         "Naturalgas_US":0.43,
-        "Naturalgas_Europe":1.6820935908,
+        "Naturalgas_Europe":1.68,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1975-02",
         "Naturalgas_US":0.43,
-        "Naturalgas_Europe":1.6820935908,
+        "Naturalgas_Europe":1.68,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1975-01",
         "Naturalgas_US":0.43,
-        "Naturalgas_Europe":1.6820935908,
+        "Naturalgas_Europe":1.68,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
@@ -4272,1176 +4272,1176 @@
     {
         "Date":"1973-12",
         "Naturalgas_US":0.21,
-        "Naturalgas_Europe":0.6935067243,
+        "Naturalgas_Europe":0.69,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1973-11",
         "Naturalgas_US":0.21,
-        "Naturalgas_Europe":0.6935067243,
+        "Naturalgas_Europe":0.69,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1973-10",
         "Naturalgas_US":0.21,
-        "Naturalgas_Europe":0.6935067243,
+        "Naturalgas_Europe":0.69,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1973-09",
         "Naturalgas_US":0.21,
-        "Naturalgas_Europe":0.6935067243,
+        "Naturalgas_Europe":0.69,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1973-08",
         "Naturalgas_US":0.21,
-        "Naturalgas_Europe":0.6935067243,
+        "Naturalgas_Europe":0.69,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1973-07",
         "Naturalgas_US":0.21,
-        "Naturalgas_Europe":0.6935067243,
+        "Naturalgas_Europe":0.69,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1973-06",
         "Naturalgas_US":0.21,
-        "Naturalgas_Europe":0.6935067243,
+        "Naturalgas_Europe":0.69,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1973-05",
         "Naturalgas_US":0.21,
-        "Naturalgas_Europe":0.6935067243,
+        "Naturalgas_Europe":0.69,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1973-04",
         "Naturalgas_US":0.21,
-        "Naturalgas_Europe":0.6935067243,
+        "Naturalgas_Europe":0.69,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1973-03",
         "Naturalgas_US":0.21,
-        "Naturalgas_Europe":0.6935067243,
+        "Naturalgas_Europe":0.69,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1973-02",
         "Naturalgas_US":0.21,
-        "Naturalgas_Europe":0.6935067243,
+        "Naturalgas_Europe":0.69,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1973-01",
         "Naturalgas_US":0.21,
-        "Naturalgas_Europe":0.6935067243,
+        "Naturalgas_Europe":0.69,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1972-12",
         "Naturalgas_US":0.19,
-        "Naturalgas_Europe":0.5421659866,
+        "Naturalgas_Europe":0.54,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1972-11",
         "Naturalgas_US":0.19,
-        "Naturalgas_Europe":0.5421659866,
+        "Naturalgas_Europe":0.54,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1972-10",
         "Naturalgas_US":0.19,
-        "Naturalgas_Europe":0.5421659866,
+        "Naturalgas_Europe":0.54,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1972-09",
         "Naturalgas_US":0.19,
-        "Naturalgas_Europe":0.5421659866,
+        "Naturalgas_Europe":0.54,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1972-08",
         "Naturalgas_US":0.19,
-        "Naturalgas_Europe":0.5421659866,
+        "Naturalgas_Europe":0.54,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1972-07",
         "Naturalgas_US":0.19,
-        "Naturalgas_Europe":0.5421659866,
+        "Naturalgas_Europe":0.54,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1972-06",
         "Naturalgas_US":0.19,
-        "Naturalgas_Europe":0.5421659866,
+        "Naturalgas_Europe":0.54,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1972-05",
         "Naturalgas_US":0.19,
-        "Naturalgas_Europe":0.5421659866,
+        "Naturalgas_Europe":0.54,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1972-04",
         "Naturalgas_US":0.19,
-        "Naturalgas_Europe":0.5421659866,
+        "Naturalgas_Europe":0.54,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1972-03",
         "Naturalgas_US":0.19,
-        "Naturalgas_Europe":0.5421659866,
+        "Naturalgas_Europe":0.54,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1972-02",
         "Naturalgas_US":0.19,
-        "Naturalgas_Europe":0.5421659866,
+        "Naturalgas_Europe":0.54,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1972-01",
         "Naturalgas_US":0.19,
-        "Naturalgas_Europe":0.5421659866,
+        "Naturalgas_Europe":0.54,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1971-12",
         "Naturalgas_US":0.18,
-        "Naturalgas_Europe":0.5022435438,
+        "Naturalgas_Europe":0.5,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1971-11",
         "Naturalgas_US":0.18,
-        "Naturalgas_Europe":0.5022435438,
+        "Naturalgas_Europe":0.5,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1971-10",
         "Naturalgas_US":0.18,
-        "Naturalgas_Europe":0.5022435438,
+        "Naturalgas_Europe":0.5,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1971-09",
         "Naturalgas_US":0.18,
-        "Naturalgas_Europe":0.5022435438,
+        "Naturalgas_Europe":0.5,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1971-08",
         "Naturalgas_US":0.18,
-        "Naturalgas_Europe":0.5022435438,
+        "Naturalgas_Europe":0.5,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1971-07",
         "Naturalgas_US":0.18,
-        "Naturalgas_Europe":0.5022435438,
+        "Naturalgas_Europe":0.5,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1971-06",
         "Naturalgas_US":0.18,
-        "Naturalgas_Europe":0.5022435438,
+        "Naturalgas_Europe":0.5,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1971-05",
         "Naturalgas_US":0.18,
-        "Naturalgas_Europe":0.5022435438,
+        "Naturalgas_Europe":0.5,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1971-04",
         "Naturalgas_US":0.18,
-        "Naturalgas_Europe":0.5022435438,
+        "Naturalgas_Europe":0.5,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1971-03",
         "Naturalgas_US":0.18,
-        "Naturalgas_Europe":0.5022435438,
+        "Naturalgas_Europe":0.5,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1971-02",
         "Naturalgas_US":0.18,
-        "Naturalgas_Europe":0.5022435438,
+        "Naturalgas_Europe":0.5,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1971-01",
         "Naturalgas_US":0.18,
-        "Naturalgas_Europe":0.5022435438,
+        "Naturalgas_Europe":0.5,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1970-12",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4472180101,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1970-11",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4472180101,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1970-10",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4472180101,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1970-09",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4472180101,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1970-08",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4472180101,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1970-07",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4472180101,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1970-06",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4472180101,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1970-05",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4472180101,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1970-04",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4472180101,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1970-03",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4472180101,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1970-02",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4472180101,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1970-01",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4472180101,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1969-12",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4518199182,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1969-11",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4518199182,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1969-10",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4518199182,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1969-09",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4518199182,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1969-08",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4518199182,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1969-07",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4518199182,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1969-06",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4518199182,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1969-05",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4518199182,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1969-04",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4518199182,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1969-03",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4518199182,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1969-02",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4518199182,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1969-01",
         "Naturalgas_US":0.17,
-        "Naturalgas_Europe":0.4518199182,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1968-12",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4518018774,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1968-11",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4518018774,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1968-10",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4518018774,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1968-09",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4518018774,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1968-08",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4518018774,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1968-07",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4518018774,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1968-06",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4518018774,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1968-05",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4518018774,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1968-04",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4518018774,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1968-03",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4518018774,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1968-02",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4518018774,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1968-01",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4518018774,
+        "Naturalgas_Europe":0.45,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1967-12",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4566473763,
+        "Naturalgas_Europe":0.46,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1967-11",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4566473763,
+        "Naturalgas_Europe":0.46,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1967-10",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4566473763,
+        "Naturalgas_Europe":0.46,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1967-09",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4566473763,
+        "Naturalgas_Europe":0.46,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1967-08",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4566473763,
+        "Naturalgas_Europe":0.46,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1967-07",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4566473763,
+        "Naturalgas_Europe":0.46,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1967-06",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4566473763,
+        "Naturalgas_Europe":0.46,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1967-05",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4566473763,
+        "Naturalgas_Europe":0.46,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1967-04",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4566473763,
+        "Naturalgas_Europe":0.46,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1967-03",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4566473763,
+        "Naturalgas_Europe":0.46,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1967-02",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4566473763,
+        "Naturalgas_Europe":0.46,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1967-01",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4566473763,
+        "Naturalgas_Europe":0.46,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1966-12",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4249286651,
+        "Naturalgas_Europe":0.42,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1966-11",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4249286651,
+        "Naturalgas_Europe":0.42,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1966-10",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4249286651,
+        "Naturalgas_Europe":0.42,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1966-09",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4249286651,
+        "Naturalgas_Europe":0.42,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1966-08",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4249286651,
+        "Naturalgas_Europe":0.42,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1966-07",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4249286651,
+        "Naturalgas_Europe":0.42,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1966-06",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4249286651,
+        "Naturalgas_Europe":0.42,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1966-05",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4249286651,
+        "Naturalgas_Europe":0.42,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1966-04",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4249286651,
+        "Naturalgas_Europe":0.42,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1966-03",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4249286651,
+        "Naturalgas_Europe":0.42,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1966-02",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4249286651,
+        "Naturalgas_Europe":0.42,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1966-01",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4249286651,
+        "Naturalgas_Europe":0.42,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1965-12",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4107661052,
+        "Naturalgas_Europe":0.41,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1965-11",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4107661052,
+        "Naturalgas_Europe":0.41,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1965-10",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4107661052,
+        "Naturalgas_Europe":0.41,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1965-09",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4107661052,
+        "Naturalgas_Europe":0.41,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1965-08",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4107661052,
+        "Naturalgas_Europe":0.41,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1965-07",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4107661052,
+        "Naturalgas_Europe":0.41,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1965-06",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4107661052,
+        "Naturalgas_Europe":0.41,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1965-05",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4107661052,
+        "Naturalgas_Europe":0.41,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1965-04",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4107661052,
+        "Naturalgas_Europe":0.41,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1965-03",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4107661052,
+        "Naturalgas_Europe":0.41,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1965-02",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4107661052,
+        "Naturalgas_Europe":0.41,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1965-01",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4107661052,
+        "Naturalgas_Europe":0.41,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1964-12",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.3841498024,
+        "Naturalgas_Europe":0.38,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1964-11",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.3841498024,
+        "Naturalgas_Europe":0.38,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1964-10",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.3841498024,
+        "Naturalgas_Europe":0.38,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1964-09",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.3841498024,
+        "Naturalgas_Europe":0.38,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1964-08",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.3841498024,
+        "Naturalgas_Europe":0.38,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1964-07",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.3841498024,
+        "Naturalgas_Europe":0.38,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1964-06",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.3841498024,
+        "Naturalgas_Europe":0.38,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1964-05",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.3841498024,
+        "Naturalgas_Europe":0.38,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1964-04",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.3841498024,
+        "Naturalgas_Europe":0.38,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1964-03",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.3841498024,
+        "Naturalgas_Europe":0.38,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1964-02",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.3841498024,
+        "Naturalgas_Europe":0.38,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1964-01",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.3841498024,
+        "Naturalgas_Europe":0.38,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1963-12",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.391351138,
+        "Naturalgas_Europe":0.39,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1963-11",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.391351138,
+        "Naturalgas_Europe":0.39,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1963-10",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.391351138,
+        "Naturalgas_Europe":0.39,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1963-09",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.391351138,
+        "Naturalgas_Europe":0.39,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1963-08",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.391351138,
+        "Naturalgas_Europe":0.39,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1963-07",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.391351138,
+        "Naturalgas_Europe":0.39,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1963-06",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.391351138,
+        "Naturalgas_Europe":0.39,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1963-05",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.391351138,
+        "Naturalgas_Europe":0.39,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1963-04",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.391351138,
+        "Naturalgas_Europe":0.39,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1963-03",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.391351138,
+        "Naturalgas_Europe":0.39,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1963-02",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.391351138,
+        "Naturalgas_Europe":0.39,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1963-01",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.391351138,
+        "Naturalgas_Europe":0.39,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1962-12",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1962-11",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1962-10",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1962-09",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1962-08",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1962-07",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1962-06",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1962-05",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1962-04",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1962-03",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1962-02",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1962-01",
         "Naturalgas_US":0.16,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1961-12",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1961-11",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1961-10",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1961-09",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1961-08",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1961-07",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1961-06",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1961-05",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1961-04",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1961-03",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1961-02",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1961-01",
         "Naturalgas_US":0.15,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1960-12",
         "Naturalgas_US":0.14,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1960-11",
         "Naturalgas_US":0.14,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1960-10",
         "Naturalgas_US":0.14,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1960-09",
         "Naturalgas_US":0.14,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1960-08",
         "Naturalgas_US":0.14,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1960-07",
         "Naturalgas_US":0.14,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1960-06",
         "Naturalgas_US":0.14,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1960-05",
         "Naturalgas_US":0.14,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1960-04",
         "Naturalgas_US":0.14,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1960-03",
         "Naturalgas_US":0.14,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1960-02",
         "Naturalgas_US":0.14,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     },
     {
         "Date":"1960-01",
         "Naturalgas_US":0.14,
-        "Naturalgas_Europe":0.4047739964,
+        "Naturalgas_Europe":0.4,
         "Liquefiednaturalgas_Japan":0.0,
         "Naturalgasindex":0.0
     }

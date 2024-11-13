@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C2_Factionalized_Elites</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>C2_Factionalized_Elites</span>
+    </nav>
+
+    <a>データソース:FSI</a>
+
+    <div style="display: flex;">
+        <div>
+            <img src="Figure\C2_Factionalized_Elites.png" alt="1980年の各国人口チャート">
+        </div>
+        <div style="margin-left: 20px; flex: 1;">
+            <h1>C2: エリートの分裂化（Factionalized Elites）</h1>
+            <p>エリートの分裂化指標は、国家機関が民族、階級、氏族、人種、宗教などの線で分裂している状況、また支配的なエリート層間での政治的駆け引きや行き詰まりを考慮しています。また、支配的なエリートによる国家主義的な政治的修辞の使用、例えば国家主義、外国人排斥、コミュニティの領土拡張主義（例：「大セルビア」）やコミュニティの連帯（例：「民族浄化」や「信仰の擁護」）も評価の対象です。極端な場合、これは全市民を代表する正当な指導者の不在を意味することもあります。エリートの分裂化指標は、権力闘争、政治的競争、政治的移行を測定し、選挙が行われる場合は選挙過程の信頼性（またはそれがない場合は支配階級の正当性に対する認識）も考慮します。</p>
+        
+            <h2>代表的なリーダーシップ</h2>
+            <ul>
+                <li><strong>リーダーシップ:</strong> リーダーは公正に選出されているか？リーダーは人口を代表しているか？</li>
+                <li><strong>分裂:</strong> エリート層、部族のエリート、あるいは周縁グループが存在するか？彼らはどれほど強力か？</li>
+                <li><strong>政治的和解:</strong> 政治的な和解プロセスは存在するか？</li>
+                <li><strong>軍の代表性:</strong> 軍は国民を代表しているか？</li>
+            </ul>
+        
+            <h2>アイデンティティ</h2>
+            <ul>
+                <li><strong>国家アイデンティティ:</strong> 国家アイデンティティは存在するか？国家主義的な感情は強いか？または分離主義の呼びかけがあるか？</li>
+                <li><strong>過激な修辞:</strong> ヘイトラジオやヘイトメディアは存在するか？</li>
+                <li><strong>ステレオタイプ:</strong> 宗教的、人種的、またはその他のステレオタイプが広まっており、スケープゴート化が行われているか？</li>
+                <li><strong>異文化への尊重:</strong> 異文化間の尊重は存在するか？</li>
+            </ul>
+        
+            <h2>資源の分配</h2>
+            <ul>
+                <li><strong>富の集中:</strong> 富が一部の者に集中しているか？</li>
+                <li><strong>成長する中産階級:</strong> 中産階級の成長が見られるか？</li>
+                <li><strong>資源の支配:</strong> 特定のグループが資源の大部分を支配しているか？</li>
+                <li><strong>資源の分配:</strong> 資源は公正に分配されているか？政府は税制度を通じて富を適切に分配しているか？</li>
+            </ul>
+        
+            <h2>平等と公平</h2>
+            <ul>
+                <li><strong>法律:</strong> 法律は民主的か、それとも極端か？</li>
+                <li><strong>司法制度の代表性:</strong> 司法制度は国民を代表しているか？</li>
+            </ul>     
+        </div>
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('ネットワークエラーが発生しました');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Rank</th><th>Country</th><th>C2_Factionalized_Elites</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["C2_Factionalized_Elites"]}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>データの読み込み中にエラーが発生しました。後でもう一度お試しください。</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/C2_Factionalized_Elites.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

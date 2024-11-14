@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C3_Group_Grievance</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>C3_Group_Grievance</span>
+    </nav>
+
+    <a>データソース:FSI</a>
+
+    <div style="display: flex;">
+        <div>
+            <img src="Figure\C3_Group_Grievance.png" alt="1980年の各国人口チャート">
+        </div>
+        <div style="margin-left: 20px; flex: 1;">
+            <h1>C3: 集団不満</h1>
+            <p>集団不満指標は、社会内の異なる集団間の分裂や対立、特に社会的または政治的特徴に基づく分裂と、それがサービスや資源へのアクセス、政治プロセスへの参加に及ぼす役割に焦点を当てています。集団不満には歴史的な要素も含まれることがあり、過去の不正、時には数世紀前のものを引用し、その集団の社会における役割や他の集団との関係を形作る要因として扱われます。この歴史は、集団に対して公然と罰せられることなく行われたとされる現実または認識された残虐行為や「犯罪」のパターンによっても形成されることがあります。ある集団は、自分たちが当然の権利として考える自治、自決、または政治的独立を否定されていると感じて不満を抱くこともあります。</p>
+            <p>この指標では、特定の集団が国家当局や支配的な集団から迫害や抑圧の対象とされている場合や、富、地位、権力を「不当に」獲得したと見なされる集団が公然とスケープゴートにされ、憎悪ラジオ、ビラ撒き、ステレオタイプ的または国家主義的な政治的修辞などの形で激しい言説が出現する状況も考慮されます。</p>
+        
+            <h2>検討すべき質問:</h2>
+        
+            <h3>紛争後の対応</h3>
+            <ul>
+                <li><strong>真実と和解:</strong> 真実と和解プロセスは存在するか、計画されているか、必要とされているか？</li>
+                <li><strong>再統合:</strong> 該当する場合、集団は再統合されたか？</li>
+                <li><strong>再建:</strong> 再建と開発の計画はあるか？</li>
+                <li><strong>被害者への補償:</strong> 過去の残虐行為の被害者は補償されているか、または補償計画はあるか？</li>
+                <li><strong>戦争犯罪人:</strong> 戦争犯罪人は拘束され、起訴されているか？公共は彼らが適切に罰せられていると感じているか？</li>
+                <li><strong>恩赦:</strong> 恩赦が与えられているか？</li>
+            </ul>
+        
+            <h3>平等</h3>
+            <ul>
+                <li><strong>資源の分配:</strong> 資源は公正かつ効率的に分配されているか？</li>
+            </ul>
+        
+            <h3>分裂</h3>
+            <ul>
+                <li><strong>集団間の憎悪または寛容:</strong> 民族的および/または宗教的な不寛容や暴力の報告があるか？</li>
+                <li><strong>集団の抑圧:</strong> 集団は抑圧されているか、または抑圧されていると感じているか？</li>
+                <li><strong>歴史:</strong> 集団に対する暴力の歴史や不満の歴史があるか？</li>
+                <li><strong>集団間関係:</strong> 部族間および/または民族間の関係はどうか？</li>
+                <li><strong>宗教的迫害または寛容:</strong> 法律および社会によって宗教の自由が存在するか？宗教的動機による暴力の報告があるか？</li>
+            </ul>
+        
+            <h3>集団暴力</h3>
+            <ul>
+                <li><strong>自警団の正義:</strong> 自警団の正義が報告されているか？</li>
+                <li><strong>大量暴力:</strong> 大量暴力や殺害の報告があるか？人種的動機による暴力の報告があるか？</li>
+            </ul>
+        </div>
+        
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('ネットワークエラーが発生しました');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Rank</th><th>Country</th><th>C3_Group_Grievance</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["C3_Group_Grievance"]}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>準備中</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/C3_Group_Grievance.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

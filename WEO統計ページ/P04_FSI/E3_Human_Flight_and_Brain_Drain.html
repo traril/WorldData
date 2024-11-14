@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Total</title>
+    <title>E3_Human_Flight_and_Brain_Drain</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -44,15 +44,35 @@
 
     <nav class="breadcrumb">
         <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
-        <span>Total</span>
+        <span>E3_Human_Flight_and_Brain_Drain</span>
     </nav>
 
     <a>データソース:FSI 2024</a>
 
     <div style="display: flex;">
         <div>
-            <img src="Figure\Total.png" alt="1980年の各国人口チャート">
+            <img src="Figure\E3_Human_Flight_and_Brain_Drain.png" alt="1980年の各国人口チャート">
         </div>
+        <div style="margin-left: 20px; flex: 1;">
+            <h1>E3: 人材流出と頭脳流出</h1>
+            <p>人材流出と頭脳流出指標は、経済的または政治的理由による人々の移動が経済に与える影響、およびそれが国の発展に与える影響を考慮します。一方では、中産階級、特に起業家や医師などの熟練労働者といった経済的に生産的な人口が、自国の経済悪化やより良い機会を求めて自発的に移住する場合があります。他方では、実際のまたは予想される迫害や抑圧のために、専門家や知識人が国を逃れざるを得ない場合があり、熟練した専門労働力の喪失によって経済に与える影響を特に考慮します。</p>
+        
+            <h2>検討すべき質問:</h2>
+        
+            <h3>技術的および知的資本の保持</h3>
+            <ul>
+                <li><strong>専門職の流出:</strong> 専門職の人々が国を離れているか？</li>
+                <li><strong>政治的流出または帰還:</strong> 政治家が国を離れているか？</li>
+                <li><strong>頭脳流出:</strong> 高学歴者が比較的高い割合で国を離れているか？</li>
+                <li><strong>中産階級の帰還:</strong> 中産階級は国に戻り始めているか？</li>
+            </ul>
+        
+            <h3>経済</h3>
+            <ul>
+                <li><strong>送金:</strong> 海外にいる親族からの送金が多く行われているか？</li>
+            </ul>
+        </div>
+        
     </div>
 
     <div class="separator"></div>
@@ -73,13 +93,13 @@
                     let tableHtml = "<table><thead><tr>";
 
                     // ヘッダー行の生成
-                    tableHtml += `<th>Rank</th><th>Country</th><th>Total</th>`;
+                    tableHtml += `<th>Rank</th><th>Country</th><th>E3_Human_Flight_and_Brain_Drain</th>`;
                     tableHtml += "</tr></thead><tbody>";
 
                     // データ行の生成
                     data.forEach(item => {
                         tableHtml += "<tr>";
-                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["Total"]}</td>`;
+                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["E3_Human_Flight_and_Brain_Drain"]}</td>`;
                         tableHtml += "</tr>";
                     });
 
@@ -94,7 +114,7 @@
 
         // ページロード時にJSONを読み込む
         document.addEventListener("DOMContentLoaded", function() {
-            loadJSONAndDisplay("JSONTable/Total.json", "tableContainer1"); // JSONファイルのパスを指定
+            loadJSONAndDisplay("JSONTable/E3_Human_Flight_and_Brain_Drain.json", "tableContainer1"); // JSONファイルのパスを指定
         });
     </script>
 </body>

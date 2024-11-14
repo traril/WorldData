@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E1_Economy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>E1_Economy</span>
+    </nav>
+
+    <a>データソース:FSI 2024</a>
+
+    <div style="display: flex;">
+        <div>
+            <img src="Figure\E1_Economy.png" alt="1980年の各国人口チャート">
+        </div>
+        <div style="margin-left: 20px; flex: 1;">
+            <h1>E1: 経済衰退と貧困</h1>
+            <p>経済衰退指標は、国内における経済衰退に関連する要因を考慮します。たとえば、この指標は、1人当たり所得、国民総生産、失業率、インフレ、生産性、債務、貧困レベル、または事業の失敗によって測定される社会全体の進行的な経済衰退のパターンを見ます。また、商品価格の急落、貿易収益や外国投資の減少、国家通貨の崩壊や評価切り下げも考慮されます。さらに、経済状況への対応とその影響、例えば経済緊縮プログラムによって課される極端な社会的苦難や、認識されるグループ間の不平等の増加も考慮されます。</p>
+            <p>経済衰退指標は正式な経済だけでなく、薬物や人身売買を含む違法貿易、資本逃避、またはマネーロンダリングや横領などの汚職や違法取引のレベルにも焦点を当てています。</p>
+        
+            <h2>検討すべき質問:</h2>
+        
+            <h3>公的財政</h3>
+            <ul>
+                <li><strong>政府債務:</strong> 政府の債務はどのくらいか？</li>
+            </ul>
+        
+            <h3>経済状況</h3>
+            <ul>
+                <li><strong>金利:</strong> 金利は実際および予測でどうか？</li>
+                <li><strong>インフレ率:</strong> インフレ率は実際および予測でどうか？</li>
+                <li><strong>生産性:</strong> 生産性はどうか？</li>
+                <li><strong>GDP:</strong> GDPは実際および予測でどうか？</li>
+                <li><strong>失業率:</strong> 現在の失業率とその推移はどうか？</li>
+            </ul>
+        
+            <h3>経済環境</h3>
+            <ul>
+                <li><strong>消費者信頼感:</strong> 人々は経済をどう見ているか？</li>
+                <li><strong>国家経済:</strong> 専門家は経済をどう評価しているか？</li>
+                <li><strong>FDIに対するビジネス環境:</strong> ビジネス環境はFDIにとって魅力的か？</li>
+                <li><strong>起業に対するビジネス環境:</strong> 法律と資本へのアクセスは国内の起業を許容しているか？</li>
+            </ul>
+        
+            <h3>経済の多様化</h3>
+            <ul>
+                <li><strong>経済の焦点:</strong> 経済の大部分を構成する製品は一つか？</li>
+            </ul>
+        </div>
+        
+        
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('ネットワークエラーが発生しました');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Rank</th><th>Country</th><th>E1_Economy</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["E1_Economy"]}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>準備中</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/E1_Economy.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

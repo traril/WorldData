@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>P1_State_Legitimacy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>P1_State_Legitimacy</span>
+    </nav>
+
+    <a>データソース:FSI 2024</a>
+
+    <div style="display: flex;">
+        <div>
+            <img src="Figure\P1_State_Legitimacy.png" alt="1980年の各国人口チャート">
+        </div>
+        <div style="margin-left: 20px; flex: 1;">
+            <h1>P1: 国家の正統性</h1>
+            <p>国家の正統性指標は、政府の代表性や開放性、および市民との関係を考慮します。この指標は、国家機関やプロセスに対する国民の信頼の度合いを見て、その信頼が欠如している場合の影響を評価します。これには、大規模な公共デモ、持続的な市民不服従、武装反乱の台頭などが含まれます。国家の正統性指標は必ずしも民主的な統治を評価するものではありませんが、選挙が行われる場合はその選挙の公正さ（不正やボイコットされた選挙など）や政治的移行の性質を考慮します。また、民主的な選挙がない場合、政府がどの程度統治対象の国民を代表しているかも評価します。</p>
+            <p>この指標は政府の開放性を評価し、特に支配層が透明性、説明責任、政治的代表性にどれだけ開かれているか、または逆に腐敗、利益追求、反対派の排除や抑圧をどれだけ行っているかを考慮します。また、税収徴収などを通じて、国民が政府や機関に信頼を寄せる基本的な機能を国家が行使できるかどうかも評価します。</p>
+        
+            <h2>検討すべき質問:</h2>
+        
+            <h3>政治プロセスへの信頼</h3>
+            <ul>
+                <li><strong>政府への信頼:</strong> 政府は国民の信頼を得ているか？</li>
+            </ul>
+        
+            <h3>政治的反対派</h3>
+            <ul>
+                <li><strong>平和的なデモ:</strong> 平和的なデモが行われたか？</li>
+                <li><strong>暴動と蜂起:</strong> 暴動が発生したか？</li>
+            </ul>
+        
+            <h3>透明性</h3>
+            <ul>
+                <li><strong>連邦職員の腐敗:</strong> 連邦職員の腐敗の証拠はあるか？</li>
+                <li><strong>腐敗の告発:</strong> 連邦または地方職員は腐敗していると見なされているか？</li>
+            </ul>
+        
+            <h3>政治プロセスの開放性と公正さ</h3>
+            <ul>
+                <li><strong>政治的権利:</strong> すべての政党に政治的権利はあるか？</li>
+                <li><strong>政府の構成:</strong> 政府は国民を代表しているか？</li>
+                <li><strong>指導者の交代:</strong> 最近平和的な権力移行があったか？</li>
+                <li><strong>指導者交代の歴史:</strong> 権力移行の長期的な歴史はどうか？</li>
+                <li><strong>選挙の認識:</strong> 選挙は自由で公正と見なされているか？</li>
+                <li><strong>選挙の監視:</strong> 選挙は監視され、自由かつ公正と報告されたか？</li>
+            </ul>
+        
+            <h3>政治的暴力</h3>
+            <ul>
+                <li><strong>政治的暗殺:</strong> 政治的動機による攻撃や暗殺の報告があるか？</li>
+                <li><strong>武装反乱:</strong> 武装反乱や攻撃の報告があるか？</li>
+                <li><strong>テロリズム:</strong> 自爆攻撃などのテロ攻撃があったか、またその可能性はどのくらいか？</li>
+            </ul>
+        </div>
+        
+        
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('ネットワークエラーが発生しました');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Rank</th><th>Country</th><th>P1_State_Legitimacy</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["P1_State_Legitimacy"]}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>準備中</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/P1_State_Legitimacy.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

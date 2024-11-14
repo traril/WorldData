@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>X1_External_Intervention</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>X1_External_Intervention</span>
+    </nav>
+
+    <a>データソース:FSI 2024</a>
+
+    <div style="display: flex;">
+        <div>
+            <img src="Figure\X1_External_Intervention.png" alt="1980年の各国人口チャート">
+        </div>
+        <div style="margin-left: 20px; flex: 1;">
+            <h1>X1: 外部介入</h1>
+            <p>外部介入指標は、国家の機能、特に安全保障や経済面における外部の影響や影響力を考慮します。一方では、外部介入は、政府、軍、情報機関、アイデンティティグループ、その他の団体による国家内政への秘密または公然の関与が、国家内の権力バランスや紛争解決に影響を及ぼす場合に焦点を当てます。他方では、外部介入は、国際的な組織を含む外部アクターによる大規模な融資、開発プロジェクト、外国援助などの経済的関与にも焦点を当てます。これには、継続的な予算支援、財政の管理、国家経済政策の運営が含まれ、経済的依存を生み出します。外部介入には、国際平和維持活動の展開など、人道的介入も考慮されます。</p>
+        
+            <h2>検討すべき質問:</h2>
+        
+            <h3>政治的介入</h3>
+            <ul>
+                <li><strong>派閥への外部支援:</strong> 政府に反対する派閥への外部支援があるか？</li>
+            </ul>
+        
+            <h3>武力介入</h3>
+            <ul>
+                <li><strong>外国軍の存在:</strong> 外国軍が駐留しているか？</li>
+                <li><strong>国境を越えた軍事攻撃:</strong> 他国からの軍事攻撃が発生しているか？</li>
+                <li><strong>軍事支援:</strong> 外部の軍事支援があるか？</li>
+                <li><strong>軍事訓練:</strong> 他国との軍事訓練が行われているか、または他国からの軍事訓練支援があるか？</li>
+                <li><strong>平和維持活動:</strong> 現地で平和維持活動が行われているか？</li>
+                <li><strong>警察の訓練:</strong> 警察訓練に対する外部支援があるか？</li>
+                <li><strong>秘密介入:</strong> 秘密作戦が行われているか？</li>
+            </ul>
+        
+            <h3>経済的介入</h3>
+            <ul>
+                <li><strong>経済的介入または援助:</strong> 国は経済援助を受けているか？</li>
+                <li><strong>援助への依存:</strong> 国は経済援助に依存しているか？</li>
+            </ul>
+        </div>
+        
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('ネットワークエラーが発生しました');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Rank</th><th>Country</th><th>X1_External_Intervention</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["X1_External_Intervention"]}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>準備中</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/X1_External_Intervention.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

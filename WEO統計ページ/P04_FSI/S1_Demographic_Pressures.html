@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S1_Demographic_Pressures</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>S1_Demographic_Pressures</span>
+    </nav>
+
+    <a>データソース:FSI 2024</a>
+
+    <div style="display: flex;">
+        <div>
+            <img src="Figure\S1_Demographic_Pressures.png" alt="1980年の各国人口チャート">
+        </div>
+        <div style="margin-left: 20px; flex: 1;">
+            <h1>S1: 人口圧力</h1>
+            <p>人口圧力指標は、人口やその周囲の環境から国家にかかる圧力を考慮します。例えば、この指標は、食糧供給、安全な水へのアクセス、その他の生命維持資源、または疾病や疫病の蔓延など健康に関連する人口圧力を測定します。高い人口成長率や「若年層または高齢層の膨張」、対立する共同体間での急激に異なる人口成長率などの人口特性からの圧力を評価し、それらが社会、経済、政治に深刻な影響を及ぼし得ることを認識します。</p>
+            <p>さらに、この指標は極端な気象事象（ハリケーン、地震、洪水、干ばつ）や環境的な危険からの人口への圧力も考慮します。</p>
+        
+            <h2>検討すべき質問:</h2>
+        
+            <h3>人口</h3>
+            <ul>
+                <li><strong>人口成長率:</strong> 人口成長率は持続可能か？</li>
+                <li><strong>人口分布:</strong> 現在および将来の人口分布は妥当か？</li>
+                <li><strong>人口密度:</strong> 人口密度が国家の地域に圧力をかけているか？</li>
+                <li><strong>乳児死亡率:</strong> 乳児死亡率はどのような数値か（実際と予測）？</li>
+                <li><strong>孤児の人口:</strong> 孤児の人口は多いか？</li>
+            </ul>
+        
+            <h3>公衆衛生</h3>
+            <ul>
+                <li><strong>疾病管理:</strong> 疾病やパンデミックの蔓延を制御するシステムがあるか？</li>
+                <li><strong>疾病の流行:</strong> 疫病の高い発生確率や存在があるか？</li>
+                <li><strong>HIVエイズ:</strong> HIVエイズの拡散率はどのような状況か（最新と予測）？</li>
+            </ul>
+        
+            <h3>食料と栄養</h3>
+            <ul>
+                <li><strong>食糧供給:</strong> 供給の中断に対処できる十分な食糧供給があるか？</li>
+                <li><strong>干ばつ:</strong> 干ばつの高い可能性があるか、または現在干ばつが発生しているか？</li>
+                <li><strong>飢餓:</strong> 短期的な食糧不足があり、それを解消する必要があるか？</li>
+                <li><strong>栄養失調:</strong> 長期的な食糧不足が健康に影響を与えているか？</li>
+            </ul>
+        
+            <h3>環境</h3>
+            <ul>
+                <li><strong>環境政策:</strong> 確立された健全な環境政策が存在し、現在の実践は持続可能か？</li>
+                <li><strong>自然災害の可能性:</strong> 自然災害の発生可能性はあるか、繰り返し発生しているか？</li>
+                <li><strong>自然災害の影響:</strong> 自然災害が発生した場合、十分な対応計画があるか？</li>
+                <li><strong>森林破壊:</strong> 森林破壊が行われているか、または森林を保護する法律があるか？</li>
+            </ul>
+        
+            <h3>資源</h3>
+            <ul>
+                <li><strong>資源競争:</strong> 資源競争が存在し、その紛争を仲裁する法律があるか？</li>
+                <li><strong>土地競争:</strong> 土地の競争があり、その紛争を仲裁する法律があるか？</li>
+                <li><strong>水供給:</strong> 十分な飲料水の供給があるか？</li>
+            </ul>
+        </div>
+        
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('ネットワークエラーが発生しました');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Rank</th><th>Country</th><th>S1_Demographic_Pressures</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["S1_Demographic_Pressures"]}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>準備中</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/S1_Demographic_Pressures.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

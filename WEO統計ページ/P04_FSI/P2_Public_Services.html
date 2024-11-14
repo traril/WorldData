@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>P2_Public_Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>P2_Public_Services</span>
+    </nav>
+
+    <a>データソース:FSI 2024</a>
+
+    <div style="display: flex;">
+        <div>
+            <img src="Figure\P2_Public_Services.png" alt="1980年の各国人口チャート">
+        </div>
+        <div style="margin-left: 20px; flex: 1;">
+            <h1>P2: 公共サービス</h1>
+            <p>公共サービス指標は、人々に役立つ基本的な国家機能の存在を指します。一方では、保健、教育、水と衛生、交通インフラ、電気および電力、インターネット接続などの必須サービスの提供を含みます。他方では、効果的な警察活動を通じて、テロや暴力から市民を守る国家の能力をも含みます。さらに、基本的な国家機能とサービスが提供されていても、それが誰に提供されているかが考慮されます。例えば、国家が安全保障機関、大統領府、中央銀行、外交機関など支配エリートを主に支援し、一般国民（特に都市と農村）には同等のサービスを提供していない場合があります。</p>
+            <p>また、一般インフラの水準と維持状態も評価され、その欠如が国家の実際または潜在的な発展に悪影響を及ぼすかどうかも考慮されます。</p>
+        
+            <h2>検討すべき質問:</h2>
+        
+            <h3>公共サービスの一般的な提供</h3>
+            <ul>
+                <li><strong>公共サービスの平等性:</strong> 公共サービスへの平等なアクセスはあるか？</li>
+                <li><strong>公共サービスの一般状況:</strong> 公共サービスの一般的な状況はどうか？</li>
+            </ul>
+        
+            <h3>健康</h3>
+            <ul>
+                <li><strong>薬へのアクセス:</strong> 人々は十分な薬へのアクセスを持っているか？</li>
+                <li><strong>診療所や病院の数:</strong> 人口に対して十分な医療施設があるか？</li>
+                <li><strong>医師の数:</strong> 人口に対して十分な医療専門家がいるか？</li>
+                <li><strong>乳児死亡率:</strong> 乳児死亡率はどのような数値か（実際と予測）？</li>
+                <li><strong>飲料水:</strong> 十分な飲料水供給があるか？</li>
+                <li><strong>衛生:</strong> 衛生システムは十分か？</li>
+            </ul>
+        
+            <h3>教育</h3>
+            <ul>
+                <li><strong>教育の入学率:</strong> 学校の入学率はどの程度か？男子と女子で違いはあるか？</li>
+                <li><strong>識字率:</strong> 識字率はどの程度か？男子と女子で違いはあるか？</li>
+            </ul>
+        
+            <h3>住居</h3>
+            <ul>
+                <li><strong>住居へのアクセス:</strong> 貧困層は適切な住居にアクセスできるか？</li>
+                <li><strong>住宅費用:</strong> 住宅費用は一般経済に見合ったものか？</li>
+            </ul>
+        
+            <h3>インフラ</h3>
+            <ul>
+                <li><strong>道路:</strong> 道路は十分かつ安全か？</li>
+                <li><strong>空港:</strong> 持続可能な発展のために十分な空港があるか？</li>
+                <li><strong>鉄道:</strong> 持続可能な発展のために十分な鉄道があるか？</li>
+                <li><strong>燃料供給:</strong> 十分な燃料供給があるか？</li>
+            </ul>
+        </div>
+        
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('ネットワークエラーが発生しました');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Rank</th><th>Country</th><th>P2_Public_Services</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["P2_Public_Services"]}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>準備中</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/P2_Public_Services.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E2_Economic_Inequality</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>E2_Economic_Inequality</span>
+    </nav>
+
+    <a>データソース:FSI 2024</a>
+
+    <div style="display: flex;">
+        <div>
+            <img src="Figure\E2_Economic_Inequality.png" alt="1980年の各国人口チャート">
+        </div>
+        <div style="margin-left: 20px; flex: 1;">
+            <h1>E2: 経済発展の不均衡</h1>
+            <p>経済発展の不均衡指標は、経済の実際のパフォーマンスとは関係なく、経済内の不平等を考慮します。たとえば、この指標は、人種、民族、宗教などの集団に基づく構造的不平等や、教育、経済的地位、地域（都市と農村の格差など）に基づく不平等を評価します。実際の不平等だけでなく、不平等の認識も考慮され、不平等に対する認識が現実の不平等と同じように不満を助長し、共同体間の緊張や国家主義的な修辞を強化する可能性があることを認識しています。経済的不平等の測定に加えて、この指標は、雇用、教育、職業訓練へのアクセスを通じて、集団が経済的地位を改善する機会を考慮します。これにより、経済的不平等が存在する場合でも、それがどの程度構造的かつ強化されているかが測定されます。</p>
+        
+            <h2>検討すべき質問:</h2>
+        
+            <h3>経済的平等</h3>
+            <ul>
+                <li><strong>経済的平等 – 格差:</strong> 経済的格差が大きいか？</li>
+                <li><strong>差別的な経済システム:</strong> 経済システムは差別的か？</li>
+                <li><strong>経済的正義:</strong> 経済的正義は存在するか？</li>
+                <li><strong>採用慣行:</strong> 採用慣行は法的にも他者の認識においても公平か？</li>
+                <li><strong>社会制度:</strong> 社会に平等な権利は存在するか？</li>
+                <li><strong>平等権法:</strong> 平等権を保護する法律は存在するか？</li>
+            </ul>
+        
+            <h3>経済的機会</h3>
+            <ul>
+                <li><strong>無料教育:</strong> 無料の教育は存在し、どの学年まで提供されているか？</li>
+                <li><strong>平等な教育:</strong> 提供される教育は比較的平等か？</li>
+                <li><strong>公平な住宅:</strong> 貧困層向けの住宅制度はあるか？</li>
+                <li><strong>職業訓練:</strong> 職業訓練プログラムは存在するか？</li>
+                <li><strong>職業訓練へのアクセス:</strong> 人々は職業訓練について知っており、資格やニーズに基づいて利用できるか？</li>
+            </ul>
+        
+            <h3>社会経済的動態</h3>
+            <ul>
+                <li><strong>ゲットーやスラム:</strong> ゲットーやスラムが存在するか？</li>
+            </ul>
+        </div>
+        
+        
+        
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('ネットワークエラーが発生しました');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Rank</th><th>Country</th><th>E2_Economic_Inequality</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["E2_Economic_Inequality"]}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>準備中</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/E2_Economic_Inequality.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

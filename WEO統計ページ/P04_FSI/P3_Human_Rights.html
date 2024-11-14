@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>P3_Human_Rights</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>P3_Human_Rights</span>
+    </nav>
+
+    <a>データソース:FSI 2024</a>
+
+    <div style="display: flex;">
+        <div>
+            <img src="Figure\P3_Human_Rights.png" alt="1980年の各国人口チャート">
+        </div>
+        <div style="margin-left: 20px; flex: 1;">
+            <h1>P3: 人権と法の支配</h1>
+            <p>人権と法の支配指標は、基本的な人権が保護され、自由が尊重される範囲において国家とその国民の関係を考慮します。この指標は、個人、集団、機関の法的、政治的、社会的権利が広範に侵害されているかどうかを評価します（例：報道機関への嫌がらせ、司法の政治化、政治的目的のための国内軍の使用、政治的反対派の弾圧）。また、民間人に対する政治的動機による暴力の発生も考慮されます。さらに、政治犯や反体制派に対する国際的な基準と慣行に沿った適正手続きの否認、憲法および民主的な制度やプロセスの停止や操作を伴う現在または新たな独裁的、軍事的支配があるかどうかも評価されます。</p>
+        
+            <h2>検討すべき質問:</h2>
+        
+            <h3>市民的および政治的権利</h3>
+            <ul>
+                <li><strong>権利:</strong> 共同体、労働、政治、少数派の権利は存在し、保護されているか？</li>
+                <li><strong>市民権:</strong> 市民権を保護する法律はあるか？市民権は保護されているか？</li>
+                <li><strong>生存権:</strong> すべての市民の生存権は保護されているか？</li>
+            </ul>
+        
+            <h3>市民的および政治的自由</h3>
+            <ul>
+                <li><strong>言論の自由:</strong> 言論の自由を保護する法律はあるか？</li>
+                <li><strong>移動の自由:</strong> 移動の自由はあるか？</li>
+                <li><strong>宗教の自由:</strong> 宗教の自由は存在するか？宗教的過激主義は存在するか？</li>
+            </ul>
+        
+            <h3>権利の侵害</h3>
+            <ul>
+                <li><strong>権利の体系的な侵害:</strong> 政府やその関連機関による権利の体系的な侵害の歴史があるか？</li>
+                <li><strong>拷問:</strong> 国家またはグループが支援する拷問の報告があるか？</li>
+                <li><strong>強制労働:</strong> 労働法や強制労働の報告があるか？</li>
+                <li><strong>児童労働:</strong> 児童労働法や児童労働の報告があるか？</li>
+                <li><strong>強制移住:</strong> 集団が強制的に移住させられているか？移住が行われた場合、適切な補償を保証する制度があるか？</li>
+            </ul>
+        
+            <h3>開放性</h3>
+            <ul>
+                <li><strong>独立したメディアの存在:</strong> 独立したメディアは存在するか？その記者は権力者に対する告発を自由に報道できているか？</li>
+                <li><strong>情報へのアクセス:</strong> 情報への平等なアクセスはあるか？</li>
+            </ul>
+        
+            <h3>正義</h3>
+            <ul>
+                <li><strong>法制度:</strong> 権利が保護されない場合、それを対処できる法制度があるか？</li>
+                <li><strong>公正な裁判:</strong> 被告は公平かつ迅速な裁判を受けるか？これはすべての人に等しく適用されるか？</li>
+                <li><strong>恣意的な逮捕:</strong> 恣意的な逮捕の告発や報告があるか？それは国家の支援によるものか？</li>
+                <li><strong>違法な拘禁:</strong> 違法な拘禁の告発や報告があるか？それは国家の支援によるものか？</li>
+                <li><strong>刑務所の状況:</strong> 刑務所の状況はどうか？</li>
+            </ul>
+        
+            <h3>平等</h3>
+            <ul>
+                <li><strong>権力の共有:</strong> 政治的権力の共有を促進するプロセスや制度はあるか？</li>
+            </ul>
+        </div>
+        
+        
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('ネットワークエラーが発生しました');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Rank</th><th>Country</th><th>P3_Human_Rights</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["P3_Human_Rights"]}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>準備中</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/P3_Human_Rights.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

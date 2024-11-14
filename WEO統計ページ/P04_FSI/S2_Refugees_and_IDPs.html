@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S2_Refugees_and_IDPs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>S2_Refugees_and_IDPs</span>
+    </nav>
+
+    <a>データソース:FSI 2024</a>
+
+    <div style="display: flex;">
+        <div>
+            <img src="Figure\S2_Refugees_and_IDPs.png" alt="1980年の各国人口チャート">
+        </div>
+        <div style="margin-left: 20px; flex: 1;">
+            <h1>S2: 難民と国内避難民 (IDPs)</h1>
+            <p>難民と国内避難民指標は、社会的、政治的、環境的またはその他の理由による大規模なコミュニティの強制移住によって引き起こされる国家への圧力を測定します。この指標は、国内での移動および他国への難民流入を測定し、難民の受け入れ国ごとの人口流入が公共サービスに追加の圧力をかけ、受け入れ国が吸収能力や十分な資源を持たない場合、広範な人道的・安全保障上の課題を引き起こす可能性があることを認識します。また、暴力や環境、健康疫病などによる国家内部の圧力を示す、難民および国内避難民の発生国ごとの測定も行います。これらの指標は、国家の人口（1人当たり）や人間開発の軌跡、年ごとの急増を考慮し、一部のIDPや難民は長期間にわたって避難している可能性があることを認識しています。</p>
+        
+            <h2>検討すべき質問:</h2>
+        
+            <h3>難民</h3>
+            <ul>
+                <li><strong>難民の流入:</strong> 隣国から難民が来る可能性はあるか？</li>
+                <li><strong>難民の影響:</strong> 予測されるおよび実際の難民に対応するための資源はあるか？</li>
+                <li><strong>難民キャンプの増加:</strong> 十分な難民キャンプがあるか、または難民がコミュニティに統合されているか？</li>
+                <li><strong>難民に対する暴力:</strong> 難民に対する暴力の報告があるか？</li>
+                <li><strong>難民キャンプの安全性:</strong> 難民キャンプの条件は安全か？</li>
+            </ul>
+        
+            <h3>国内避難民 (IDPs)</h3>
+            <ul>
+                <li><strong>IDPの数:</strong> 人口に対してどの程度のIDPがいるか？</li>
+                <li><strong>IDPの増加:</strong> 近い将来、IDPが増加する可能性はあるか？</li>
+                <li><strong>IDPの影響:</strong> 予測されるおよび実際のIDPに対応するための資源はあるか？</li>
+            </ul>
+        
+            <h3>避難への対応</h3>
+            <ul>
+                <li><strong>救援活動:</strong> 難民および/またはIDPのために国際社会からの追加資源へのアクセスはあるか？</li>
+                <li><strong>移転および定住:</strong> 現在のIDPおよび/または難民の移転と定住の計画はあるか？</li>
+            </ul>
+        </div>
+        
+        
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('ネットワークエラーが発生しました');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Rank</th><th>Country</th><th>S2_Refugees_and_IDPs</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Rank}</td><td>${item.Country}</td><td>${item["S2_Refugees_and_IDPs"]}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>準備中</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/S2_Refugees_and_IDPs.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

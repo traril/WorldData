@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>G8minusUS</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>G8minusUS</span>
+    </nav>
+    
+    <article>
+        <p>G8minusUS</p>
+    </article>
+
+    <a>データソース:worldbank 更新予定:毎月4日</a>
+
+    <div style="display: flex;">
+        <div>
+            <img src="Figure\G8minusUS.png" alt="G8minusUSのチャート">
+        </div>
+        <div style="margin-left: 20px; flex: 1;">
+                <h2>G8minusUSのGDP推移に関する考察 (AI生成)</h2>
+                <p>このグラフは、「G8minusUS」というタイトルが示す通り、アメリカを除いたG8諸国のGDP（10億ドル単位）の推移を1980年から2030年まで示しています。以下に、主な観察点を述べます。</p>
+            
+                <h3>1. 日本の経済成長と停滞</h3>
+                <p>日本（灰色のライン）は、1980年代から1990年代初頭にかけて急激にGDPが増加しています。この時期は「バブル経済」として知られており、急成長が見られました。しかし、1990年代初頭以降は停滞期に入り、バブル崩壊後の低成長が続いています。グラフからは2000年以降、GDPがほぼ横ばいで推移していることが確認できます。</p>
+            
+                <h3>2. ドイツの堅実な成長</h3>
+                <p>ドイツ（オレンジ色のライン）は安定した成長を見せています。特に2000年代以降は持続的にGDPが増加し、他のヨーロッパ諸国の中で最も高い経済規模を維持しています。</p>
+            
+                <h3>3. イギリスとフランスの類似したパターン</h3>
+                <p>イギリス（黄色の線）とフランス（青色の線）は、全体的に類似した成長パターンを示しています。1990年代から2000年代にかけては順調に成長していますが、2008年の金融危機やその後のヨーロッパの経済危機の影響を受けているようです。2020年に向けては緩やかな回復を見せていますが、成長速度はドイツに比べてやや劣るように見えます。</p>
+            
+                <h3>4. イタリアとカナダの成長停滞</h3>
+                <p>イタリア（緑色のライン）とカナダ（水色の線）は、1980年代から1990年代にかけて緩やかな成長を見せていますが、2000年代以降は停滞しています。特にイタリアは、2000年以降GDPの伸びがほとんど見られません。カナダも2000年代半ばに一度ピークを迎えた後、横ばいとなっています。</p>
+            
+                <h3>5. ロシアの変動</h3>
+                <p>ロシア（灰色のライン）は、1990年代初頭に急落していますが、これはソビエト連邦崩壊後の経済危機を反映しています。その後は2000年代に入り回復し、徐々に成長しています。しかし、ロシアのGDPは依然として不安定で、特に2010年以降は緩やかな成長を見せながらも、他の主要国に追い付くことはできていません。</p>
+            
+                <h3>6. 将来の見通し</h3>
+                <p>2030年の予測にかけて、G8諸国全体は大きな変化がない見込みです。特に、ドイツが依然としてG8の中で最も高いGDPを維持し、他の国々は相対的に成長が鈍化しているように見えます。</p>
+            
+                <h3>結論</h3>
+                <p>このグラフは、アメリカを除いたG8諸国がどのように成長してきたかを示しており、日本の停滞やドイツの安定した成長、ロシアの不安定さが顕著です。これらの国々のGDPは過去数十年で大きな変化が見られたものの、近年では成長の鈍化が見られ、全体的な経済成長は限られたものになっていることがわかります。</p>
+        </div>
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('ネットワークエラーが発生しました');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Date</th><th>France</th><th>Germany</th><th>Japan</th><th>UnitedKingdom</th><th>Canada</th><th>Italy</th><th>Russia</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Date}</td><td>${item.France}</td><td>${item.Germany}</td><td>${item.Japan}</td><td>${item.UnitedKingdom}</td><td>${item.Canada}</td><td>${item.Italy}</td><td>${item.Russia}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>データの読み込み中にエラーが発生しました。後でもう一度お試しください。</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/G8minusUS.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

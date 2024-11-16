@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>G8plusChina</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>G8plusChina</span>
+    </nav>
+    
+    <article>
+        <p>G8plusChina</p>
+    </article>
+
+    <a>データソース:worldbank 更新予定:毎月4日</a>
+
+    <div style="display: flex;">
+        <div>
+            <img src="Figure\G8plusChina.png" alt="G8plusChinaのチャート">
+        </div>
+        <div style="margin-left: 20px; flex: 1;">
+                <h2>G8諸国および中国のGDP推移に関する考察 (AI生成)</h2>
+                <p>このグラフは、1970年から2030年までのG8諸国および中国のGDP（10億ドル単位）の推移を示しています。以下に主要な観察点をまとめます。</p>
+            
+                <h3>1. アメリカ合衆国の圧倒的なGDP</h3>
+                <p>1970年から2020年にかけて、アメリカ合衆国（緑の線）は他国と比較して圧倒的に高いGDPを保ち続けています。特に2000年代以降、その成長は顕著であり、2020年には約20,000億ドルを超える規模に達しています。これはG8諸国の中でも圧倒的な経済力を持っていることを示しています。</p>
+            
+                <h3>2. 中国の急速な経済成長</h3>
+                <p>中国（青のダイヤモンド型ライン）は、2000年以降急速にGDPを伸ばし、特に2010年以降その成長速度は顕著です。2020年には他国を抜き去り、アメリカに次ぐ規模にまで拡大しています。2030年の予測でも成長が続くことが示されており、アメリカとの差が縮まっていることが読み取れます。</p>
+            
+                <h3>3. その他のG8諸国の横ばい</h3>
+                <p>フランス、ドイツ、日本、イギリス、カナダ、イタリア、ロシアなどの他のG8諸国は、1980年代から2020年代にかけてGDPの成長が比較的緩やかです。これらの国々は一定の経済規模を維持していますが、中国やアメリカと比べると成長速度は低く、全体的な順位は安定しているように見えます。</p>
+            
+                <h3>4. 日本の停滞</h3>
+                <p>日本（黄色の×印）は1980年代後半から1990年代初頭にかけて急成長を見せましたが、その後は停滞しています。特に2000年代以降はほぼ横ばいであり、経済成長が鈍化していることが明らかです。</p>
+            
+                <h3>5. ロシアの特異な動き</h3>
+                <p>ロシア（灰色の線）は、特に1990年代初頭にGDPが急落し、その後回復している様子が見られます。これは、ソビエト連邦の崩壊に伴う経済混乱を反映していると考えられます。</p>
+            
+                <h3>6. 今後の見通し</h3>
+                <p>2030年の予測を見ると、中国の経済が引き続き成長し、アメリカとの差がさらに縮まることが示されています。一方、他のG8諸国は大きな変化がない見通しです。</p>
+            
+                <h3>結論</h3>
+                <p>このグラフは、アメリカの持続的な経済的優位性と、中国の急速な台頭を強調しています。他のG8諸国は相対的な成長が緩やかであり、アメリカや中国のような劇的な変化は見られません。今後も中国が成長を続ける一方、他の国々は新たな成長戦略が求められるでしょう。</p>
+            
+        </div>
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('ネットワークエラーが発生しました');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Date</th><th>China</th><th>France</th><th>Germany</th><th>Japan</th><th>UnitedKingdom</th><th>UnitedStates</th><th>Canada</th><th>Italy</th><th>Russia</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Date}</td><td>${item.China}</td><td>${item.France}</td><td>${item.Germany}</td><td>${item.Japan}</td><td>${item.UnitedKingdom}</td><td>${item.UnitedStates}</td><td>${item.Canada}</td><td>${item.Italy}</td><td>${item.Russia}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>データの読み込み中にエラーが発生しました。後でもう一度お試しください。</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/G8plusChina.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

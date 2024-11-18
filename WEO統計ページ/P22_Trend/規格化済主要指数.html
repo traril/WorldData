@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>規格化済主要指数</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>規格化済主要指数</span>
+    </nav>
+    
+    <article>
+        <p>規格化済主要指数</p>
+    </article>
+
+    <a>データソース:YahooFinance API 更新予定:毎月1日</a>
+
+    <div style="display: flex;">
+        <div>
+            <img src="Figure\規格化済主要指数.png" alt="G8plusChinaのチャート">
+        </div>
+        <div style="margin-left: 20px; flex: 1;">
+            <h1>株価指数の考察 (AI生成)</h1>
+            <p>このグラフは、日経平均株価（<strong>^N225</strong>）、ダウ平均株価（<strong>^DJI</strong>）、およびナスダック総合指数（<strong>^IXIC</strong>）の1992年1月6日を基準として100に正規化された株価の推移を示しています。1992年から2022年にかけての長期的な株価の動向を比較しています。</p>
+            
+            <h2>主な観察点</h2>
+            <ul>
+                <li><strong>ナスダック総合指数（^IXIC）の急激な上昇</strong>: 
+                    グラフからは、特にナスダック総合指数が2000年のドットコムバブルとその後の2008年の金融危機を経て、2010年代後半から2020年代にかけて著しく上昇していることがわかります。この動きはテクノロジー株の成長を反映しており、特にインターネットやIT企業が牽引してきたと考えられます。
+                </li>
+                <li><strong>ダウ平均株価（^DJI）の安定した成長</strong>: 
+                    ダウ平均株価は長期にわたり比較的緩やかで安定した成長を見せています。周期的な経済の変動（例: 2008年のリーマンショックや2020年のCOVID-19パンデミック）により一時的な下降も見られますが、全体としては右肩上がりです。
+                </li>
+                <li><strong>日経平均株価（^N225）の停滞</strong>: 
+                    日経平均株価は、1990年代初頭のバブル崩壊後に長期間低迷し、その後も他の主要株価指数と比較して成長が緩やかです。この停滞は、日本の経済がバブル崩壊後に失われた10年（その後さらに長引いた「失われた20年」）を経験したことや、デフレや少子高齢化の問題を抱え続けたことが原因と考えられます。
+                </li>
+            </ul>
+            
+            <h2>考察</h2>
+            <p>
+                <strong>ナスダックのパフォーマンス</strong>は、技術革新とそれに伴う新興企業の成長を反映しており、テクノロジーセクターの拡大が米国経済を牽引してきたことがわかります。<br>
+                <strong>ダウ平均の成長</strong>は伝統的な大型株や安定した企業によって構成されており、米国の経済基盤が強固であることを示しています。<br>
+                <strong>日経平均の停滞</strong>は、日本経済が直面した構造的課題を象徴しています。アベノミクスなどの政策によってある程度の回復は見られましたが、グローバルな競争や国内の課題によって他の指数ほど成長していません。
+            </p>
+            <p>このグラフは、特に投資家や経済学者にとって、各国の経済成長や産業構造の違いを考慮する上で有益な情報を提供しています。</p>
+        </div>
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('作成中');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Date</th><th>China</th><th>France</th><th>Germany</th><th>Japan</th><th>UnitedKingdom</th><th>UnitedStates</th><th>Canada</th><th>Italy</th><th>Russia</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Date}</td><td>${item.China}</td><td>${item.France}</td><td>${item.Germany}</td><td>${item.Japan}</td><td>${item.UnitedKingdom}</td><td>${item.UnitedStates}</td><td>${item.Canada}</td><td>${item.Italy}</td><td>${item.Russia}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>作成中</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/規格化済主要指数.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

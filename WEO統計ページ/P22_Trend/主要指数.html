@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>主要指数</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>主要指数</span>
+    </nav>
+    
+    <article>
+        <p>主要指数</p>
+    </article>
+
+    <a>データソース:YahooFinance API 更新予定:毎月1日</a>
+
+    <div style="display: flex;">
+        <div>
+            <img src="Figure\主要指数.png" alt="G8plusChinaのチャート">
+        </div>
+        <div style="margin-left: 20px; flex: 1;">
+            <h2>グラフ考察 (AI生成)</h2>
+            <p>このグラフは、日経平均株価（N225）、ダウ・ジョーンズ工業株価平均（DJI）、ナスダック総合指数（IXIC）の長期的な推移を示しています。以下はその主要な特徴と考察です。</p>
+        
+            <h3>1. 長期的なトレンド</h3>
+            <ul>
+                <li><strong>日経平均株価（N225）:</strong>
+                    <ul>
+                        <li>1960年代から上昇を続け、1980年代後半に急上昇し、1989年末にバブル期のピークを迎える。</li>
+                        <li>1990年代初頭からバブル崩壊後に急激に下落し、その後長期間低迷。</li>
+                        <li>2000年代後半から回復傾向が見られるが、1989年のピークには達していない。</li>
+                    </ul>
+                </li>
+                <li><strong>ダウ・ジョーンズ工業株価平均（DJI）:</strong>
+                    <ul>
+                        <li>一貫して緩やかな上昇傾向を示し、ITバブルやリーマンショックを経ても長期的には成長を続ける。</li>
+                        <li>2010年代以降、大幅な上昇を見せる。</li>
+                    </ul>
+                </li>
+                <li><strong>ナスダック総合指数（IXIC）:</strong>
+                    <ul>
+                        <li>1990年代後半のITバブルで急激に上昇。</li>
+                        <li>2000年のバブル崩壊後に一時下落したが、2000年代後半以降、顕著な成長を遂げる。</li>
+                        <li>テクノロジー関連企業の成長が指数に大きく影響。</li>
+                    </ul>
+                </li>
+            </ul>
+        
+            <h3>2. 市場の特徴</h3>
+            <ul>
+                <li><strong>日経平均のバブル期とその崩壊:</strong>
+                    <ul>
+                        <li>1980年代後半の日本のバブル経済は株価と不動産価格の高騰が背景。</li>
+                        <li>バブル崩壊後、長期的な株価の停滞が続く。</li>
+                    </ul>
+                </li>
+                <li><strong>アメリカ市場の安定成長:</strong>
+                    <ul>
+                        <li>ダウ・ジョーンズとナスダックは長期的に上昇を続け、特に2000年代後半以降に成長。</li>
+                        <li>リーマンショック後の回復が顕著。</li>
+                    </ul>
+                </li>
+            </ul>
+        
+            <h3>3. 最近の動向</h3>
+            <ul>
+                <li>2020年代に入り、コロナ禍による一時的な下落が見られるが、その後の金融緩和や経済回復により急速に回復。</li>
+                <li>ナスダックは引き続き高成長を維持し、テクノロジー株の人気が背景。</li>
+            </ul>
+        
+            <h3>結論</h3>
+            <p>このグラフから、日経平均がバブル崩壊後に長期間停滞しているのに対し、アメリカ市場は安定して成長していることが分かります。特に、ナスダックの成長はテクノロジー企業の台頭や投資家の信頼によるものです。</p>
+        </div>
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('作成中');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Date</th><th>China</th><th>France</th><th>Germany</th><th>Japan</th><th>UnitedKingdom</th><th>UnitedStates</th><th>Canada</th><th>Italy</th><th>Russia</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Date}</td><td>${item.China}</td><td>${item.France}</td><td>${item.Germany}</td><td>${item.Japan}</td><td>${item.UnitedKingdom}</td><td>${item.UnitedStates}</td><td>${item.Canada}</td><td>${item.Italy}</td><td>${item.Russia}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>作成中</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/主要指数.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

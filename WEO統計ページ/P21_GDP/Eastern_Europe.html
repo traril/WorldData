@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eastern_Europe</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>Eastern_Europe</span>
+    </nav>
+    
+    <article>
+        <p>Eastern_Europe</p>
+    </article>
+
+    <a>データソース:worldbank 更新予定:毎月4日</a>
+
+    <div style="display: flex;">
+        <div>
+            <img src="Figure\Eastern_Europe.png" alt="Eastern_Europeのチャート">
+        </div>
+        <div style="margin-left: 20px; flex: 1;">
+            <h2>東ヨーロッパ諸国のGDP考察 (AI生成)</h2>
+            <p>このグラフは、1990年から2023年にかけての東ヨーロッパのいくつかの国（アルメニア、アゼルバイジャン、ベラルーシ、ジョージア、モルドバ、ロシア、ウクライナ）のGDP（10億ドル単位）の推移を示しています。以下に各国のGDPの動向を考察します。</p>
+            
+            <h3>1. ロシア</h3>
+            <p>ロシアは他の国々と比べ、圧倒的に高いGDPを示しており、特に2000年代初頭から2010年代半ばにかけて大きな成長を遂げました。この成長は石油や天然ガスなどのエネルギー資源の輸出に大きく依存していると考えられます。しかし、2014年の経済制裁や原油価格の下落により、一時的にGDPが減少していることがわかります。その後も変動を繰り返し、2020年以降の新たな成長の兆しが見られますが、依然として不安定な要素があると推察されます。</p>
+            
+            <h3>2. ウクライナ</h3>
+            <p>ウクライナのGDPは比較的低い水準であり、安定した成長が難しい状況を示しています。特に2014年のロシアとの紛争や経済的混乱の影響でGDPが落ち込んでいることが確認できます。その後は回復の兆しを見せているものの、完全な安定には至っていないようです。</p>
+            
+            <h3>3. アルメニア、アゼルバイジャン、ベラルーシ、ジョージア、モルドバ</h3>
+            <p>これらの国々のGDPは、全体的に低水準で推移しており、緩やかな成長が見られます。アゼルバイジャンは比較的他の国々より高いGDPを示し、これは同国の石油・天然ガス資源の影響が大きいと考えられます。他の国々は資源や産業の制約から、GDPの成長が限定的です。</p>
+            <p>アルメニアやジョージア、モルドバは近年微増傾向にありますが、大規模な経済成長は見られません。</p>
+            
+            <h3>4. 総合的な観察</h3>
+            <p>グラフから明らかなのは、ロシアが地域の中で最も経済力を有していることです。これは同国の豊富な資源や広大な市場に依存していると考えられます。しかし、変動の幅も大きく、外部要因による影響を受けやすい経済構造であることがわかります。</p>
+            <p>他の国々は全体的にGDPが比較的小さく、地理的、政治的、経済的な制約が経済成長に影響を与えていると考えられます。</p>           
+        </div>
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('ネットワークエラーが発生しました');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Date</th><th>France</th><th>Germany</th><th>Japan</th><th>UnitedKingdom</th><th>Canada</th><th>Italy</th><th>Russia</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Date}</td><td>${item.France}</td><td>${item.Germany}</td><td>${item.Japan}</td><td>${item.UnitedKingdom}</td><td>${item.Canada}</td><td>${item.Italy}</td><td>${item.Russia}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>準備中</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/Eastern_Europe.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

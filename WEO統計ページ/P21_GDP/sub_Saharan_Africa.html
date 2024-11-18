@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sub_Saharan_Africa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>sub_Saharan_Africa</span>
+    </nav>
+    
+    <article>
+        <p>sub_Saharan_Africa</p>
+    </article>
+
+    <a>データソース:worldbank 更新予定:毎月4日</a>
+
+    <div style="display: flex;">
+        <div>
+            <img src="Figure\sub_Saharan_Africa.png" alt="sub_Saharan_Africaのチャート">
+        </div>
+        <div style="margin-left: 20px; flex: 1;">
+            <h2>サハラ以南アフリカ諸国のGDP考察</h2>
+            <p>このグラフは、サハラ以南のアフリカ地域のいくつかの国の1970年から2030年までのGDPの推移を示しています。GDPは10億ドル単位で表されています。以下はグラフの考察です。</p>
+            
+            <h3>1. アンゴラ</h3>
+            <p>アンゴラのGDPは1990年代後半から急激に成長し、2010年頃にはピークを迎えています。この成長は、主に石油資源の採掘と輸出に関連していると考えられます。しかし、その後はピークから減少と不安定な変動が見られます。これは石油価格の変動や国内の経済問題が影響した可能性があります。</p>
+            
+            <h3>2. カメルーン</h3>
+            <p>カメルーンのGDPは1970年代以降、持続的に増加しており、他の国と比べて安定した成長を示しています。急激な変動は少なく、緩やかな経済成長が続いていることから、他の国と比較して経済の多様化や安定が示唆されます。</p>
+            
+            <h3>3. ボツワナ</h3>
+            <p>ボツワナは、安定した小幅な成長を見せています。ダイヤモンドなどの鉱業が経済を支える一方で、持続的な経済政策の成果も見られると言えます。</p>
+            
+            <h3>4. ベナン、ブルンジ、ブルキナファソ、中央アフリカ共和国</h3>
+            <p>これらの国々のGDPは比較的低水準で、緩やかに増加していますが、特に大きな急成長は見られません。これらの国々では、政治的不安定さやインフラの未発達などが経済成長の制約となっている可能性があります。</p>
+            
+            <h3>5. 総合的な観察</h3>
+            <p>全体的に見て、アンゴラのような天然資源に依存する国は大きな成長とそれに続く不安定な変動が見られ、一方、カメルーンのように比較的安定して成長している国も存在します。また、他の国々は成長はあるものの緩やかで、全体のGDP水準も低いままです。</p>
+            
+            <p>このグラフは、サハラ以南のアフリカ諸国の経済成長が各国の資源や政策に大きく依存していることを示唆しており、特に天然資源に恵まれた国とそうでない国の成長パターンに明確な違いがあることを表しています。</p>
+        </div>
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('ネットワークエラーが発生しました');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Date</th><th>France</th><th>Germany</th><th>Japan</th><th>UnitedKingdom</th><th>Canada</th><th>Italy</th><th>Russia</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Date}</td><td>${item.France}</td><td>${item.Germany}</td><td>${item.Japan}</td><td>${item.UnitedKingdom}</td><td>${item.Canada}</td><td>${item.Italy}</td><td>${item.Russia}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>準備中</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/sub_Saharan_Africa.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

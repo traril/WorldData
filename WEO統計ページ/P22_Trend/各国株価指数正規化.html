@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>各国株価指数正規化</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #333;
+        }
+        th, td {
+            padding: 5px;
+            text-align: left;
+        }
+        .separator {
+            margin: 20px 0;
+            height: 2px;
+            background-color: #333;
+        }
+        #tableContainer1 {
+            max-height: 400px;
+            overflow-y: auto;
+            border: 1px solid #333;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WorldData</h1>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>各国株価指数正規化</span>
+    </nav>
+    
+    <article>
+        <p>各国株価指数正規化</p>
+    </article>
+
+    <a>データソース:YahooFinance API 更新予定:毎月1日</a>
+
+    <div style="display: flex;">
+        <div>
+            <img src="Figure\各国株価指数正規化.png" alt="G8plusChinaのチャート">
+        </div>
+        
+            <div style="margin-left: 20px; flex: 1;">
+                <h1>株価指数の考察</h1>
+                <p>このグラフは、2000年10月16日を基準（100）として、各国の株価指数を正規化し、比較したものです。主要な市場の動向を示しており、それぞれの経済や株式市場の成長速度の違いが可視化されています。</p>
+                
+                <h2>主な観察点</h2>
+                <ol>
+                    <li><strong>ジャカルタ総合指数（インドネシア）の著しい成長</strong>
+                        <p>インドネシアのジャカルタ総合指数は、他の国と比較して圧倒的な成長を見せています。基準値（100）から約2000以上に達しており、インドネシアの経済成長や新興市場としての強いパフォーマンスが反映されています。インフラ投資、人口増加、国内消費の拡大が成長を支えた要因と考えられます。</p>
+                    </li>
+                    <li><strong>アメリカ（ナスダック・ダウ平均）の安定的な上昇</strong>
+                        <p>ナスダックはITバブル崩壊後の回復から現在に至るまで、ハイテク産業の発展が大きく寄与しました。特に2010年代以降、テクノロジー企業（GAFAなど）の成長が顕著です。</p>
+                    </li>
+                    <li><strong>日本（日経平均）の相対的な停滞</strong>
+                        <p>日経平均は、長期的には緩やかな上昇を見せているものの、他の市場に比べて成長率が低いです。バブル崩壊後の低成長、人口減少、デフレなどが長期的な課題として影響しています。</p>
+                    </li>
+                    <li><strong>韓国（KOSPI・KOSDAQ）の堅調な成長</strong>
+                        <p>韓国の株式市場はハイテク・半導体産業の成長によって支えられています。ただし、2010年代後半には成長の鈍化が見られます。</p>
+                    </li>
+                    <li><strong>シンガポール（ストレーツタイムズ指数）の緩やかな上昇</strong>
+                        <p>シンガポールの市場は安定していますが、他の新興市場（インドネシア）ほどの成長は見られません。成熟市場としての特徴が表れています。</p>
+                    </li>
+                    <li><strong>マレーシア（クアラルンプール総合指数）の横ばい傾向</strong>
+                        <p>他の市場と比較して成長が限定的であり、原材料価格の影響や政治的な不安定さが影響していると考えられます。</p>
+                    </li>
+                </ol>
+            
+                <h2>全体的なトレンド</h2>
+                <p>新興市場（インドネシア、韓国）は高い成長率を示しており、グローバル経済の牽引役になっています。一方で、先進国市場（日本、アメリカ）は成熟市場として安定的な動きを見せています。</p>
+            
+                <h2>考察と今後の注目点</h2>
+                <ul>
+                    <li><strong>インドネシアの持続可能性:</strong> ジャカルタ総合指数は著しい成長を遂げていますが、外資依存や経済構造の脆弱性が課題として残ります。</li>
+                    <li><strong>日本の再活性化の可能性:</strong> 成長率が低迷している日本市場は、経済構造改革やデジタル化の推進が必要です。</li>
+                    <li><strong>グローバル経済の分極化:</strong> 新興市場と先進国市場の間で成長格差が広がっており、世界経済全体のバランスへの影響が注目されます。</li>
+                </ul>
+            </div>
+
+
+    </div>
+
+    <div class="separator"></div>
+
+    <div id="tableContainer1"></div>
+
+    <script>
+        // JSONファイルを読み込み、データをテーブルに変換する関数
+        function loadJSONAndDisplay(url, containerId) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('作成中');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    let tableHtml = "<table><thead><tr>";
+
+                    // ヘッダー行の生成
+                    tableHtml += `<th>Date</th><th>China</th><th>France</th><th>Germany</th><th>Japan</th><th>UnitedKingdom</th><th>UnitedStates</th><th>Canada</th><th>Italy</th><th>Russia</th>`;
+                    tableHtml += "</tr></thead><tbody>";
+
+                    // データ行の生成
+                    data.forEach(item => {
+                        tableHtml += "<tr>";
+                        tableHtml += `<td>${item.Date}</td><td>${item.China}</td><td>${item.France}</td><td>${item.Germany}</td><td>${item.Japan}</td><td>${item.UnitedKingdom}</td><td>${item.UnitedStates}</td><td>${item.Canada}</td><td>${item.Italy}</td><td>${item.Russia}</td>`;
+                        tableHtml += "</tr>";
+                    });
+
+                    tableHtml += "</tbody></table>";
+                    document.getElementById(containerId).innerHTML = tableHtml;
+                })
+                .catch(error => {
+                    console.error("JSONの読み込み中にエラーが発生しました:", error);
+                    document.getElementById(containerId).innerHTML = "<p>作成中</p>";
+                });
+        }
+
+        // ページロード時にJSONを読み込む
+        document.addEventListener("DOMContentLoaded", function() {
+            loadJSONAndDisplay("JSONTable/各国株価指数正規化.json", "tableContainer1"); // JSONファイルのパスを指定
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>このサイトについて</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            color: #333;
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1 {
+            color: #0077cc;
+        }
+        .post-date {
+            font-size: 0.9em;
+            color: #888;
+        }
+        .content {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Blog</h1>
+        <p class="post-date">投稿日: 2024年11月22日</p>
+    </header>
+
+    <nav class="breadcrumb">
+        <a href="https://traril.github.io/WorldData/">INDEX</a> &gt; 
+        <span>YahooFinanceAPIで取得できる日本株の値について</span>
+    </nav>
+    
+    <main class="content">
+        <article>
+            <h2>YahooFinanceAPIで取得できる日本株の値について</h2>
+            <p>
+                YahooFinanceAPI (yAPI)で日本株の株価を取得していた際、数年前の株価の値が自分の取引の値と食い違うことに気づきました。<br>
+                HyperSBI2を使って5年分のデータを取得し、yAPIで取得するデータとの間で散布図を使うと次のようになりました。
+            </p>
+            
+            <p>
+                <img src="Figure\記事1_1.png" alt="HyperSBI2とyAPIの散布図" style="width: 50%;">
+            </p>
+            
+            <p>
+                どうやら配当金の繰り込みの処理の際に齟齬が生じているらしいです。配当金の分だけyAPIのValueに補正を行うと次のようになりました。
+            </p>
+            
+            <p>
+                <img src="Figure\記事1_2.png" alt="補正後の散布図" style="width: 50%;">
+            </p>
+            
+            <p>
+                結果、ほぼy=xの直線上に乗るようになったものの、まだ少しずれています。この原因としては、以下のようなことが考えられます。
+            </p>
+            
+            <ul>
+                <li>yAPIのデータの丸め処理</li>
+            </ul>
+            
+            <p>
+                ただし、それ以外の理由で生じる齟齬もあるようです。今後、何か分かればブログで報告します。
+            </p>
+            
+            <p>
+                間違いのないデータが必要な場合には、HyperSBI2のデータを取得するか、あるいはjQuantsが良いかもしれません。
+            </p>
+
+        </article>
+    </main>
+    
+    <footer>
+        <p>著者: traril</p>
+        <p>&copy; 2024 WorldData</p>
+    </footer>
+</body>
+</html>
